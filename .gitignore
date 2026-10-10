@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+dist/
+dist-native/
+dist-verified/
+.env
+.env.*
+!.env.example
+*.log
+artifacts/
+data/statewide/kerala-osm.json
