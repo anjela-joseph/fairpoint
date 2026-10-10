@@ -5,9 +5,16 @@
     "version": "1.0.0",
     "orientation": "default",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "ios": { "supportsTablet": true },
-    "android": { "edgeToEdgeEnabled": true },
-    "web": { "bundler": "metro", "name": "Fair Meeting Point", "shortName": "Fairpoint" }
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "name": "Fair Meeting Point",
+      "shortName": "Fairpoint"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }

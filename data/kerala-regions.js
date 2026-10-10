@@ -38,7 +38,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "Padamugal,Kakkanad",
+        "address": "Padamugal, Kakkanad",
         "url": "https://www.openstreetmap.org/node/343709646"
       },
       {
@@ -63,7 +63,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:600348698",
-        "name": "Fort Immanuel,Fort Kochi",
+        "name": "Fort Immanuel, Fort Kochi",
         "lat": 9.9663159,
         "lon": 76.2390124,
         "categories": [
@@ -180,7 +180,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:600348749",
-        "name": "Vasco da Gama Square",
+        "name": "Vasco Da Gama Square",
         "lat": 9.9679554,
         "lon": 76.2424324,
         "categories": [],
@@ -501,7 +501,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:1474037185",
-        "name": "Rappai's Fast food",
+        "name": "Rappai's Fast Food",
         "lat": 10.0022843,
         "lon": 76.3056488,
         "categories": [
@@ -577,7 +577,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:1474038695",
-        "name": "Luciya's Food court",
+        "name": "Luciya's Food Court",
         "lat": 10.0043129,
         "lon": 76.3107128,
         "categories": [
@@ -1091,7 +1091,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:2391316075",
-        "name": "Shantilal Sweet store",
+        "name": "Shantilal Sweet Store",
         "lat": 9.9597213,
         "lon": 76.2552363,
         "categories": [
@@ -1167,7 +1167,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:2391403986",
-        "name": "Pai's Cool bar",
+        "name": "Pai's Cool Bar",
         "lat": 9.957678,
         "lon": 76.2514048,
         "categories": [
@@ -1429,7 +1429,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "Kochi,",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/node/3287343272"
       },
       {
@@ -1453,7 +1453,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:3752698719",
-        "name": "Chavara kuriakose",
+        "name": "Chavara Kuriakose",
         "lat": 10.0996233,
         "lon": 76.2656423,
         "categories": [
@@ -1510,7 +1510,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:3846964153",
-        "name": "hotel",
+        "name": "Hotel",
         "lat": 10.0787776,
         "lon": 76.3377926,
         "categories": [
@@ -1586,7 +1586,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4107620114",
-        "name": "Burger spot",
+        "name": "Burger Spot",
         "lat": 10.0464543,
         "lon": 76.3214678,
         "categories": [
@@ -1605,7 +1605,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4193564604",
-        "name": "B for Biryani Kochi.",
+        "name": "B for Biryani Kochi",
         "lat": 9.9628396,
         "lon": 76.2546907,
         "categories": [
@@ -1774,7 +1774,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4351717232",
-        "name": "Nair's puttum paripum",
+        "name": "Nair's Puttum Paripum",
         "lat": 10.0853528,
         "lon": 76.2343336,
         "categories": [
@@ -1850,7 +1850,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4426150080",
-        "name": "Anandhas veg",
+        "name": "Anandhas Veg",
         "lat": 10.0259841,
         "lon": 76.3064321,
         "categories": [
@@ -1965,7 +1965,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4534538890",
-        "name": "Pappada vada",
+        "name": "Pappada Vada",
         "lat": 9.9942364,
         "lon": 76.2924487,
         "categories": [
@@ -2041,7 +2041,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4582215689",
-        "name": "CINEPLUS CINEMAS",
+        "name": "Cineplus Cinemas",
         "lat": 10.0415947,
         "lon": 76.3154443,
         "categories": [
@@ -2193,7 +2193,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4634472689",
-        "name": "Galley 'c' seven",
+        "name": "Galley 'C' Seven",
         "lat": 9.9572586,
         "lon": 76.2596279,
         "categories": [],
@@ -2517,7 +2517,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4721725295",
-        "name": "Oys cafe",
+        "name": "Oys Cafe",
         "lat": 9.9665566,
         "lon": 76.2428351,
         "categories": [
@@ -2536,7 +2536,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4729063047",
-        "name": "theeram restuarent",
+        "name": "Theeram Restuarent",
         "lat": 10.0893099,
         "lon": 76.2085081,
         "categories": [
@@ -2805,7 +2805,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4808923123",
-        "name": "OED gallery",
+        "name": "OED Gallery",
         "lat": 9.9622072,
         "lon": 76.2579781,
         "categories": [],
@@ -2843,7 +2843,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4832843521",
-        "name": "dosa and pancakes",
+        "name": "Dosa and Pancakes",
         "lat": 9.9687342,
         "lon": 76.2499043,
         "categories": [
@@ -3320,7 +3320,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5261850990",
-        "name": "Ani's tea stall",
+        "name": "Ani's Tea Stall",
         "lat": 9.9619121,
         "lon": 76.2429069,
         "categories": [
@@ -3717,7 +3717,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5572435341",
-        "name": "Village restaurant",
+        "name": "Village Restaurant",
         "lat": 10.0570304,
         "lon": 76.2914455,
         "categories": [
@@ -3736,7 +3736,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5581987921",
-        "name": "Spot on the rocks",
+        "name": "Spot on the Rocks",
         "lat": 9.9173243,
         "lon": 76.2850335,
         "categories": [],
@@ -4020,7 +4020,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6070437185",
-        "name": "kashi",
+        "name": "Kashi",
         "lat": 9.9639999,
         "lon": 76.2445652,
         "categories": [
@@ -4039,7 +4039,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6073211086",
-        "name": "fusion bas",
+        "name": "Fusion Bas",
         "lat": 9.9629586,
         "lon": 76.2438343,
         "categories": [
@@ -4058,7 +4058,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6073211286",
-        "name": "fusion bay",
+        "name": "Fusion Bay",
         "lat": 9.9629312,
         "lon": 76.2445241,
         "categories": [
@@ -4428,7 +4428,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "Fort Cochin.",
+        "address": "Fort Cochin",
         "url": "https://www.openstreetmap.org/node/6507404176"
       },
       {
@@ -4452,7 +4452,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6555853297",
-        "name": "Cherupushpam statue",
+        "name": "Cherupushpam Statue",
         "lat": 9.9128442,
         "lon": 76.2923631,
         "categories": [],
@@ -4543,7 +4543,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6555853317",
-        "name": "St.Marys chapel",
+        "name": "St. Marys Chapel",
         "lat": 9.9159535,
         "lon": 76.2909634,
         "categories": [
@@ -4562,7 +4562,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6575141211",
-        "name": "Rajarajesweri devi shrine",
+        "name": "Rajarajesweri Devi Shrine",
         "lat": 9.9109366,
         "lon": 76.2930635,
         "categories": [
@@ -4581,7 +4581,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6575187630",
-        "name": "Bhadrakali Devi shrine",
+        "name": "Bhadrakali Devi Shrine",
         "lat": 9.9141093,
         "lon": 76.289099,
         "categories": [
@@ -4600,7 +4600,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6604419480",
-        "name": "Kevin the minionn",
+        "name": "Kevin the Minionn",
         "lat": 9.9146233,
         "lon": 76.2945312,
         "categories": [],
@@ -4617,7 +4617,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6604419481",
-        "name": "Bob the minion",
+        "name": "Bob the Minion",
         "lat": 9.9147285,
         "lon": 76.2945073,
         "categories": [],
@@ -4634,7 +4634,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6627034825",
-        "name": "St. jacob chapel",
+        "name": "St. Jacob Chapel",
         "lat": 9.9086534,
         "lon": 76.2892045,
         "categories": [
@@ -4879,7 +4879,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6895263285",
-        "name": "Ambili nagar pier",
+        "name": "Ambili Nagar Pier",
         "lat": 9.9471041,
         "lon": 76.3384957,
         "categories": [
@@ -4893,7 +4893,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "kochi",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/node/6895263285"
       },
       {
@@ -4994,7 +4994,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6926329127",
-        "name": "Pandari's biriyani",
+        "name": "Pandari's Biriyani",
         "lat": 9.9780984,
         "lon": 76.2831878,
         "categories": [
@@ -5013,7 +5013,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6936500983",
-        "name": "Sharma restaurent",
+        "name": "Sharma Restaurent",
         "lat": 9.9793168,
         "lon": 76.2787691,
         "categories": [
@@ -5032,7 +5032,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6936604762",
-        "name": "Mes building",
+        "name": "Mes Building",
         "lat": 9.9923267,
         "lon": 76.2898491,
         "categories": [
@@ -5089,7 +5089,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6952110817",
-        "name": "Mehra foods",
+        "name": "Mehra Foods",
         "lat": 10.0799248,
         "lon": 76.2103701,
         "categories": [
@@ -5108,7 +5108,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6959382026",
-        "name": "Oyalo pizza",
+        "name": "Oyalo Pizza",
         "lat": 9.9813725,
         "lon": 76.2843179,
         "categories": [
@@ -5127,7 +5127,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6959399539",
-        "name": "Coffee beanz Traditionz",
+        "name": "Coffee Beanz Traditionz",
         "lat": 9.9812968,
         "lon": 76.2845507,
         "categories": [
@@ -5203,7 +5203,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6975631048",
-        "name": "Edappaly rakhavan memmorial Park",
+        "name": "Edappaly Rakhavan Memmorial Park",
         "lat": 10.0325479,
         "lon": 76.2998815,
         "categories": [
@@ -5222,7 +5222,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6990105249",
-        "name": "The taapioca",
+        "name": "The Taapioca",
         "lat": 10.0047414,
         "lon": 76.2878605,
         "categories": [
@@ -5488,7 +5488,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7199419185",
-        "name": "Dhanalakshmi coffee shop",
+        "name": "Dhanalakshmi Coffee Shop",
         "lat": 9.9846854,
         "lon": 76.2762651,
         "categories": [
@@ -5507,7 +5507,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7199571385",
-        "name": "Chak dhe",
+        "name": "Chak Dhe",
         "lat": 9.9781699,
         "lon": 76.2832086,
         "categories": [
@@ -5659,7 +5659,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7227168104",
-        "name": "Sreekrishna bhavan Veg",
+        "name": "Sreekrishna Bhavan Veg",
         "lat": 9.945326,
         "lon": 76.3448411,
         "categories": [
@@ -5831,7 +5831,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7274141664",
-        "name": "indian cuisine",
+        "name": "Indian Cuisine",
         "lat": 10.0183982,
         "lon": 76.3680366,
         "categories": [
@@ -5850,7 +5850,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7274208459",
-        "name": "occasion",
+        "name": "Occasion",
         "lat": 10.0268915,
         "lon": 76.3694728,
         "categories": [
@@ -5869,7 +5869,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7274219396",
-        "name": "kadambrayar",
+        "name": "Kadambrayar",
         "lat": 10.0299737,
         "lon": 76.3846658,
         "categories": [
@@ -5964,7 +5964,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7321885759",
-        "name": "Sunrise Food Parcel store",
+        "name": "Sunrise Food Parcel Store",
         "lat": 9.9040127,
         "lon": 76.3935587,
         "categories": [
@@ -6002,7 +6002,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7322083353",
-        "name": "ENNAM Aquare",
+        "name": "Ennam Aquare",
         "lat": 9.9519123,
         "lon": 76.3921859,
         "categories": [
@@ -6040,7 +6040,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7330976175",
-        "name": "SREE MURUGA CAFE",
+        "name": "Sree Muruga Cafe",
         "lat": 9.9098757,
         "lon": 76.3616667,
         "categories": [
@@ -6116,7 +6116,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7335071389",
-        "name": "just fish",
+        "name": "Just Fish",
         "lat": 10.0716843,
         "lon": 76.3324151,
         "categories": [
@@ -6135,7 +6135,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7335071399",
-        "name": "kairali foods",
+        "name": "Kairali Foods",
         "lat": 10.0466055,
         "lon": 76.3128028,
         "categories": [
@@ -6154,7 +6154,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7335071404",
-        "name": "vanitha vineetha cineplex",
+        "name": "Vanitha Vineetha Cineplex",
         "lat": 10.0383336,
         "lon": 76.3063333,
         "categories": [
@@ -6344,7 +6344,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7462893787",
-        "name": "LAKSHMI BHAVAN RESTAURANT",
+        "name": "Lakshmi Bhavan Restaurant",
         "lat": 9.9324299,
         "lon": 76.3912307,
         "categories": [
@@ -6401,7 +6401,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7462954511",
-        "name": "santhosh coolbar",
+        "name": "Santhosh Coolbar",
         "lat": 9.9334103,
         "lon": 76.3830165,
         "categories": [
@@ -6496,7 +6496,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7464581970",
-        "name": "SFC PLUS",
+        "name": "SFC Plus",
         "lat": 9.9966554,
         "lon": 76.3517309,
         "categories": [
@@ -6667,7 +6667,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7466544912",
-        "name": "ZAM ZAM COOL BAR",
+        "name": "Zam Zam Cool Bar",
         "lat": 9.9199059,
         "lon": 76.2743759,
         "categories": [
@@ -6776,7 +6776,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ernakulam",
+        "address": "Ernakulam",
         "url": "https://www.openstreetmap.org/node/7467810871"
       },
       {
@@ -6814,7 +6814,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "KOCHI",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/node/7467810877"
       },
       {
@@ -6838,7 +6838,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7467839967",
-        "name": "Kerala state Wear House",
+        "name": "Kerala State Wear House",
         "lat": 9.9548874,
         "lon": 76.3507156,
         "categories": [
@@ -6895,7 +6895,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7467895994",
-        "name": "NOSH HAUS",
+        "name": "Nosh Haus",
         "lat": 10.0889579,
         "lon": 76.3435152,
         "categories": [
@@ -7463,7 +7463,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7471881992",
-        "name": "Sidra food court",
+        "name": "Sidra Food Court",
         "lat": 9.9646473,
         "lon": 76.3001926,
         "categories": [
@@ -7577,7 +7577,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7472799223",
-        "name": "ajwa hotel",
+        "name": "Ajwa Hotel",
         "lat": 10.0330297,
         "lon": 76.3251717,
         "categories": [
@@ -7615,7 +7615,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7473040454",
-        "name": "Cafe point",
+        "name": "Cafe Point",
         "lat": 10.0330946,
         "lon": 76.3251771,
         "categories": [
@@ -7634,7 +7634,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7473059271",
-        "name": "Fathima hotel",
+        "name": "Fathima Hotel",
         "lat": 10.0281426,
         "lon": 76.3261574,
         "categories": [
@@ -7653,7 +7653,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7473524085",
-        "name": "choice park",
+        "name": "Choice Park",
         "lat": 10.0078445,
         "lon": 76.2882392,
         "categories": [
@@ -8261,7 +8261,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7489981730",
-        "name": "Slow food",
+        "name": "Slow Food",
         "lat": 10.0466448,
         "lon": 76.3940366,
         "categories": [
@@ -8318,7 +8318,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7491759703",
-        "name": "Fr.John Vincent OCD",
+        "name": "Fr. John Vincent OCD",
         "lat": 10.0013407,
         "lon": 76.2775088,
         "categories": [],
@@ -8349,7 +8349,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "pachalam",
+        "address": "Pachalam",
         "url": "https://www.openstreetmap.org/node/7491835814"
       },
       {
@@ -8368,7 +8368,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "pachalam",
+        "address": "Pachalam",
         "url": "https://www.openstreetmap.org/node/7491835821"
       },
       {
@@ -8734,7 +8734,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7492238874",
-        "name": "Naadan Bhakshana Shala(Homely Food)",
+        "name": "Naadan Bhakshana Shala (Homely Food)",
         "lat": 10.0714151,
         "lon": 76.3817276,
         "categories": [
@@ -8772,7 +8772,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7492238924",
-        "name": "Mariya complex",
+        "name": "Mariya Complex",
         "lat": 10.0806301,
         "lon": 76.3750978,
         "categories": [
@@ -8848,7 +8848,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7492522598",
-        "name": "rr cofee shope",
+        "name": "Rr Cofee Shope",
         "lat": 10.0328149,
         "lon": 76.3118074,
         "categories": [
@@ -8862,7 +8862,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "aluva",
+        "address": "Aluva",
         "url": "https://www.openstreetmap.org/node/7492522598"
       },
       {
@@ -9036,7 +9036,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7496688089",
-        "name": "Pee cee bake",
+        "name": "Pee Cee Bake",
         "lat": 10.0856495,
         "lon": 76.3754485,
         "categories": [
@@ -9055,7 +9055,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7496688091",
-        "name": "peecee bakers",
+        "name": "Peecee Bakers",
         "lat": 10.0856633,
         "lon": 76.3755489,
         "categories": [
@@ -9074,7 +9074,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7496688108",
-        "name": "Pathanayath foods",
+        "name": "Pathanayath Foods",
         "lat": 10.0857506,
         "lon": 76.3805628,
         "categories": [
@@ -9093,7 +9093,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7496688125",
-        "name": "Joys hotel chunangamvely",
+        "name": "Joys Hotel Chunangamvely",
         "lat": 10.0870055,
         "lon": 76.3827856,
         "categories": [
@@ -9241,7 +9241,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7500481967",
-        "name": "fathimas hotel",
+        "name": "Fathimas Hotel",
         "lat": 9.9465712,
         "lon": 76.2558044,
         "categories": [
@@ -9260,7 +9260,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7500481971",
-        "name": "Arafa hotel",
+        "name": "Arafa Hotel",
         "lat": 9.9473887,
         "lon": 76.2560028,
         "categories": [
@@ -9393,7 +9393,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498114",
-        "name": "Poori shop veg hotel",
+        "name": "Poori Shop Veg Hotel",
         "lat": 10.0057378,
         "lon": 76.345675,
         "categories": [
@@ -9412,7 +9412,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498181",
-        "name": "Diwans durbar kakkanad",
+        "name": "Diwans Durbar Kakkanad",
         "lat": 10.0162692,
         "lon": 76.3437666,
         "categories": [
@@ -9469,7 +9469,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498239",
-        "name": "Seetha devi juice parlour and bakery",
+        "name": "Seetha Devi Juice Parlour and Bakery",
         "lat": 10.016704,
         "lon": 76.3446221,
         "categories": [
@@ -9488,7 +9488,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498249",
-        "name": "zero time",
+        "name": "Zero Time",
         "lat": 10.0597039,
         "lon": 76.2900966,
         "categories": [
@@ -9526,7 +9526,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498319",
-        "name": "Arabian paradise",
+        "name": "Arabian Paradise",
         "lat": 10.0510117,
         "lon": 76.2936291,
         "categories": [
@@ -9545,7 +9545,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498368",
-        "name": "Village restaurant",
+        "name": "Village Restaurant",
         "lat": 10.0573269,
         "lon": 76.291354,
         "categories": [
@@ -9564,7 +9564,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498377",
-        "name": "lic of India, satellite office",
+        "name": "LIC of India, Satellite Office",
         "lat": 10.0134554,
         "lon": 76.3426747,
         "categories": [
@@ -9583,7 +9583,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498406",
-        "name": "subway takeway delivery",
+        "name": "Subway Takeway Delivery",
         "lat": 10.0154295,
         "lon": 76.3416642,
         "categories": [
@@ -9602,7 +9602,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498426",
-        "name": "Sulaimani bakers and food court",
+        "name": "Sulaimani Bakers and Food Court",
         "lat": 10.0166321,
         "lon": 76.3444988,
         "categories": [
@@ -9621,7 +9621,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498519",
-        "name": "Naruneendi sarbath shoo",
+        "name": "Naruneendi Sarbath Shoo",
         "lat": 10.0160261,
         "lon": 76.342962,
         "categories": [
@@ -9640,7 +9640,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503498580",
-        "name": "Anvita arcade",
+        "name": "Anvita Arcade",
         "lat": 10.01597,
         "lon": 76.3453456,
         "categories": [
@@ -9659,7 +9659,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7503809466",
-        "name": "dessi cuppa",
+        "name": "Dessi Cuppa",
         "lat": 10.0088203,
         "lon": 76.3435638,
         "categories": [
@@ -9904,7 +9904,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7523076308",
-        "name": "AIMS Juice Parlor",
+        "name": "Aims Juice Parlor",
         "lat": 10.0334738,
         "lon": 76.294447,
         "categories": [
@@ -10205,7 +10205,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7635283790",
-        "name": "Vibe hot and cool",
+        "name": "Vibe Hot and Cool",
         "lat": 9.9788017,
         "lon": 76.2777962,
         "categories": [
@@ -10224,7 +10224,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7635283791",
-        "name": "Dhiya cool",
+        "name": "Dhiya Cool",
         "lat": 9.9786194,
         "lon": 76.2777254,
         "categories": [
@@ -10414,7 +10414,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7925564114",
-        "name": "NUALS Aminity Centre",
+        "name": "Nuals Aminity Centre",
         "lat": 10.0594679,
         "lon": 76.3610424,
         "categories": [
@@ -10528,7 +10528,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8018758745",
-        "name": "Coffe shop",
+        "name": "Coffe Shop",
         "lat": 10.0218027,
         "lon": 76.3378826,
         "categories": [
@@ -10547,7 +10547,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8025440504",
-        "name": "MSK Fruits & Juice shop",
+        "name": "MSK Fruits & Juice Shop",
         "lat": 10.048936,
         "lon": 76.318726,
         "categories": [
@@ -10642,7 +10642,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8329535554",
-        "name": "loyel bakers",
+        "name": "Loyel Bakers",
         "lat": 9.9548009,
         "lon": 76.327456,
         "categories": [
@@ -10656,12 +10656,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ernakulam",
+        "address": "Ernakulam",
         "url": "https://www.openstreetmap.org/node/8329535554"
       },
       {
         "id": "osm:node:8360477262",
-        "name": "Suniyude chaaya kada",
+        "name": "Suniyude Chaaya Kada",
         "lat": 9.9591526,
         "lon": 76.3672018,
         "categories": [
@@ -10699,7 +10699,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8399926701",
-        "name": "Cocoa cafe",
+        "name": "Cocoa Cafe",
         "lat": 9.9885545,
         "lon": 76.3154605,
         "categories": [
@@ -10718,7 +10718,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8399931965",
-        "name": "Kasaekode karante kada",
+        "name": "Kasaekode Karante Kada",
         "lat": 9.9916631,
         "lon": 76.3209065,
         "categories": [
@@ -10852,7 +10852,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8512683719",
-        "name": "frutiya bakery and coolbar",
+        "name": "Frutiya Bakery and Coolbar",
         "lat": 9.9478494,
         "lon": 76.2560734,
         "categories": [
@@ -10890,7 +10890,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8548118097",
-        "name": "Ashoka shrine",
+        "name": "Ashoka Shrine",
         "lat": 10.0898403,
         "lon": 76.3622402,
         "categories": [
@@ -10928,7 +10928,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8567380306",
-        "name": "chemmeen kettu",
+        "name": "Chemmeen Kettu",
         "lat": 10.0570502,
         "lon": 76.2521803,
         "categories": [],
@@ -11039,7 +11039,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8686484260",
-        "name": "Hom Food court",
+        "name": "Hom Food Court",
         "lat": 9.9819409,
         "lon": 76.2411566,
         "categories": [
@@ -11077,7 +11077,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8721837598",
-        "name": "District 7 Restro cafe",
+        "name": "District 7 Restro Cafe",
         "lat": 9.9639478,
         "lon": 76.3181381,
         "categories": [
@@ -11229,7 +11229,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8831660301",
-        "name": "liberty cafe",
+        "name": "Liberty Cafe",
         "lat": 9.9820111,
         "lon": 76.2983993,
         "categories": [
@@ -11248,7 +11248,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8831925917",
-        "name": "cool cafe",
+        "name": "Cool Cafe",
         "lat": 9.9329377,
         "lon": 76.3540654,
         "categories": [
@@ -11267,7 +11267,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8832616979",
-        "name": "EAST HUT",
+        "name": "East Hut",
         "lat": 9.9467831,
         "lon": 76.394475,
         "categories": [
@@ -11495,7 +11495,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8867627733",
-        "name": "cafe al arab",
+        "name": "Cafe Al Arab",
         "lat": 9.9371572,
         "lon": 76.2609312,
         "categories": [
@@ -11514,7 +11514,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8869549136",
-        "name": "Garden space",
+        "name": "Garden Space",
         "lat": 9.9450103,
         "lon": 76.259249,
         "categories": [
@@ -11704,7 +11704,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9003532408",
-        "name": "samruthi",
+        "name": "Samruthi",
         "lat": 10.0904995,
         "lon": 76.2760028,
         "categories": [
@@ -11718,7 +11718,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "alangad, ernakulam",
+        "address": "Alangad, Ernakulam",
         "url": "https://www.openstreetmap.org/node/9003532408"
       },
       {
@@ -11780,7 +11780,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9113615330",
-        "name": "down hill cafe",
+        "name": "Down Hill Cafe",
         "lat": 10.0523348,
         "lon": 76.3307877,
         "categories": [
@@ -11856,7 +11856,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9168707818",
-        "name": "The Great Marina mall",
+        "name": "The Great Marina Mall",
         "lat": 9.9356569,
         "lon": 76.2639958,
         "categories": [
@@ -11875,7 +11875,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9168733017",
-        "name": "The Great marina mall",
+        "name": "The Great Marina Mall",
         "lat": 9.9356914,
         "lon": 76.2640741,
         "categories": [
@@ -11913,7 +11913,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9181817145",
-        "name": "grill & chill",
+        "name": "Grill & Chill",
         "lat": 10.0014283,
         "lon": 76.2794479,
         "categories": [
@@ -11932,7 +11932,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9181825149",
-        "name": "vaishali",
+        "name": "Vaishali",
         "lat": 10.0062859,
         "lon": 76.2785672,
         "categories": [
@@ -11970,7 +11970,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9241253174",
-        "name": "BRU cafe kmea",
+        "name": "BRU Cafe Kmea",
         "lat": 10.0538713,
         "lon": 76.3797578,
         "categories": [
@@ -11989,7 +11989,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9242825605",
-        "name": "kmea view point",
+        "name": "Kmea View Point",
         "lat": 10.0530412,
         "lon": 76.3791173,
         "categories": [
@@ -12008,7 +12008,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9242905429",
-        "name": "kmea canteen",
+        "name": "Kmea Canteen",
         "lat": 10.0527776,
         "lon": 76.380325,
         "categories": [
@@ -12103,7 +12103,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9482980035",
-        "name": "GRILL TOWN KOCHI",
+        "name": "Grill Town Kochi",
         "lat": 10.0124665,
         "lon": 76.2920423,
         "categories": [
@@ -12484,7 +12484,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9899651217",
-        "name": "Tasteak broast",
+        "name": "Tasteak Broast",
         "lat": 10.0134796,
         "lon": 76.357167,
         "categories": [
@@ -12579,7 +12579,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10081441150",
-        "name": "Soofi mandi",
+        "name": "Soofi Mandi",
         "lat": 10.0709425,
         "lon": 76.3325308,
         "categories": [
@@ -12656,7 +12656,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10575927708",
-        "name": "Cafe Canopy by ABAD",
+        "name": "Cafe Canopy by Abad",
         "lat": 9.9784957,
         "lon": 76.283358,
         "categories": [
@@ -12801,7 +12801,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "Kakkanad,Aluva,Ernakulam",
+        "address": "Kakkanad, Aluva, Ernakulam",
         "url": "https://www.openstreetmap.org/node/10699375873"
       },
       {
@@ -12844,7 +12844,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10758283048",
-        "name": "St john Park",
+        "name": "St John Park",
         "lat": 9.9447984,
         "lon": 76.2449348,
         "categories": [
@@ -12863,7 +12863,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10758664348",
-        "name": "GCDA Park Vaduthala",
+        "name": "Gcda Park Vaduthala",
         "lat": 10.0213095,
         "lon": 76.2699782,
         "categories": [
@@ -13680,7 +13680,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11116183526",
-        "name": "nakshatra",
+        "name": "Nakshatra",
         "lat": 10.0010551,
         "lon": 76.3609218,
         "categories": [
@@ -13737,7 +13737,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11116193801",
-        "name": "Kolam La cuisine",
+        "name": "Kolam La Cuisine",
         "lat": 10.0010562,
         "lon": 76.3605293,
         "categories": [
@@ -13851,7 +13851,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11116244839",
-        "name": "the Teapot Cafe",
+        "name": "The Teapot Cafe",
         "lat": 10.0012194,
         "lon": 76.3595687,
         "categories": [
@@ -14022,7 +14022,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11116615183",
-        "name": "Tea time",
+        "name": "Tea Time",
         "lat": 9.9969128,
         "lon": 76.3608171,
         "categories": [
@@ -14098,7 +14098,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11117204749",
-        "name": "Day and Light cafe",
+        "name": "Day and Light Cafe",
         "lat": 10.0075397,
         "lon": 76.3557757,
         "categories": [
@@ -14930,7 +14930,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11155534898",
-        "name": "Reliance Smart Point;Wild Buff's Coffee",
+        "name": "Reliance Smart Point; Wild Buff's Coffee",
         "lat": 10.0162233,
         "lon": 76.3583386,
         "categories": [
@@ -14987,7 +14987,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11155549698",
-        "name": "Median 90 degrees east (M90 Eatery)",
+        "name": "Median 90 Degrees East (M90 Eatery)",
         "lat": 10.0161457,
         "lon": 76.3588259,
         "categories": [
@@ -15006,7 +15006,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11155549894",
-        "name": "Caravan Ice-cream café",
+        "name": "Caravan Ice-cream Café",
         "lat": 10.0158993,
         "lon": 76.3621678,
         "categories": [
@@ -15120,7 +15120,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11155577624",
-        "name": "Chaiye express",
+        "name": "Chaiye Express",
         "lat": 10.0155397,
         "lon": 76.3652236,
         "categories": [
@@ -15139,7 +15139,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11155593496",
-        "name": "Grand  Vettekkad Restaurant",
+        "name": "Grand Vettekkad Restaurant",
         "lat": 10.0156128,
         "lon": 76.3663286,
         "categories": [
@@ -17115,7 +17115,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11347248275",
-        "name": "pitaworks",
+        "name": "Pitaworks",
         "lat": 10.0142466,
         "lon": 76.3339119,
         "categories": [
@@ -17248,7 +17248,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11392061840",
-        "name": "kalisto cafe",
+        "name": "Kalisto Cafe",
         "lat": 10.0040177,
         "lon": 76.2895339,
         "categories": [
@@ -17533,7 +17533,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11519316839",
-        "name": "Pepper boat",
+        "name": "Pepper Boat",
         "lat": 10.005537,
         "lon": 76.3136009,
         "categories": [
@@ -17609,7 +17609,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11634668969",
-        "name": "Loving Earth Yoga Cafe vegan",
+        "name": "Loving Earth Yoga Cafe Vegan",
         "lat": 9.9638506,
         "lon": 76.2390847,
         "categories": [
@@ -19524,7 +19524,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12254727149",
-        "name": "BOBO",
+        "name": "Bobo",
         "lat": 9.963224,
         "lon": 76.2420792,
         "categories": [
@@ -19714,7 +19714,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12375815726",
-        "name": "Sakura Komichi - Japanese restaurant",
+        "name": "Sakura Komichi - Japanese Restaurant",
         "lat": 10.0307045,
         "lon": 76.3715669,
         "categories": [
@@ -20548,7 +20548,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12596571126",
-        "name": "yeti momos",
+        "name": "Yeti Momos",
         "lat": 10.0431089,
         "lon": 76.3541791,
         "categories": [
@@ -20605,7 +20605,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12596708844",
-        "name": "cake hut",
+        "name": "Cake Hut",
         "lat": 10.0147644,
         "lon": 76.3344918,
         "categories": [
@@ -20759,7 +20759,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12730728551",
-        "name": "Waiting space cafe",
+        "name": "Waiting Space Cafe",
         "lat": 10.0876356,
         "lon": 76.3881681,
         "categories": [
@@ -20778,7 +20778,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12741821711",
-        "name": "Champakkara nights",
+        "name": "Champakkara Nights",
         "lat": 9.9549424,
         "lon": 76.3163562,
         "categories": [
@@ -20797,7 +20797,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12750341543",
-        "name": "Space.",
+        "name": "Space",
         "lat": 9.969972,
         "lon": 76.3200262,
         "categories": [
@@ -21387,7 +21387,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13326134986",
-        "name": "BOBA LIVE",
+        "name": "Boba Live",
         "lat": 10.0156446,
         "lon": 76.3426596,
         "categories": [
@@ -21406,7 +21406,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13326221726",
-        "name": "Let's Dine River view - Multi Cuisine Seafood Restaurant",
+        "name": "Let's Dine River View - Multi Cuisine Seafood Restaurant",
         "lat": 9.9929409,
         "lon": 76.3531845,
         "categories": [
@@ -22511,7 +22511,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13432581449",
-        "name": "Los Angeles cafe",
+        "name": "Los Angeles Cafe",
         "lat": 9.968283,
         "lon": 76.2518949,
         "categories": [
@@ -22530,7 +22530,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13446144301",
-        "name": "Fres trees",
+        "name": "Fres Trees",
         "lat": 10.0228901,
         "lon": 76.3098484,
         "categories": [
@@ -22625,7 +22625,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13459492010",
-        "name": "good Kerala breakfast",
+        "name": "Good Kerala Breakfast",
         "lat": 9.9674643,
         "lon": 76.2421688,
         "categories": [
@@ -22644,7 +22644,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13469521498",
-        "name": "Indian chamber of commerce & industry",
+        "name": "Indian Chamber of Commerce & Industry",
         "lat": 9.9613239,
         "lon": 76.2560897,
         "categories": [
@@ -22682,7 +22682,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13514015166",
-        "name": "KSUM amphitheatre",
+        "name": "Ksum Amphitheatre",
         "lat": 10.0556823,
         "lon": 76.3540888,
         "categories": [
@@ -22815,7 +22815,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13568807319",
-        "name": "Chaatt junction",
+        "name": "Chaatt Junction",
         "lat": 10.0173814,
         "lon": 76.3696563,
         "categories": [
@@ -22872,7 +22872,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13601132676",
-        "name": "Lilly's restaurant",
+        "name": "Lilly's Restaurant",
         "lat": 9.9690953,
         "lon": 76.2937084,
         "categories": [
@@ -22910,7 +22910,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13603150295",
-        "name": "Mas food court",
+        "name": "Mas Food Court",
         "lat": 10.067586,
         "lon": 76.2126196,
         "categories": [
@@ -23043,7 +23043,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13737444801",
-        "name": "Chai hut",
+        "name": "Chai Hut",
         "lat": 10.0079813,
         "lon": 76.3649063,
         "categories": [
@@ -23062,7 +23062,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13743845799",
-        "name": "Able point. Shop run by differently abled",
+        "name": "Able Point. Shop Run by Differently Abled",
         "lat": 10.0179866,
         "lon": 76.3496851,
         "categories": [
@@ -23100,7 +23100,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13755225801",
-        "name": "stacked by wing culture",
+        "name": "Stacked by Wing Culture",
         "lat": 10.0145652,
         "lon": 76.3363753,
         "categories": [
@@ -23233,7 +23233,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13851688335",
-        "name": "Al waha mandi",
+        "name": "Al Waha Mandi",
         "lat": 10.0695704,
         "lon": 76.2122468,
         "categories": [
@@ -24071,7 +24071,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13999972888",
-        "name": "teju restaurant",
+        "name": "Teju Restaurant",
         "lat": 10.031923,
         "lon": 76.3240441,
         "categories": [
@@ -24586,7 +24586,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:14087970382",
-        "name": "Pravasi thattukada",
+        "name": "Pravasi Thattukada",
         "lat": 10.0765808,
         "lon": 76.211142,
         "categories": [
@@ -24814,7 +24814,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:14192244545",
-        "name": "Ammacis kitchen",
+        "name": "Ammacis Kitchen",
         "lat": 10.0050042,
         "lon": 76.2886849,
         "categories": [
@@ -24890,7 +24890,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:14247450593",
-        "name": "Lúdico - The board game cafe",
+        "name": "Lúdico - The Board Game Cafe",
         "lat": 10.0170496,
         "lon": 76.3588344,
         "categories": [
@@ -25057,7 +25057,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:53020351",
-        "name": "Palluruthy Azakiyakavu temple ground",
+        "name": "Palluruthy Azakiyakavu Temple Ground",
         "lat": 9.92704,
         "lon": 76.2706448,
         "categories": [
@@ -25187,7 +25187,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:230636068",
-        "name": "T. D. High School ground",
+        "name": "T. D. High School Ground",
         "lat": 9.9591943,
         "lon": 76.2526395,
         "categories": [
@@ -25206,7 +25206,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:230638152",
-        "name": "Sree Gujarathi Mahajan playground",
+        "name": "Sree Gujarathi Mahajan Playground",
         "lat": 9.9611004,
         "lon": 76.2547845,
         "categories": [
@@ -25371,7 +25371,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "kochi",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/way/335312283"
       },
       {
@@ -25395,7 +25395,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:380235390",
-        "name": "Old church",
+        "name": "Old Church",
         "lat": 10.0223517,
         "lon": 76.3056505,
         "categories": [
@@ -25483,12 +25483,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "north kalamassery",
+        "address": "North Kalamassery",
         "url": "https://www.openstreetmap.org/way/380396306"
       },
       {
         "id": "osm:way:381274143",
-        "name": "CSIS Childrens Science Park",
+        "name": "Csis Childrens Science Park",
         "lat": 10.0461893,
         "lon": 76.3278379,
         "categories": [
@@ -25545,7 +25545,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:381277790",
-        "name": "CUSAT Restaurant",
+        "name": "Cusat Restaurant",
         "lat": 10.0421945,
         "lon": 76.3285659,
         "categories": [
@@ -25615,7 +25615,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ernakulam",
+        "address": "Ernakulam",
         "url": "https://www.openstreetmap.org/way/408508495"
       },
       {
@@ -25639,7 +25639,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:408587010",
-        "name": "TAJ foodcourt",
+        "name": "TAJ Foodcourt",
         "lat": 9.9641788,
         "lon": 76.2459675,
         "categories": [
@@ -25677,7 +25677,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:409531324",
-        "name": "MAJLIS RESTUARENT",
+        "name": "Majlis Restuarent",
         "lat": 10.093007,
         "lon": 76.2069823,
         "categories": [
@@ -25729,7 +25729,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "kochi",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/way/410012435"
       },
       {
@@ -25849,7 +25849,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:493781392",
-        "name": "PNWA Park",
+        "name": "Pnwa Park",
         "lat": 9.9628859,
         "lon": 76.296383,
         "categories": [
@@ -25923,7 +25923,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:589504286",
-        "name": "Tirumala Devaswom High School,Mattanchery",
+        "name": "Tirumala Devaswom High School, Mattanchery",
         "lat": 9.9583469,
         "lon": 76.2519721,
         "categories": [
@@ -26019,7 +26019,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:619638347",
-        "name": "Mummy's Uduppi restaurant",
+        "name": "Mummy's Uduppi Restaurant",
         "lat": 9.9255875,
         "lon": 76.3559725,
         "categories": [
@@ -26399,7 +26399,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:690763463",
-        "name": "P.R Mathew park",
+        "name": "P.R Mathew Park",
         "lat": 9.9221788,
         "lon": 76.2640519,
         "categories": [
@@ -26413,7 +26413,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "KOCHI",
+        "address": "Kochi",
         "url": "https://www.openstreetmap.org/way/690763463"
       },
       {
@@ -26437,7 +26437,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:690904195",
-        "name": "Temple ground",
+        "name": "Temple Ground",
         "lat": 9.9242045,
         "lon": 76.2720463,
         "categories": [
@@ -26643,7 +26643,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:722976443",
-        "name": "TM Muhammed park",
+        "name": "TM Muhammed Park",
         "lat": 9.9655762,
         "lon": 76.2501946,
         "categories": [
@@ -26890,7 +26890,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:788988702",
-        "name": "GCDA Childrens Prk",
+        "name": "Gcda Childrens Prk",
         "lat": 9.9576815,
         "lon": 76.2968444,
         "categories": [
@@ -27004,7 +27004,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:795140265",
-        "name": "NOSH HAUS",
+        "name": "Nosh Haus",
         "lat": 10.0885885,
         "lon": 76.3433485,
         "categories": [
@@ -27042,7 +27042,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:797802925",
-        "name": "GCDA Shopping Complex",
+        "name": "Gcda Shopping Complex",
         "lat": 9.9627991,
         "lon": 76.2957465,
         "categories": [
@@ -27099,7 +27099,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:797933851",
-        "name": "city kitchen",
+        "name": "City Kitchen",
         "lat": 9.9390819,
         "lon": 76.3265307,
         "categories": [
@@ -27251,7 +27251,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:798301168",
-        "name": "ambady hotel",
+        "name": "Ambady Hotel",
         "lat": 9.9365331,
         "lon": 76.3170492,
         "categories": [
@@ -27270,7 +27270,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:798301303",
-        "name": "vanitha hotel",
+        "name": "Vanitha Hotel",
         "lat": 9.9365829,
         "lon": 76.3173525,
         "categories": [
@@ -27460,7 +27460,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:798761994",
-        "name": "kudampuli",
+        "name": "Kudampuli",
         "lat": 9.9391015,
         "lon": 76.3166217,
         "categories": [
@@ -27512,7 +27512,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRIPUNITHURA",
+        "address": "Thripunithura",
         "url": "https://www.openstreetmap.org/way/798822962"
       },
       {
@@ -27914,7 +27914,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:799423655",
-        "name": "Cafe d' Arabia",
+        "name": "Cafe D' Arabia",
         "lat": 10.0302988,
         "lon": 76.3049064,
         "categories": [
@@ -27971,7 +27971,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:799435736",
-        "name": "Ootupura live kitchen",
+        "name": "Ootupura Live Kitchen",
         "lat": 9.9148114,
         "lon": 76.3945776,
         "categories": [
@@ -28180,7 +28180,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:800032172",
-        "name": "DEJA VU Cafe",
+        "name": "Deja VU Cafe",
         "lat": 10.0100551,
         "lon": 76.2732853,
         "categories": [
@@ -28446,7 +28446,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:801557698",
-        "name": "nettoor post office",
+        "name": "Nettoor Post Office",
         "lat": 9.9262122,
         "lon": 76.3201536,
         "categories": [
@@ -28465,7 +28465,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802075881",
-        "name": "Onam Park mavelipuram",
+        "name": "Onam Park Mavelipuram",
         "lat": 10.0208319,
         "lon": 76.3425023,
         "categories": [
@@ -28522,7 +28522,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802119108",
-        "name": "DHL express(india) pvt",
+        "name": "DHL Express (India) Pvt",
         "lat": 9.9757077,
         "lon": 76.2864032,
         "categories": [
@@ -28541,7 +28541,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802122192",
-        "name": "M K trading company",
+        "name": "M K Trading Company",
         "lat": 9.9737551,
         "lon": 76.2876966,
         "categories": [
@@ -28560,7 +28560,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802122196",
-        "name": "Hotel Mohana vilas",
+        "name": "Hotel Mohana Vilas",
         "lat": 9.9737176,
         "lon": 76.2881546,
         "categories": [
@@ -28579,7 +28579,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802123094",
-        "name": "Funriders leisure & amusement pvt",
+        "name": "Funriders Leisure & Amusement Pvt",
         "lat": 9.9735197,
         "lon": 76.2869444,
         "categories": [
@@ -28617,7 +28617,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802382996",
-        "name": "Malasiya lodge",
+        "name": "Malasiya Lodge",
         "lat": 9.9771697,
         "lon": 76.287584,
         "categories": [
@@ -28693,7 +28693,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802859878",
-        "name": "pandari's biriyani",
+        "name": "Pandari's Biriyani",
         "lat": 9.9810823,
         "lon": 76.286982,
         "categories": [
@@ -28769,7 +28769,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802954510",
-        "name": "nadan oonum meen ruchiyum",
+        "name": "Nadan Oonum Meen Ruchiyum",
         "lat": 9.9812542,
         "lon": 76.2869415,
         "categories": [
@@ -28788,7 +28788,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:802954513",
-        "name": "oxy restaurant",
+        "name": "Oxy Restaurant",
         "lat": 9.9816944,
         "lon": 76.2870084,
         "categories": [
@@ -28940,7 +28940,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:820817267",
-        "name": "Juice stall & Tea shop",
+        "name": "Juice Stall & Tea Shop",
         "lat": 9.9958885,
         "lon": 76.3256054,
         "categories": [
@@ -29074,7 +29074,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:838367503",
-        "name": "Baba tea",
+        "name": "Baba Tea",
         "lat": 10.0493783,
         "lon": 76.3329994,
         "categories": [
@@ -29207,7 +29207,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:895819027",
-        "name": "butterfly park",
+        "name": "Butterfly Park",
         "lat": 10.0910167,
         "lon": 76.3581626,
         "categories": [
@@ -29226,7 +29226,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:895832162",
-        "name": "SAJITHA BAKERY",
+        "name": "Sajitha Bakery",
         "lat": 10.0110873,
         "lon": 76.2870553,
         "categories": [
@@ -29240,7 +29240,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ELAMAKKARA",
+        "address": "Elamakkara",
         "url": "https://www.openstreetmap.org/way/895832162"
       },
       {
@@ -29259,7 +29259,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ELAMAKKARA",
+        "address": "Elamakkara",
         "url": "https://www.openstreetmap.org/way/895834122"
       },
       {
@@ -29283,7 +29283,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:896603485",
-        "name": "choice bakers",
+        "name": "Choice Bakers",
         "lat": 9.9539634,
         "lon": 76.3264109,
         "categories": [
@@ -29297,7 +29297,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ernakulam",
+        "address": "Ernakulam",
         "url": "https://www.openstreetmap.org/way/896603485"
       },
       {
@@ -29321,7 +29321,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:900263097",
-        "name": "resturant",
+        "name": "Resturant",
         "lat": 9.9537808,
         "lon": 76.3255916,
         "categories": [
@@ -29335,7 +29335,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "ernakulam",
+        "address": "Ernakulam",
         "url": "https://www.openstreetmap.org/way/900263097"
       },
       {
@@ -29378,7 +29378,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:923258768",
-        "name": "restaurent",
+        "name": "Restaurent",
         "lat": 10.0635754,
         "lon": 76.2463942,
         "categories": [
@@ -29416,7 +29416,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:934718280",
-        "name": "xpress arabia",
+        "name": "Xpress Arabia",
         "lat": 10.0834309,
         "lon": 76.2093443,
         "categories": [
@@ -29492,7 +29492,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:948002971",
-        "name": "Residential park",
+        "name": "Residential Park",
         "lat": 9.9785324,
         "lon": 76.2929486,
         "categories": [
@@ -29511,7 +29511,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:948003910",
-        "name": "garden walkway park",
+        "name": "Garden Walkway Park",
         "lat": 9.9789412,
         "lon": 76.2936385,
         "categories": [
@@ -29663,7 +29663,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:958345516",
-        "name": "Ammypot (woodys brook)",
+        "name": "Ammypot (Woodys Brook)",
         "lat": 9.9997302,
         "lon": 76.3030943,
         "categories": [
@@ -29739,7 +29739,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:984228144",
-        "name": "cafeteria rajagiri",
+        "name": "Cafeteria Rajagiri",
         "lat": 10.052733,
         "lon": 76.3145602,
         "categories": [
@@ -29758,7 +29758,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:984228145",
-        "name": "Rajagiri lp park",
+        "name": "Rajagiri LP Park",
         "lat": 10.0540104,
         "lon": 76.3160569,
         "categories": [
@@ -29815,7 +29815,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:993818092",
-        "name": "Grill & chill",
+        "name": "Grill & Chill",
         "lat": 10.0014379,
         "lon": 76.2794533,
         "categories": [
@@ -29853,7 +29853,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1001369940",
-        "name": "KMEA CANTEEN",
+        "name": "Kmea Canteen",
         "lat": 10.0528247,
         "lon": 76.3803061,
         "categories": [
@@ -29891,7 +29891,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1017121441",
-        "name": "Thanneerchal park",
+        "name": "Thanneerchal Park",
         "lat": 9.9582312,
         "lon": 76.3604502,
         "categories": [
@@ -30043,7 +30043,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1115746665",
-        "name": "basket ball court",
+        "name": "Basket Ball Court",
         "lat": 9.9301111,
         "lon": 76.2558,
         "categories": [
@@ -30081,7 +30081,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1117399766",
-        "name": "MEC park",
+        "name": "MEC Park",
         "lat": 9.9296877,
         "lon": 76.3871657,
         "categories": [
@@ -30178,7 +30178,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1172218643",
-        "name": "Aryaas hotel",
+        "name": "Aryaas Hotel",
         "lat": 9.9427374,
         "lon": 76.346332,
         "categories": [
@@ -30287,7 +30287,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "Kakkanad,Aluva,Ernakulam",
+        "address": "Kakkanad, Aluva, Ernakulam",
         "url": "https://www.openstreetmap.org/way/1188771591"
       },
       {
@@ -30575,7 +30575,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1216765399",
-        "name": "Uncle's restaurant",
+        "name": "Uncle's Restaurant",
         "lat": 9.9652134,
         "lon": 76.2437356,
         "categories": [
@@ -30651,7 +30651,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1217283285",
-        "name": "Kiosk CUSAT",
+        "name": "Kiosk Cusat",
         "lat": 9.9643602,
         "lon": 76.2827008,
         "categories": [
@@ -30822,7 +30822,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1255176955",
-        "name": "DESSI CUPPA",
+        "name": "Dessi Cuppa",
         "lat": 10.0466494,
         "lon": 76.3216389,
         "categories": [
@@ -30917,7 +30917,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1260468270",
-        "name": "BIG fat Momo",
+        "name": "BIG Fat Momo",
         "lat": 9.9856097,
         "lon": 76.2770464,
         "categories": [
@@ -30955,7 +30955,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1299929970",
-        "name": "Athenz Food On wheels",
+        "name": "Athenz Food On Wheels",
         "lat": 9.9683665,
         "lon": 76.2884269,
         "categories": [
@@ -31145,7 +31145,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1307702116",
-        "name": "Al Burooj - Food court and Bakers",
+        "name": "Al Burooj - Food Court and Bakers",
         "lat": 10.043664,
         "lon": 76.3555797,
         "categories": [
@@ -31316,7 +31316,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1340190764",
-        "name": "Momentum park",
+        "name": "Momentum Park",
         "lat": 10.0457184,
         "lon": 76.3262369,
         "categories": [
@@ -31658,7 +31658,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1360751793",
-        "name": "FIGA",
+        "name": "Figa",
         "lat": 10.028149,
         "lon": 76.329088,
         "categories": [
@@ -32152,7 +32152,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:relation:17307376",
-        "name": "Palluruthy veli ground",
+        "name": "Palluruthy Veli Ground",
         "lat": 9.9200999,
         "lon": 76.2738897,
         "categories": [
@@ -32233,7 +32233,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:353409852",
-        "name": "Saravana Bhavan pur Veg",
+        "name": "Saravana Bhavan Pur Veg",
         "lat": 10.0872093,
         "lon": 77.059678,
         "categories": [
@@ -32657,7 +32657,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4625575595",
-        "name": "The cross",
+        "name": "The Cross",
         "lat": 10.0348848,
         "lon": 77.1140787,
         "categories": [
@@ -32737,7 +32737,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4627656189",
-        "name": "Sree Anapoorani pur Veg",
+        "name": "Sree Anapoorani Pur Veg",
         "lat": 10.0740143,
         "lon": 77.062301,
         "categories": [
@@ -32796,7 +32796,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5068708622",
-        "name": "Anaimudi view",
+        "name": "Anaimudi View",
         "lat": 10.1493322,
         "lon": 77.082205,
         "categories": [
@@ -32854,7 +32854,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5426116129",
-        "name": "Flowers house",
+        "name": "Flowers House",
         "lat": 10.0668351,
         "lon": 77.0735631,
         "categories": [],
@@ -32871,7 +32871,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5463574823",
-        "name": "Attukad waterfall",
+        "name": "Attukad Waterfall",
         "lat": 10.0535036,
         "lon": 77.0586226,
         "categories": [
@@ -32928,7 +32928,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6232415087",
-        "name": "Cheeky river crossing to Latchmi Estate",
+        "name": "Cheeky River Crossing to Latchmi Estate",
         "lat": 10.0723383,
         "lon": 77.056862,
         "categories": [],
@@ -32945,7 +32945,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6235897186",
-        "name": "Tea paddies",
+        "name": "Tea Paddies",
         "lat": 10.0918752,
         "lon": 77.0872786,
         "categories": [
@@ -32964,7 +32964,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6235948285",
-        "name": "Tea paddies panorama",
+        "name": "Tea Paddies Panorama",
         "lat": 10.0909965,
         "lon": 77.0881105,
         "categories": [
@@ -32983,7 +32983,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6270876686",
-        "name": "Small Cafe with simple food",
+        "name": "Small Cafe with Simple Food",
         "lat": 10.053613,
         "lon": 77.0589472,
         "categories": [
@@ -33097,7 +33097,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7035726885",
-        "name": "Sunset point",
+        "name": "Sunset Point",
         "lat": 10.041295,
         "lon": 77.0390793,
         "categories": [
@@ -33171,7 +33171,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7461845929",
-        "name": "Vava food court",
+        "name": "Vava Food Court",
         "lat": 10.028358,
         "lon": 77.0381523,
         "categories": [
@@ -33262,7 +33262,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8396921788",
-        "name": "bab's chaya kada",
+        "name": "Bab's Chaya Kada",
         "lat": 10.0234379,
         "lon": 77.0374799,
         "categories": [
@@ -33471,7 +33471,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13355284452",
-        "name": "üatel pur veg",
+        "name": "Üatel Pur Veg",
         "lat": 10.0783628,
         "lon": 77.0630298,
         "categories": [
@@ -33490,7 +33490,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13359287011",
-        "name": "Sree Mahaveer pur Veg Restaurant",
+        "name": "Sree Mahaveer Pur Veg Restaurant",
         "lat": 10.0877858,
         "lon": 77.0643232,
         "categories": [
@@ -33509,7 +33509,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13359534132",
-        "name": "Purchit pur veg restaurant",
+        "name": "Purchit Pur Veg Restaurant",
         "lat": 10.0874755,
         "lon": 77.0651977,
         "categories": [
@@ -33566,7 +33566,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13483007054",
-        "name": "Maxi cafe",
+        "name": "Maxi Cafe",
         "lat": 10.0861506,
         "lon": 77.0732716,
         "categories": [
@@ -33602,7 +33602,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13483542819",
-        "name": "king pizza and cafeteria",
+        "name": "King Pizza and Cafeteria",
         "lat": 10.0742583,
         "lon": 77.0605607,
         "categories": [
@@ -33755,7 +33755,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:798471161",
-        "name": "Sree Mahaveer resturant",
+        "name": "Sree Mahaveer Resturant",
         "lat": 10.0277112,
         "lon": 77.0356587,
         "categories": [
@@ -33870,7 +33870,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRISSUR",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/344473259"
       },
       {
@@ -34139,7 +34139,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:2574291531",
-        "name": "West fort hi tech hospital canteen",
+        "name": "West Fort Hi Tech Hospital Canteen",
         "lat": 10.5367003,
         "lon": 76.1973795,
         "categories": [
@@ -34196,7 +34196,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:3709590013",
-        "name": "eupresiya",
+        "name": "Eupresiya",
         "lat": 10.479024,
         "lon": 76.2407008,
         "categories": [
@@ -34252,7 +34252,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4245793997",
-        "name": "National rose garden",
+        "name": "National Rose Garden",
         "lat": 10.5361362,
         "lon": 76.2640549,
         "categories": [
@@ -34385,7 +34385,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:4422178291",
-        "name": "selfy",
+        "name": "Selfy",
         "lat": 10.5625173,
         "lon": 76.1377104,
         "categories": [
@@ -34522,7 +34522,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5030098337",
-        "name": "gopalettans chayakkada",
+        "name": "Gopalettans Chayakkada",
         "lat": 10.5264804,
         "lon": 76.2082768,
         "categories": [
@@ -34560,7 +34560,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5227569150",
-        "name": "Chicken store",
+        "name": "Chicken Store",
         "lat": 10.5437017,
         "lon": 76.2185992,
         "categories": [
@@ -34650,7 +34650,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/5478522653"
       },
       {
@@ -34674,7 +34674,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5666328064",
-        "name": "vilangan amusement park",
+        "name": "Vilangan Amusement Park",
         "lat": 10.5575038,
         "lon": 76.1682297,
         "categories": [
@@ -34731,7 +34731,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5907618567",
-        "name": "mister complex",
+        "name": "Mister Complex",
         "lat": 10.5218874,
         "lon": 76.1969102,
         "categories": [
@@ -34845,7 +34845,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5907700289",
-        "name": "Central marketing",
+        "name": "Central Marketing",
         "lat": 10.5150189,
         "lon": 76.2229926,
         "categories": [
@@ -34883,7 +34883,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5907726090",
-        "name": "IRB wet canteen",
+        "name": "IRB Wet Canteen",
         "lat": 10.544945,
         "lon": 76.2243452,
         "categories": [
@@ -34902,7 +34902,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5907726091",
-        "name": "Rev MO Abraham Eattickal house",
+        "name": "Rev MO Abraham Eattickal House",
         "lat": 10.5444264,
         "lon": 76.2230828,
         "categories": [
@@ -35016,7 +35016,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:5907747150",
-        "name": "ittas baaji kada",
+        "name": "Ittas Baaji Kada",
         "lat": 10.5339565,
         "lon": 76.2067411,
         "categories": [
@@ -35472,7 +35472,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6844010982",
-        "name": "statue",
+        "name": "Statue",
         "lat": 10.5806582,
         "lon": 76.1748506,
         "categories": [
@@ -35491,7 +35491,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6863482696",
-        "name": "vadakoot",
+        "name": "Vadakoot",
         "lat": 10.5837857,
         "lon": 76.1522499,
         "categories": [
@@ -35510,7 +35510,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6866818768",
-        "name": "aaa",
+        "name": "Aaa",
         "lat": 10.5795086,
         "lon": 76.1546468,
         "categories": [
@@ -35529,7 +35529,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:6954143503",
-        "name": "ancherykav temple park",
+        "name": "Ancherykav Temple Park",
         "lat": 10.5028367,
         "lon": 76.2434631,
         "categories": [
@@ -35543,12 +35543,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/6954143503"
       },
       {
         "id": "osm:node:7071568937",
-        "name": "PVS Mango bakers",
+        "name": "PVS Mango Bakers",
         "lat": 10.523112,
         "lon": 76.2064495,
         "categories": [
@@ -35586,7 +35586,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7071592796",
-        "name": "Nivedyam pure veg restaurant",
+        "name": "Nivedyam Pure Veg Restaurant",
         "lat": 10.5223759,
         "lon": 76.2130329,
         "categories": [
@@ -35600,12 +35600,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRISSUR",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/7071592796"
       },
       {
         "id": "osm:node:7071759551",
-        "name": "Adiyodadi cafe",
+        "name": "Adiyodadi Cafe",
         "lat": 10.5143961,
         "lon": 76.2019909,
         "categories": [
@@ -35619,12 +35619,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/7071759551"
       },
       {
         "id": "osm:node:7071826583",
-        "name": "mint malabar restaurant",
+        "name": "Mint Malabar Restaurant",
         "lat": 10.5271899,
         "lon": 76.2125702,
         "categories": [
@@ -35795,7 +35795,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7074824219",
-        "name": "Arunima hotel",
+        "name": "Arunima Hotel",
         "lat": 10.5216974,
         "lon": 76.2195288,
         "categories": [
@@ -35869,7 +35869,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7074884290",
-        "name": "j j square building",
+        "name": "J J Square Building",
         "lat": 10.5208058,
         "lon": 76.191624,
         "categories": [
@@ -35888,7 +35888,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7074884319",
-        "name": "olive roof",
+        "name": "Olive Roof",
         "lat": 10.5177249,
         "lon": 76.1806729,
         "categories": [
@@ -35907,7 +35907,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076693040",
-        "name": "goal face",
+        "name": "Goal Face",
         "lat": 10.5219431,
         "lon": 76.2397781,
         "categories": [
@@ -35926,7 +35926,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076693050",
-        "name": "Emirates food court",
+        "name": "Emirates Food Court",
         "lat": 10.523116,
         "lon": 76.2427053,
         "categories": [
@@ -35945,7 +35945,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076693053",
-        "name": "Cooks & Bakes homemade foods",
+        "name": "Cooks & Bakes Homemade Foods",
         "lat": 10.5239434,
         "lon": 76.2423557,
         "categories": [
@@ -35964,7 +35964,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076693055",
-        "name": "Abhcon pearl",
+        "name": "Abhcon Pearl",
         "lat": 10.5230821,
         "lon": 76.2444819,
         "categories": [
@@ -36116,7 +36116,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076719257",
-        "name": "hotel paragon",
+        "name": "Hotel Paragon",
         "lat": 10.5148028,
         "lon": 76.1767141,
         "categories": [
@@ -36135,7 +36135,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076719270",
-        "name": "food lovers cafe",
+        "name": "Food Lovers Cafe",
         "lat": 10.5102486,
         "lon": 76.172593,
         "categories": [
@@ -36192,7 +36192,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076737967",
-        "name": "central jail childrens park",
+        "name": "Central Jail Childrens Park",
         "lat": 10.5604775,
         "lon": 76.2178053,
         "categories": [
@@ -36307,7 +36307,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076795219",
-        "name": "kollas Complex",
+        "name": "Kollas Complex",
         "lat": 10.5199079,
         "lon": 76.231903,
         "categories": [
@@ -36402,7 +36402,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076797551",
-        "name": "aquatics complex thrissur",
+        "name": "Aquatics Complex Thrissur",
         "lat": 10.5341415,
         "lon": 76.2144089,
         "categories": [
@@ -36421,7 +36421,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076797553",
-        "name": "aswini junction",
+        "name": "Aswini Junction",
         "lat": 10.5353547,
         "lon": 76.2150952,
         "categories": [],
@@ -36438,7 +36438,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076799662",
-        "name": "sakthan thampuran palace",
+        "name": "Sakthan Thampuran Palace",
         "lat": 10.531289,
         "lon": 76.2161449,
         "categories": [
@@ -36457,7 +36457,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076809300",
-        "name": "copper spoon",
+        "name": "Copper Spoon",
         "lat": 10.5222965,
         "lon": 76.2054332,
         "categories": [
@@ -36571,7 +36571,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076852417",
-        "name": "urban uruli",
+        "name": "Urban Uruli",
         "lat": 10.534425,
         "lon": 76.2189412,
         "categories": [
@@ -36590,7 +36590,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076852437",
-        "name": "puravasthu museum",
+        "name": "Puravasthu Museum",
         "lat": 10.5310642,
         "lon": 76.216905,
         "categories": [
@@ -36609,7 +36609,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076852441",
-        "name": "jes kitchen",
+        "name": "Jes Kitchen",
         "lat": 10.5310986,
         "lon": 76.2229001,
         "categories": [
@@ -36628,7 +36628,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076852446",
-        "name": "kollamkode palace",
+        "name": "Kollamkode Palace",
         "lat": 10.530504,
         "lon": 76.2246059,
         "categories": [
@@ -36647,7 +36647,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076853859",
-        "name": "bindu",
+        "name": "Bindu",
         "lat": 10.5251767,
         "lon": 76.2014263,
         "categories": [
@@ -36666,7 +36666,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076853860",
-        "name": "rayas complex",
+        "name": "Rayas Complex",
         "lat": 10.5253403,
         "lon": 76.2028375,
         "categories": [
@@ -36685,7 +36685,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076855155",
-        "name": "LeGreen restaurent",
+        "name": "LeGreen Restaurent",
         "lat": 10.5393568,
         "lon": 76.1931269,
         "categories": [
@@ -36704,7 +36704,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076860388",
-        "name": "paramekkavu elephant keeping yard",
+        "name": "Paramekkavu Elephant Keeping Yard",
         "lat": 10.563783,
         "lon": 76.2183006,
         "categories": [
@@ -36723,7 +36723,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076862653",
-        "name": "Uri hotel",
+        "name": "Uri Hotel",
         "lat": 10.5594095,
         "lon": 76.141983,
         "categories": [
@@ -36742,7 +36742,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076863028",
-        "name": "ammayude adukkala",
+        "name": "Ammayude Adukkala",
         "lat": 10.5813406,
         "lon": 76.1604329,
         "categories": [
@@ -36761,7 +36761,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076863623",
-        "name": "Akshaya hotel",
+        "name": "Akshaya Hotel",
         "lat": 10.5370153,
         "lon": 76.1984893,
         "categories": [
@@ -36780,7 +36780,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076883791",
-        "name": "K R bakery",
+        "name": "K R Bakery",
         "lat": 10.5755891,
         "lon": 76.1618099,
         "categories": [
@@ -36799,7 +36799,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076883793",
-        "name": "katturumpu food court",
+        "name": "Katturumpu Food Court",
         "lat": 10.5737833,
         "lon": 76.1631193,
         "categories": [
@@ -36818,7 +36818,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076883796",
-        "name": "new chef corner bakery",
+        "name": "New Chef Corner Bakery",
         "lat": 10.5733517,
         "lon": 76.1623713,
         "categories": [
@@ -36837,7 +36837,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076893827",
-        "name": "Confident group",
+        "name": "Confident Group",
         "lat": 10.5170979,
         "lon": 76.2117411,
         "categories": [
@@ -36894,7 +36894,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7076916245",
-        "name": "kerala cafe",
+        "name": "Kerala Cafe",
         "lat": 10.5361661,
         "lon": 76.2647171,
         "categories": [
@@ -37027,7 +37027,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7077425984",
-        "name": "GS AQUA FISH FARM",
+        "name": "GS Aqua Fish Farm",
         "lat": 10.6038666,
         "lon": 76.1784222,
         "categories": [],
@@ -37063,7 +37063,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079201449",
-        "name": "childrens park",
+        "name": "Childrens Park",
         "lat": 10.5642859,
         "lon": 76.2352191,
         "categories": [
@@ -37101,7 +37101,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079216394",
-        "name": "Pankaj hotel",
+        "name": "Pankaj Hotel",
         "lat": 10.567451,
         "lon": 76.2203484,
         "categories": [
@@ -37120,7 +37120,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079230428",
-        "name": "SREE Ayappa Rose Garden",
+        "name": "Sree Ayappa Rose Garden",
         "lat": 10.5359236,
         "lon": 76.2614933,
         "categories": [
@@ -37139,7 +37139,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079230429",
-        "name": "Morning Star,plant nursesry",
+        "name": "Morning Star, Plant Nursesry",
         "lat": 10.5360805,
         "lon": 76.2616274,
         "categories": [
@@ -37158,7 +37158,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079266341",
-        "name": "surabhi",
+        "name": "Surabhi",
         "lat": 10.5506628,
         "lon": 76.2131175,
         "categories": [
@@ -37196,7 +37196,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7079320421",
-        "name": "chittilappilli",
+        "name": "Chittilappilli",
         "lat": 10.5550641,
         "lon": 76.2168119,
         "categories": [
@@ -37310,7 +37310,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111469691",
-        "name": "Chicken centre",
+        "name": "Chicken Centre",
         "lat": 10.5515852,
         "lon": 76.1508773,
         "categories": [
@@ -37443,7 +37443,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111790648",
-        "name": "chick city",
+        "name": "Chick City",
         "lat": 10.5225135,
         "lon": 76.2041382,
         "categories": [
@@ -37462,7 +37462,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111791658",
-        "name": "parvathi tea shop",
+        "name": "Parvathi Tea Shop",
         "lat": 10.5149075,
         "lon": 76.2182024,
         "categories": [
@@ -37481,7 +37481,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111791675",
-        "name": "ACE collage for technical education",
+        "name": "ACE Collage for Technical Education",
         "lat": 10.5165318,
         "lon": 76.2127564,
         "categories": [
@@ -37519,7 +37519,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111807552",
-        "name": "kriz aquarium",
+        "name": "Kriz Aquarium",
         "lat": 10.5265635,
         "lon": 76.2023709,
         "categories": [],
@@ -37536,7 +37536,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111807558",
-        "name": "CAFE VAGA",
+        "name": "Cafe Vaga",
         "lat": 10.5252562,
         "lon": 76.2022281,
         "categories": [
@@ -37574,7 +37574,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7111830882",
-        "name": "desi cuppa",
+        "name": "Desi Cuppa",
         "lat": 10.5224512,
         "lon": 76.2159543,
         "categories": [
@@ -37648,7 +37648,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121484889",
-        "name": "ikkayees bhaji kada",
+        "name": "Ikkayees Bhaji Kada",
         "lat": 10.5142554,
         "lon": 76.2082607,
         "categories": [
@@ -37667,7 +37667,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121484891",
-        "name": "Thrissur cafe",
+        "name": "Thrissur Cafe",
         "lat": 10.5149153,
         "lon": 76.2084368,
         "categories": [
@@ -37686,7 +37686,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121519037",
-        "name": "Elbee food court",
+        "name": "Elbee Food Court",
         "lat": 10.5529528,
         "lon": 76.1727827,
         "categories": [
@@ -37705,7 +37705,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121519040",
-        "name": "Guru burger hub",
+        "name": "Guru Burger Hub",
         "lat": 10.5527734,
         "lon": 76.1685863,
         "categories": [
@@ -37743,7 +37743,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121605148",
-        "name": "ponnus fastfood",
+        "name": "Ponnus Fastfood",
         "lat": 10.5537183,
         "lon": 76.1735475,
         "categories": [
@@ -37762,7 +37762,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121837177",
-        "name": "thomsa",
+        "name": "Thomsa",
         "lat": 10.586506,
         "lon": 76.2144844,
         "categories": [],
@@ -37779,7 +37779,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121877670",
-        "name": "Sree durga theatre's choorakkaaattukkara",
+        "name": "Sree Durga Theatre's Choorakkaaattukkara",
         "lat": 10.5587159,
         "lon": 76.1766549,
         "categories": [
@@ -37798,7 +37798,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121914336",
-        "name": "bindu theater",
+        "name": "Bindu Theater",
         "lat": 10.5253352,
         "lon": 76.2014109,
         "categories": [
@@ -37817,7 +37817,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121914339",
-        "name": "cafe vaga",
+        "name": "Cafe Vaga",
         "lat": 10.5254465,
         "lon": 76.2022462,
         "categories": [
@@ -37836,7 +37836,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121914340",
-        "name": "pasal restaurt",
+        "name": "Pasal Restaurt",
         "lat": 10.5253491,
         "lon": 76.2025435,
         "categories": [
@@ -37855,7 +37855,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121914345",
-        "name": "kriz aqua",
+        "name": "Kriz Aqua",
         "lat": 10.5266401,
         "lon": 76.2023842,
         "categories": [],
@@ -37872,7 +37872,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121930049",
-        "name": "prabhas cafe",
+        "name": "Prabhas Cafe",
         "lat": 10.5200374,
         "lon": 76.1731513,
         "categories": [
@@ -37891,7 +37891,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121930054",
-        "name": "JOY AK CAFE",
+        "name": "Joy AK Cafe",
         "lat": 10.515859,
         "lon": 76.1752825,
         "categories": [
@@ -37910,7 +37910,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121930057",
-        "name": "friends lane",
+        "name": "Friends Lane",
         "lat": 10.5160423,
         "lon": 76.1719631,
         "categories": [
@@ -37929,7 +37929,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7121962591",
-        "name": "puzhayoram gardens",
+        "name": "Puzhayoram Gardens",
         "lat": 10.4940397,
         "lon": 76.2732205,
         "categories": [
@@ -37948,7 +37948,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123742973",
-        "name": "hotel durga",
+        "name": "Hotel Durga",
         "lat": 10.4747556,
         "lon": 76.2405255,
         "categories": [
@@ -37967,7 +37967,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744004",
-        "name": "muruka hotel",
+        "name": "Muruka Hotel",
         "lat": 10.4405893,
         "lon": 76.2103664,
         "categories": [
@@ -37986,7 +37986,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744009",
-        "name": "red cafe",
+        "name": "Red Cafe",
         "lat": 10.4409241,
         "lon": 76.2102339,
         "categories": [
@@ -38005,7 +38005,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744014",
-        "name": "pulickens bakery and cool bar",
+        "name": "Pulickens Bakery and Cool Bar",
         "lat": 10.4413271,
         "lon": 76.2105543,
         "categories": [
@@ -38024,7 +38024,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744016",
-        "name": "joys chicken centre",
+        "name": "Joys Chicken Centre",
         "lat": 10.4415361,
         "lon": 76.2103309,
         "categories": [
@@ -38043,7 +38043,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744019",
-        "name": "azad hotel",
+        "name": "Azad Hotel",
         "lat": 10.4416846,
         "lon": 76.2105805,
         "categories": [
@@ -38062,7 +38062,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744032",
-        "name": "jaya bakery cherpu",
+        "name": "Jaya Bakery Cherpu",
         "lat": 10.4432799,
         "lon": 76.2105789,
         "categories": [
@@ -38081,7 +38081,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744045",
-        "name": "charly's",
+        "name": "Charly's",
         "lat": 10.4450098,
         "lon": 76.2101754,
         "categories": [
@@ -38100,7 +38100,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123744049",
-        "name": "candies bakery",
+        "name": "Candies Bakery",
         "lat": 10.4455855,
         "lon": 76.210351,
         "categories": [
@@ -38157,7 +38157,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123785713",
-        "name": "jos hotel",
+        "name": "Jos Hotel",
         "lat": 10.47416,
         "lon": 76.2409656,
         "categories": [
@@ -38195,7 +38195,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123795800",
-        "name": "nila bakery and coolhut",
+        "name": "Nila Bakery and Coolhut",
         "lat": 10.4457357,
         "lon": 76.2102943,
         "categories": [
@@ -38214,7 +38214,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123795802",
-        "name": "chips corner & thanima hotel",
+        "name": "Chips Corner & Thanima Hotel",
         "lat": 10.4458975,
         "lon": 76.2102931,
         "categories": [
@@ -38233,7 +38233,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123795803",
-        "name": "amlim",
+        "name": "Amlim",
         "lat": 10.4461352,
         "lon": 76.2102826,
         "categories": [
@@ -38290,7 +38290,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123795816",
-        "name": "Masafi food mall",
+        "name": "Masafi Food Mall",
         "lat": 10.4479227,
         "lon": 76.2098867,
         "categories": [
@@ -38366,7 +38366,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123798566",
-        "name": "cse maria provinsiol house,kooranchery",
+        "name": "Cse Maria Provinsiol House, Kooranchery",
         "lat": 10.5021585,
         "lon": 76.212429,
         "categories": [
@@ -38404,7 +38404,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123799090",
-        "name": "happy fast food",
+        "name": "Happy Fast Food",
         "lat": 10.4737497,
         "lon": 76.2412675,
         "categories": [
@@ -38556,7 +38556,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123815762",
-        "name": "Adat hill top",
+        "name": "Adat Hill Top",
         "lat": 10.5468804,
         "lon": 76.1462764,
         "categories": [
@@ -38594,7 +38594,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7123826197",
-        "name": "Royal cafe",
+        "name": "Royal Cafe",
         "lat": 10.4581679,
         "lon": 76.2088796,
         "categories": [
@@ -38917,7 +38917,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7432544419",
-        "name": "Kudumbasree cafe",
+        "name": "Kudumbasree Cafe",
         "lat": 10.5210416,
         "lon": 76.2012532,
         "categories": [
@@ -38936,7 +38936,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7473053542",
-        "name": "indian woke",
+        "name": "Indian Woke",
         "lat": 10.5419418,
         "lon": 76.2213647,
         "categories": [
@@ -38955,7 +38955,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7478015786",
-        "name": "chapati center",
+        "name": "Chapati Center",
         "lat": 10.541836,
         "lon": 76.2211656,
         "categories": [
@@ -38993,7 +38993,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7496998509",
-        "name": "Vikram bakery",
+        "name": "Vikram Bakery",
         "lat": 10.5717753,
         "lon": 76.2175352,
         "categories": [
@@ -39144,7 +39144,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:7749867630",
-        "name": "Milma cafe",
+        "name": "Milma Cafe",
         "lat": 10.5326701,
         "lon": 76.2198256,
         "categories": [
@@ -39277,7 +39277,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8323737269",
-        "name": "MULANKUNNATHUKAVU PANCHAYATH GROUND",
+        "name": "Mulankunnathukavu Panchayath Ground",
         "lat": 10.5910992,
         "lon": 76.2150478,
         "categories": [
@@ -39291,12 +39291,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRISSUR",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/8323737269"
       },
       {
         "id": "osm:node:8323821871",
-        "name": "RED CHILLIES",
+        "name": "Red Chillies",
         "lat": 10.5902429,
         "lon": 76.2139971,
         "categories": [
@@ -39372,7 +39372,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8327338541",
-        "name": "museum",
+        "name": "Museum",
         "lat": 10.4792217,
         "lon": 76.2400532,
         "categories": [
@@ -39391,7 +39391,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8327509189",
-        "name": "BBQ point",
+        "name": "BBQ Point",
         "lat": 10.6077971,
         "lon": 76.1379109,
         "categories": [
@@ -39410,7 +39410,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8333871988",
-        "name": "cafe kudumba candeen",
+        "name": "Cafe Kudumba Candeen",
         "lat": 10.4904243,
         "lon": 76.2731198,
         "categories": [
@@ -39429,7 +39429,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8334038228",
-        "name": "fast food",
+        "name": "Fast Food",
         "lat": 10.5924437,
         "lon": 76.1540955,
         "categories": [
@@ -39448,7 +39448,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8334049148",
-        "name": "Arabian restaurant",
+        "name": "Arabian Restaurant",
         "lat": 10.5609424,
         "lon": 76.1699306,
         "categories": [
@@ -39467,7 +39467,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8334780863",
-        "name": "Dona fresh Juice",
+        "name": "Dona Fresh Juice",
         "lat": 10.5378547,
         "lon": 76.2775066,
         "categories": [
@@ -39543,7 +39543,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8682990572",
-        "name": "deepa",
+        "name": "Deepa",
         "lat": 10.5858825,
         "lon": 76.215101,
         "categories": [
@@ -39581,7 +39581,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8780406095",
-        "name": "coffee shop",
+        "name": "Coffee Shop",
         "lat": 10.5443285,
         "lon": 76.1313875,
         "categories": [
@@ -39595,12 +39595,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "mullur",
+        "address": "Mullur",
         "url": "https://www.openstreetmap.org/node/8780406095"
       },
       {
         "id": "osm:node:8792443039",
-        "name": "common man",
+        "name": "Common Man",
         "lat": 10.557179,
         "lon": 76.1687666,
         "categories": [],
@@ -39672,7 +39672,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8846296376",
-        "name": "Kuttante thattukada",
+        "name": "Kuttante Thattukada",
         "lat": 10.4688813,
         "lon": 76.2446207,
         "categories": [
@@ -39691,7 +39691,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:8928813608",
-        "name": "Meen Peedika, Fish & chips restaurant",
+        "name": "Meen Peedika, Fish & Chips Restaurant",
         "lat": 10.5206412,
         "lon": 76.1914636,
         "categories": [
@@ -39786,7 +39786,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9077263215",
-        "name": "916 BAKERY",
+        "name": "916 Bakery",
         "lat": 10.4889834,
         "lon": 76.2249961,
         "categories": [
@@ -39800,12 +39800,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRISSUR",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/9077263215"
       },
       {
         "id": "osm:node:9077266703",
-        "name": "CHAYA KADA",
+        "name": "Chaya Kada",
         "lat": 10.4877491,
         "lon": 76.2248738,
         "categories": [
@@ -39819,7 +39819,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "THRISSUR",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/9077266703"
       },
       {
@@ -39843,7 +39843,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9082269807",
-        "name": "slow cafe take out",
+        "name": "Slow Cafe Take Out",
         "lat": 10.5237997,
         "lon": 76.2262283,
         "categories": [
@@ -39917,7 +39917,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9537578167",
-        "name": "GECT Cafeteria",
+        "name": "Gect Cafeteria",
         "lat": 10.5539729,
         "lon": 76.2242327,
         "categories": [
@@ -39936,7 +39936,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9537700501",
-        "name": "GECT Arch",
+        "name": "Gect Arch",
         "lat": 10.5546542,
         "lon": 76.2246595,
         "categories": [
@@ -40069,7 +40069,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9841160138",
-        "name": "sastha hotel",
+        "name": "Sastha Hotel",
         "lat": 10.5259701,
         "lon": 76.2064798,
         "categories": [
@@ -40088,7 +40088,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9874575993",
-        "name": "alankar restuarant",
+        "name": "Alankar Restuarant",
         "lat": 10.5201507,
         "lon": 76.2152154,
         "categories": [
@@ -40107,7 +40107,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9878375819",
-        "name": "bubbles aquarium",
+        "name": "Bubbles Aquarium",
         "lat": 10.5267193,
         "lon": 76.2056455,
         "categories": [],
@@ -40124,7 +40124,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9878375823",
-        "name": "blue fins aquarium",
+        "name": "Blue Fins Aquarium",
         "lat": 10.5244855,
         "lon": 76.2062193,
         "categories": [],
@@ -40141,7 +40141,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9878375824",
-        "name": "aamis kitchen",
+        "name": "Aamis Kitchen",
         "lat": 10.5235002,
         "lon": 76.2077914,
         "categories": [
@@ -40160,7 +40160,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9878375828",
-        "name": "aza reatuarant and grills",
+        "name": "Aza Reatuarant and Grills",
         "lat": 10.5233864,
         "lon": 76.207854,
         "categories": [
@@ -40179,7 +40179,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:9879931366",
-        "name": "kohinoor restuarant",
+        "name": "Kohinoor Restuarant",
         "lat": 10.5187395,
         "lon": 76.2101913,
         "categories": [
@@ -40217,7 +40217,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10103312905",
-        "name": "Sijis burger Street",
+        "name": "Sijis Burger Street",
         "lat": 10.5199943,
         "lon": 76.2359601,
         "categories": [
@@ -40424,7 +40424,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10942102404",
-        "name": "Nice nite",
+        "name": "Nice Nite",
         "lat": 10.5219051,
         "lon": 76.2176775,
         "categories": [
@@ -40443,7 +40443,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:10984306694",
-        "name": "Vattayi waterfalls",
+        "name": "Vattayi Waterfalls",
         "lat": 10.6014489,
         "lon": 76.2648245,
         "categories": [
@@ -40804,7 +40804,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:11792794802",
-        "name": "TOKI Thrissur - The Kids Indoor Play Area",
+        "name": "Toki Thrissur - The Kids Indoor Play Area",
         "lat": 10.4898363,
         "lon": 76.2329688,
         "categories": [
@@ -40818,7 +40818,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/node/11792794802"
       },
       {
@@ -40861,7 +40861,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12146247669",
-        "name": "Mahatma Gandhi statue",
+        "name": "Mahatma Gandhi Statue",
         "lat": 10.5209717,
         "lon": 76.2149774,
         "categories": [],
@@ -40878,7 +40878,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12163091391",
-        "name": "Amul Ice cream Parlour",
+        "name": "Amul Ice Cream Parlour",
         "lat": 10.5315628,
         "lon": 76.1996624,
         "categories": [
@@ -40897,7 +40897,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:12389188431",
-        "name": "Bini Food court",
+        "name": "Bini Food Court",
         "lat": 10.5276383,
         "lon": 76.2139901,
         "categories": [
@@ -41125,7 +41125,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:node:13465282801",
-        "name": "Kannande Dosakada ( ദോശകട )",
+        "name": "Kannande Dosakada (ദോശകട)",
         "lat": 10.440741,
         "lon": 76.1612508,
         "categories": [
@@ -41557,7 +41557,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:425881067",
-        "name": "amarjawan Park",
+        "name": "Amarjawan Park",
         "lat": 10.5212626,
         "lon": 76.1916114,
         "categories": [
@@ -41653,7 +41653,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:444701192",
-        "name": "AAHS Ground",
+        "name": "Aahs Ground",
         "lat": 10.495156,
         "lon": 76.2559385,
         "categories": [
@@ -41824,7 +41824,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:521700731",
-        "name": "Ruchi Vanitha canteen",
+        "name": "Ruchi Vanitha Canteen",
         "lat": 10.6090545,
         "lon": 76.1990187,
         "categories": [
@@ -41843,7 +41843,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:560897631",
-        "name": "Pazhampuzha temple ground",
+        "name": "Pazhampuzha Temple Ground",
         "lat": 10.5676618,
         "lon": 76.1439995,
         "categories": [
@@ -41876,7 +41876,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/561533373"
       },
       {
@@ -41895,7 +41895,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/561533374"
       },
       {
@@ -42014,7 +42014,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:625703022",
-        "name": "junglebook",
+        "name": "Junglebook",
         "lat": 10.5233525,
         "lon": 76.2017043,
         "categories": [
@@ -42033,7 +42033,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:625704826",
-        "name": "Bharath bakes and snacks bar",
+        "name": "Bharath Bakes and Snacks Bar",
         "lat": 10.5012476,
         "lon": 76.2120057,
         "categories": [
@@ -42204,7 +42204,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:649459317",
-        "name": "burger space",
+        "name": "Burger Space",
         "lat": 10.5212583,
         "lon": 76.2017621,
         "categories": [
@@ -42356,7 +42356,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:730664937",
-        "name": "Kunnathuvalapil park",
+        "name": "Kunnathuvalapil Park",
         "lat": 10.5806922,
         "lon": 76.1748004,
         "categories": [
@@ -42370,7 +42370,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/730664937"
       },
       {
@@ -42389,12 +42389,12 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/730667754"
       },
       {
         "id": "osm:way:742863831",
-        "name": "anchery park",
+        "name": "Anchery Park",
         "lat": 10.5028655,
         "lon": 76.2434708,
         "categories": [
@@ -42408,7 +42408,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/742863831"
       },
       {
@@ -42427,7 +42427,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "thrissur",
+        "address": "Thrissur",
         "url": "https://www.openstreetmap.org/way/757236831"
       },
       {
@@ -42470,7 +42470,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:757585639",
-        "name": "ranthal",
+        "name": "Ranthal",
         "lat": 10.5207009,
         "lon": 76.196601,
         "categories": [
@@ -42508,7 +42508,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:757759222",
-        "name": "J.P Beer and wine restaurant",
+        "name": "J.P Beer and Wine Restaurant",
         "lat": 10.5237869,
         "lon": 76.2019764,
         "categories": [
@@ -42527,7 +42527,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:757759228",
-        "name": "goalgappas",
+        "name": "Goalgappas",
         "lat": 10.5262593,
         "lon": 76.2023325,
         "categories": [
@@ -42546,7 +42546,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:757772231",
-        "name": "hotel ceepees",
+        "name": "Hotel Ceepees",
         "lat": 10.5285819,
         "lon": 76.2193618,
         "categories": [
@@ -42584,7 +42584,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:760466831",
-        "name": "parippuvada snacks center",
+        "name": "Parippuvada Snacks Center",
         "lat": 10.5343615,
         "lon": 76.2018514,
         "categories": [
@@ -42603,7 +42603,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:761197920",
-        "name": "Punjiri tower complex",
+        "name": "Punjiri Tower Complex",
         "lat": 10.5254703,
         "lon": 76.202304,
         "categories": [
@@ -42679,7 +42679,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:796374820",
-        "name": "le green restaraunt",
+        "name": "Le Green Restaraunt",
         "lat": 10.5393114,
         "lon": 76.1932314,
         "categories": [
@@ -42717,7 +42717,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:798619500",
-        "name": "indian woke",
+        "name": "Indian Woke",
         "lat": 10.5419001,
         "lon": 76.2213562,
         "categories": [
@@ -42812,7 +42812,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:801862862",
-        "name": "Kans Baby shopping mall",
+        "name": "Kans Baby Shopping Mall",
         "lat": 10.5359433,
         "lon": 76.2153701,
         "categories": [
@@ -42926,7 +42926,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:803195176",
-        "name": "Aalthara thatukada",
+        "name": "Aalthara Thatukada",
         "lat": 10.4785573,
         "lon": 76.2574968,
         "categories": [
@@ -43154,7 +43154,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:895533078",
-        "name": "children 's park",
+        "name": "Children 'S Park",
         "lat": 10.4910458,
         "lon": 76.2127588,
         "categories": [
@@ -43173,7 +43173,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:928868851",
-        "name": "ems samskarikanilayam, chittilappilly",
+        "name": "Ems Samskarikanilayam, Chittilappilly",
         "lat": 10.5621591,
         "lon": 76.1564836,
         "categories": [],
@@ -43190,7 +43190,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:937531996",
-        "name": "vilangan hills park",
+        "name": "Vilangan Hills Park",
         "lat": 10.5571472,
         "lon": 76.1687466,
         "categories": [
@@ -43204,7 +43204,7 @@ export const KERALA_REGIONS = [
         ],
         "wikipedia": "",
         "wikidata": "",
-        "address": "vilangan",
+        "address": "Vilangan",
         "url": "https://www.openstreetmap.org/way/937531996"
       },
       {
@@ -43266,7 +43266,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:954206216",
-        "name": "deve krishna",
+        "name": "Deve Krishna",
         "lat": 10.495055,
         "lon": 76.2312362,
         "categories": [
@@ -43285,7 +43285,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:954208319",
-        "name": "Tripple rice",
+        "name": "Tripple Rice",
         "lat": 10.4937374,
         "lon": 76.2314821,
         "categories": [
@@ -43323,7 +43323,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:954977041",
-        "name": "German cateres food outlet",
+        "name": "German Cateres Food Outlet",
         "lat": 10.5182895,
         "lon": 76.2418881,
         "categories": [
@@ -43342,7 +43342,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:954977045",
-        "name": "Goal face restaurant",
+        "name": "Goal Face Restaurant",
         "lat": 10.5219866,
         "lon": 76.2398267,
         "categories": [
@@ -43380,7 +43380,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:956062322",
-        "name": "cafe GUNS AND ROSES",
+        "name": "Cafe Guns and Roses",
         "lat": 10.51976,
         "lon": 76.225608,
         "categories": [
@@ -43399,7 +43399,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:957837566",
-        "name": "ram son's",
+        "name": "Ram Son's",
         "lat": 10.5041831,
         "lon": 76.2353877,
         "categories": [
@@ -43418,7 +43418,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:957837568",
-        "name": "Eat store",
+        "name": "Eat Store",
         "lat": 10.5041194,
         "lon": 76.2347831,
         "categories": [
@@ -43456,7 +43456,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:968150226",
-        "name": "Vilangan childrens Park",
+        "name": "Vilangan Childrens Park",
         "lat": 10.5566995,
         "lon": 76.1693655,
         "categories": [
@@ -43475,7 +43475,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:982012456",
-        "name": "priyadardhani park",
+        "name": "Priyadardhani Park",
         "lat": 10.5185697,
         "lon": 76.2395106,
         "categories": [
@@ -43589,7 +43589,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1035409937",
-        "name": "Open stage (nadumuttom)",
+        "name": "Open Stage (Nadumuttom)",
         "lat": 10.5541493,
         "lon": 76.2246703,
         "categories": [
@@ -43741,7 +43741,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1305684015",
-        "name": "KILA Cactus Park",
+        "name": "Kila Cactus Park",
         "lat": 10.6016433,
         "lon": 76.2155776,
         "categories": [
@@ -43855,7 +43855,7 @@ export const KERALA_REGIONS = [
       },
       {
         "id": "osm:way:1460186238",
-        "name": "KILA EMS Museum",
+        "name": "Kila EMS Museum",
         "lat": 10.6012841,
         "lon": 76.2156265,
         "categories": [

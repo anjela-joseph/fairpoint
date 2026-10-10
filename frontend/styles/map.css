@@ -1,0 +1,24 @@
+/* Web map look. Fonts are registered by expo-font in App.js. */
+.leaflet-container { font-family: 'BarlowCondensed_400Regular', 'Arial Narrow', sans-serif; }
+.leaflet-tile-pane { filter: saturate(.35) contrast(.95) brightness(1.04); }
+
+/* Friend pins: coloured circle with number */
+.friend-marker span { display:flex; align-items:center; justify-content:center; width:34px; height:34px; background:var(--pin-color); color:white; border:2px solid #141414; border-radius:50%; font-family:'BarlowCondensed_600SemiBold', sans-serif; font-size:18px; }
+/* Meeting spot: black dot with a lime ring */
+.meeting-marker span { display:block; width:30px; height:30px; border-radius:50%; background:#141414; border:3px solid #dcf25e; box-shadow:0 0 0 2px #141414, 0 0 0 10px #dcf25e55; }
+
+/* Pin labels: pills with a clear border */
+.leaflet-tooltip.friend-label, .leaflet-tooltip.winner-label { border:1px solid #141414; border-radius:999px; box-shadow:none; padding:4px 12px; background:#f6f5f0; color:#141414; font-family:'BarlowCondensed_500Medium', sans-serif; font-size:15px; letter-spacing:.3px; text-transform:uppercase; }
+.leaflet-tooltip.winner-label { background:#141414; color:#f6f5f0; font-size:17px; }
+.leaflet-tooltip.friend-label:before { border-top-color:#141414; }
+.leaflet-tooltip.winner-label:before { border-bottom-color:#141414; }
+
+/* Zoom buttons */
+.leaflet-control-zoom { border:1px solid #141414 !important; border-radius:999px !important; overflow:hidden; box-shadow:none !important; margin:0 16px 36px 0 !important; }
+.leaflet-control-zoom a { width:38px !important; height:38px !important; line-height:38px !important; color:#141414 !important; background:#f6f5f0 !important; border-color:#141414 !important; }
+.leaflet-control-attribution { font-size:11px !important; background:#f6f5f0e6 !important; }
+
+* { box-sizing:border-box; }
+*:focus-visible { outline:2px solid #141414; outline-offset:3px; }
+input:focus, input:focus-visible { outline:none; } /* the search box's pill border shows focus instead */
+body { margin:0; background:#f6f5f0; }

@@ -2,11 +2,11 @@ import React, { useEffect, useRef, useState } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 import * as L from 'leaflet';
 import { maplibreGL } from '@maplibre/maplibre-gl-leaflet';
-import mapStyle from '../data/map-style.json';
+import mapStyle from '../../styles/map-style.json';
 import 'leaflet/dist/leaflet.css';
 import 'maplibre-gl/dist/maplibre-gl.css';
-import './map.css';
-import { FRIEND_COLORS } from '../data/candidates';
+import '../../styles/map.css';
+import { FRIEND_COLORS } from '../../../data/candidates';
 
 export default function MeetingMap({ friends, winner, onAdd, recenter }) {
   const element = useRef(null);
@@ -45,18 +45,18 @@ export default function MeetingMap({ friends, winner, onAdd, recenter }) {
       marker.bindTooltip(label, { direction: 'top', offset: [0, -38], permanent: true, className: 'friend-label' });
     });
     if (winner) {
-      const marker = L.marker([winner.lat, winner.lon], { zIndexOffset: 500, icon: L.divIcon({ className: 'meeting-marker', html: '<span>✦</span>', iconSize: [48, 48], iconAnchor: [24, 24] }) }).addTo(layer.current);
+      const marker = L.marker([winner.lat, winner.lon], { zIndexOffset: 500, icon: L.divIcon({ className: 'meeting-marker', html: '<span></span>', iconSize: [30, 30], iconAnchor: [15, 15] }) }).addTo(layer.current);
       const label = document.createElement('span');
       label.textContent = `Meet in ${winner.name}`;
-      marker.bindTooltip(label, { permanent: true, direction: 'bottom', offset: [0, 26], className: 'winner-label' });
+      marker.bindTooltip(label, { permanent: true, direction: 'bottom', offset: [0, 18], className: 'winner-label' });
     }
     const points = [...friends, ...(winner ? [winner] : [])].map(p => [p.lat, p.lon]);
-    if (points.length > 1) map.current.fitBounds(L.latLngBounds(points), { paddingTopLeft: [90, 110], paddingBottomRight: [90, 120], maxZoom: 11 });
+    if (points.length > 1) map.current.fitBounds(L.latLngBounds(points), { paddingTopLeft: [90, 110], paddingBottomRight: [90, 120], maxZoom: 13 });
     else map.current.setView(points[0] || [10.5, 76.1], points.length ? 10 : 7);
   }, [friends, winner, recenter]);
   return <View style={StyleSheet.absoluteFillObject}>
-    <div ref={element} role="region" aria-label="Interactive map of Kerala. Add friend pins by clicking, or search Kerala locations." style={{ height: '100%', width: '100%', background: '#e5eadd', zIndex: 0 }} />
-    {offline && <View style={styles.notice}><Text style={styles.text}>Map tiles unavailable. Saved location search still works.</Text></View>}
+    <div ref={element} role="region" aria-label="Interactive map of Kerala. Add friend pins by clicking, or search Kerala locations." style={{ height: '100%', width: '100%', background: '#e8e9e2', zIndex: 0 }} />
+    {offline && <View style={styles.notice}><Text style={styles.text}>The map couldn’t load. You can still search for places.</Text></View>}
   </View>;
 }
-const styles = StyleSheet.create({ notice: { position: 'absolute', bottom: 28, left: 12, right: 55, backgroundColor: '#fff9e6', padding: 10, borderRadius: 8 }, text: { fontSize: 12, color: '#685331' } });
+const styles = StyleSheet.create({ notice: { position: 'absolute', bottom: 28, left: 12, right: 60, backgroundColor: '#f6f5f0', borderWidth: 1, borderColor: '#141414', padding: 12, borderRadius: 14 }, text: { fontFamily: 'BarlowCondensed_400Regular', fontSize: 16, color: '#141414' } });

@@ -163,7 +163,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:10081441150",
-      "name": "Soofi mandi",
+      "name": "Soofi Mandi",
       "lat": 10.0709425,
       "lon": 76.3325308,
       "categories": [
@@ -278,7 +278,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:10575927708",
-      "name": "Cafe Canopy by ABAD",
+      "name": "Cafe Canopy by Abad",
       "lat": 9.9784957,
       "lon": 76.283358,
       "categories": [
@@ -387,7 +387,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "Kakkanad,Aluva,Ernakulam",
+      "address": "Kakkanad, Aluva, Ernakulam",
       "url": "https://www.openstreetmap.org/node/10699375873"
     },
     {
@@ -430,7 +430,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:10758283048",
-      "name": "St john Park",
+      "name": "St John Park",
       "lat": 9.9447984,
       "lon": 76.2449348,
       "categories": [
@@ -449,7 +449,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:10758664348",
-      "name": "GCDA Park Vaduthala",
+      "name": "Gcda Park Vaduthala",
       "lat": 10.0213095,
       "lon": 76.2699782,
       "categories": [
@@ -1114,7 +1114,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11116183526",
-      "name": "nakshatra",
+      "name": "Nakshatra",
       "lat": 10.0010551,
       "lon": 76.3609218,
       "categories": [
@@ -1152,7 +1152,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11116193801",
-      "name": "Kolam La cuisine",
+      "name": "Kolam La Cuisine",
       "lat": 10.0010562,
       "lon": 76.3605293,
       "categories": [
@@ -1209,7 +1209,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11116244839",
-      "name": "the Teapot Cafe",
+      "name": "The Teapot Cafe",
       "lat": 10.0012194,
       "lon": 76.3595687,
       "categories": [
@@ -1361,7 +1361,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11116615183",
-      "name": "Tea time",
+      "name": "Tea Time",
       "lat": 9.9969128,
       "lon": 76.3608171,
       "categories": [
@@ -1437,7 +1437,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11117204749",
-      "name": "Day and Light cafe",
+      "name": "Day and Light Cafe",
       "lat": 10.0075397,
       "lon": 76.3557757,
       "categories": [
@@ -2027,7 +2027,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11155534898",
-      "name": "Reliance Smart Point;Wild Buff's Coffee",
+      "name": "Reliance Smart Point; Wild Buff's Coffee",
       "lat": 10.0162233,
       "lon": 76.3583386,
       "categories": [
@@ -2084,7 +2084,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11155549698",
-      "name": "Median 90 degrees east (M90 Eatery)",
+      "name": "Median 90 Degrees East (M90 Eatery)",
       "lat": 10.0161457,
       "lon": 76.3588259,
       "categories": [
@@ -2103,7 +2103,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11155549894",
-      "name": "Caravan Ice-cream café",
+      "name": "Caravan Ice-cream Café",
       "lat": 10.0158993,
       "lon": 76.3621678,
       "categories": [
@@ -2217,7 +2217,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11155577624",
-      "name": "Chaiye express",
+      "name": "Chaiye Express",
       "lat": 10.0155397,
       "lon": 76.3652236,
       "categories": [
@@ -2236,7 +2236,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11155593496",
-      "name": "Grand  Vettekkad Restaurant",
+      "name": "Grand Vettekkad Restaurant",
       "lat": 10.0156128,
       "lon": 76.3663286,
       "categories": [
@@ -3053,7 +3053,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11347248275",
-      "name": "pitaworks",
+      "name": "Pitaworks",
       "lat": 10.0142466,
       "lon": 76.3339119,
       "categories": [
@@ -3148,7 +3148,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11392061840",
-      "name": "kalisto cafe",
+      "name": "Kalisto Cafe",
       "lat": 10.0040177,
       "lon": 76.2895339,
       "categories": [
@@ -3433,7 +3433,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11519316839",
-      "name": "Pepper boat",
+      "name": "Pepper Boat",
       "lat": 10.005537,
       "lon": 76.3136009,
       "categories": [
@@ -3509,7 +3509,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:11634668969",
-      "name": "Loving Earth Yoga Cafe vegan",
+      "name": "Loving Earth Yoga Cafe Vegan",
       "lat": 9.9638506,
       "lon": 76.2390847,
       "categories": [
@@ -5143,7 +5143,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12254727149",
-      "name": "BOBO",
+      "name": "Bobo",
       "lat": 9.963224,
       "lon": 76.2420792,
       "categories": [
@@ -5333,7 +5333,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12375815726",
-      "name": "Sakura Komichi - Japanese restaurant",
+      "name": "Sakura Komichi - Japanese Restaurant",
       "lat": 10.0307045,
       "lon": 76.3715669,
       "categories": [
@@ -5979,7 +5979,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12596571126",
-      "name": "yeti momos",
+      "name": "Yeti Momos",
       "lat": 10.0431089,
       "lon": 76.3541791,
       "categories": [
@@ -6036,7 +6036,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12596708844",
-      "name": "cake hut",
+      "name": "Cake Hut",
       "lat": 10.0147644,
       "lon": 76.3344918,
       "categories": [
@@ -6170,7 +6170,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12730728551",
-      "name": "Waiting space cafe",
+      "name": "Waiting Space Cafe",
       "lat": 10.0876356,
       "lon": 76.3881681,
       "categories": [
@@ -6189,7 +6189,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12741821711",
-      "name": "Champakkara nights",
+      "name": "Champakkara Nights",
       "lat": 9.9549424,
       "lon": 76.3163562,
       "categories": [
@@ -6208,7 +6208,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:12750341543",
-      "name": "Space.",
+      "name": "Space",
       "lat": 9.969972,
       "lon": 76.3200262,
       "categories": [
@@ -6741,7 +6741,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13326134986",
-      "name": "BOBA LIVE",
+      "name": "Boba Live",
       "lat": 10.0156446,
       "lon": 76.3426596,
       "categories": [
@@ -6760,7 +6760,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13326221726",
-      "name": "Let's Dine River view - Multi Cuisine Seafood Restaurant",
+      "name": "Let's Dine River View - Multi Cuisine Seafood Restaurant",
       "lat": 9.9929409,
       "lon": 76.3531845,
       "categories": [
@@ -7654,7 +7654,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13432581449",
-      "name": "Los Angeles cafe",
+      "name": "Los Angeles Cafe",
       "lat": 9.968283,
       "lon": 76.2518949,
       "categories": [
@@ -7673,7 +7673,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13446144301",
-      "name": "Fres trees",
+      "name": "Fres Trees",
       "lat": 10.0228901,
       "lon": 76.3098484,
       "categories": [
@@ -7768,7 +7768,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13514015166",
-      "name": "KSUM amphitheatre",
+      "name": "Ksum Amphitheatre",
       "lat": 10.0556823,
       "lon": 76.3540888,
       "categories": [
@@ -7882,7 +7882,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13601132676",
-      "name": "Lilly's restaurant",
+      "name": "Lilly's Restaurant",
       "lat": 9.9690953,
       "lon": 76.2937084,
       "categories": [
@@ -7920,7 +7920,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13603150295",
-      "name": "Mas food court",
+      "name": "Mas Food Court",
       "lat": 10.067586,
       "lon": 76.2126196,
       "categories": [
@@ -8034,7 +8034,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13737444801",
-      "name": "Chai hut",
+      "name": "Chai Hut",
       "lat": 10.0079813,
       "lon": 76.3649063,
       "categories": [
@@ -8053,7 +8053,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13743845799",
-      "name": "Able point. Shop run by differently abled",
+      "name": "Able Point. Shop Run by Differently Abled",
       "lat": 10.0179866,
       "lon": 76.3496851,
       "categories": [
@@ -8091,7 +8091,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13755225801",
-      "name": "stacked by wing culture",
+      "name": "Stacked by Wing Culture",
       "lat": 10.0145652,
       "lon": 76.3363753,
       "categories": [
@@ -8205,7 +8205,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13851688335",
-      "name": "Al waha mandi",
+      "name": "Al Waha Mandi",
       "lat": 10.0695704,
       "lon": 76.2122468,
       "categories": [
@@ -8910,7 +8910,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:13999972888",
-      "name": "teju restaurant",
+      "name": "Teju Restaurant",
       "lat": 10.031923,
       "lon": 76.3240441,
       "categories": [
@@ -9482,7 +9482,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:14192244545",
-      "name": "Ammacis kitchen",
+      "name": "Ammacis Kitchen",
       "lat": 10.0050042,
       "lon": 76.2886849,
       "categories": [
@@ -9558,7 +9558,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:14247450593",
-      "name": "Lúdico - The board game cafe",
+      "name": "Lúdico - The Board Game Cafe",
       "lat": 10.0170496,
       "lon": 76.3588344,
       "categories": [
@@ -9672,7 +9672,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:1474038695",
-      "name": "Luciya's Food court",
+      "name": "Luciya's Food Court",
       "lat": 10.0043129,
       "lon": 76.3107128,
       "categories": [
@@ -10091,7 +10091,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:2391316075",
-      "name": "Shantilal Sweet store",
+      "name": "Shantilal Sweet Store",
       "lat": 9.9597213,
       "lon": 76.2552363,
       "categories": [
@@ -10167,7 +10167,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:2391403986",
-      "name": "Pai's Cool bar",
+      "name": "Pai's Cool Bar",
       "lat": 9.957678,
       "lon": 76.2514048,
       "categories": [
@@ -10410,7 +10410,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "Kochi,",
+      "address": "Kochi",
       "url": "https://www.openstreetmap.org/node/3287343272"
     },
     {
@@ -10429,7 +10429,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "Padamugal,Kakkanad",
+      "address": "Padamugal, Kakkanad",
       "url": "https://www.openstreetmap.org/node/343709646"
     },
     {
@@ -10548,7 +10548,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4107620114",
-      "name": "Burger spot",
+      "name": "Burger Spot",
       "lat": 10.0464543,
       "lon": 76.3214678,
       "categories": [
@@ -10567,7 +10567,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4193564604",
-      "name": "B for Biryani Kochi.",
+      "name": "B for Biryani Kochi",
       "lat": 9.9628396,
       "lon": 76.2546907,
       "categories": [
@@ -10757,7 +10757,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4426150080",
-      "name": "Anandhas veg",
+      "name": "Anandhas Veg",
       "lat": 10.0259841,
       "lon": 76.3064321,
       "categories": [
@@ -10852,7 +10852,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4534538890",
-      "name": "Pappada vada",
+      "name": "Pappada Vada",
       "lat": 9.9942364,
       "lon": 76.2924487,
       "categories": [
@@ -10928,7 +10928,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4582215689",
-      "name": "CINEPLUS CINEMAS",
+      "name": "Cineplus Cinemas",
       "lat": 10.0415947,
       "lon": 76.3154443,
       "categories": [
@@ -11314,7 +11314,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4721725295",
-      "name": "Oys cafe",
+      "name": "Oys Cafe",
       "lat": 9.9665566,
       "lon": 76.2428351,
       "categories": [
@@ -11603,7 +11603,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:4832843521",
-      "name": "dosa and pancakes",
+      "name": "Dosa and Pancakes",
       "lat": 9.9687342,
       "lon": 76.2499043,
       "categories": [
@@ -12213,7 +12213,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:5572435341",
-      "name": "Village restaurant",
+      "name": "Village Restaurant",
       "lat": 10.0570304,
       "lon": 76.2914455,
       "categories": [
@@ -12404,7 +12404,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:5757830530",
-      "name": "Shibus Fast food",
+      "name": "Shibus Fast Food",
       "lat": 10.0498775,
       "lon": 76.3330043,
       "categories": [
@@ -12556,7 +12556,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6070437185",
-      "name": "kashi",
+      "name": "Kashi",
       "lat": 9.9639999,
       "lon": 76.2445652,
       "categories": [
@@ -12575,7 +12575,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6073211086",
-      "name": "fusion bas",
+      "name": "Fusion Bas",
       "lat": 9.9629586,
       "lon": 76.2438343,
       "categories": [
@@ -12594,7 +12594,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6073211286",
-      "name": "fusion bay",
+      "name": "Fusion Bay",
       "lat": 9.9629312,
       "lon": 76.2445241,
       "categories": [
@@ -12874,7 +12874,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "Fort Cochin.",
+      "address": "Fort Cochin",
       "url": "https://www.openstreetmap.org/node/6507404176"
     },
     {
@@ -13069,7 +13069,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6895263285",
-      "name": "Ambili nagar pier",
+      "name": "Ambili Nagar Pier",
       "lat": 9.9471041,
       "lon": 76.3384957,
       "categories": [
@@ -13083,7 +13083,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "kochi",
+      "address": "Kochi",
       "url": "https://www.openstreetmap.org/node/6895263285"
     },
     {
@@ -13126,7 +13126,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6926329127",
-      "name": "Pandari's biriyani",
+      "name": "Pandari's Biriyani",
       "lat": 9.9780984,
       "lon": 76.2831878,
       "categories": [
@@ -13145,7 +13145,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6936500983",
-      "name": "Sharma restaurent",
+      "name": "Sharma Restaurent",
       "lat": 9.9793168,
       "lon": 76.2787691,
       "categories": [
@@ -13164,7 +13164,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6936604762",
-      "name": "Mes building",
+      "name": "Mes Building",
       "lat": 9.9923267,
       "lon": 76.2898491,
       "categories": [
@@ -13221,7 +13221,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6959399539",
-      "name": "Coffee beanz Traditionz",
+      "name": "Coffee Beanz Traditionz",
       "lat": 9.9812968,
       "lon": 76.2845507,
       "categories": [
@@ -13278,7 +13278,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6975631048",
-      "name": "Edappaly rakhavan memmorial Park",
+      "name": "Edappaly Rakhavan Memmorial Park",
       "lat": 10.0325479,
       "lon": 76.2998815,
       "categories": [
@@ -13297,7 +13297,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:6990105249",
-      "name": "The taapioca",
+      "name": "The Taapioca",
       "lat": 10.0047414,
       "lon": 76.2878605,
       "categories": [
@@ -13506,7 +13506,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7199571385",
-      "name": "Chak dhe",
+      "name": "Chak Dhe",
       "lat": 9.9781699,
       "lon": 76.2832086,
       "categories": [
@@ -13677,7 +13677,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7227168104",
-      "name": "Sreekrishna bhavan Veg",
+      "name": "Sreekrishna Bhavan Veg",
       "lat": 9.945326,
       "lon": 76.3448411,
       "categories": [
@@ -13830,7 +13830,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7274141664",
-      "name": "indian cuisine",
+      "name": "Indian Cuisine",
       "lat": 10.0183982,
       "lon": 76.3680366,
       "categories": [
@@ -13849,7 +13849,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7274208459",
-      "name": "occasion",
+      "name": "Occasion",
       "lat": 10.0268915,
       "lon": 76.3694728,
       "categories": [
@@ -13868,7 +13868,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7274219396",
-      "name": "kadambrayar",
+      "name": "Kadambrayar",
       "lat": 10.0299737,
       "lon": 76.3846658,
       "categories": [
@@ -13963,7 +13963,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7321885759",
-      "name": "Sunrise Food Parcel store",
+      "name": "Sunrise Food Parcel Store",
       "lat": 9.9040127,
       "lon": 76.3935587,
       "categories": [
@@ -14001,7 +14001,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7322083353",
-      "name": "ENNAM Aquare",
+      "name": "Ennam Aquare",
       "lat": 9.9519123,
       "lon": 76.3921859,
       "categories": [
@@ -14039,7 +14039,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7330976175",
-      "name": "SREE MURUGA CAFE",
+      "name": "Sree Muruga Cafe",
       "lat": 9.9098757,
       "lon": 76.3616667,
       "categories": [
@@ -14096,7 +14096,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7335071399",
-      "name": "kairali foods",
+      "name": "Kairali Foods",
       "lat": 10.0466055,
       "lon": 76.3128028,
       "categories": [
@@ -14115,7 +14115,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7335071404",
-      "name": "vanitha vineetha cineplex",
+      "name": "Vanitha Vineetha Cineplex",
       "lat": 10.0383336,
       "lon": 76.3063333,
       "categories": [
@@ -14286,7 +14286,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7462893787",
-      "name": "LAKSHMI BHAVAN RESTAURANT",
+      "name": "Lakshmi Bhavan Restaurant",
       "lat": 9.9324299,
       "lon": 76.3912307,
       "categories": [
@@ -14343,7 +14343,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7462954511",
-      "name": "santhosh coolbar",
+      "name": "Santhosh Coolbar",
       "lat": 9.9334103,
       "lon": 76.3830165,
       "categories": [
@@ -14571,7 +14571,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7466544912",
-      "name": "ZAM ZAM COOL BAR",
+      "name": "Zam Zam Cool Bar",
       "lat": 9.9199059,
       "lon": 76.2743759,
       "categories": [
@@ -14642,7 +14642,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ernakulam",
+      "address": "Ernakulam",
       "url": "https://www.openstreetmap.org/node/7467810871"
     },
     {
@@ -14704,7 +14704,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7467895994",
-      "name": "NOSH HAUS",
+      "name": "Nosh Haus",
       "lat": 10.0889579,
       "lon": 76.3435152,
       "categories": [
@@ -15179,7 +15179,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7471881992",
-      "name": "Sidra food court",
+      "name": "Sidra Food Court",
       "lat": 9.9646473,
       "lon": 76.3001926,
       "categories": [
@@ -15293,7 +15293,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7472799223",
-      "name": "ajwa hotel",
+      "name": "Ajwa Hotel",
       "lat": 10.0330297,
       "lon": 76.3251717,
       "categories": [
@@ -15331,7 +15331,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7473040454",
-      "name": "Cafe point",
+      "name": "Cafe Point",
       "lat": 10.0330946,
       "lon": 76.3251771,
       "categories": [
@@ -15350,7 +15350,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7473059271",
-      "name": "Fathima hotel",
+      "name": "Fathima Hotel",
       "lat": 10.0281426,
       "lon": 76.3261574,
       "categories": [
@@ -15369,7 +15369,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7473524085",
-      "name": "choice park",
+      "name": "Choice Park",
       "lat": 10.0078445,
       "lon": 76.2882392,
       "categories": [
@@ -15915,7 +15915,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "pachalam",
+      "address": "Pachalam",
       "url": "https://www.openstreetmap.org/node/7491835814"
     },
     {
@@ -15934,7 +15934,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "pachalam",
+      "address": "Pachalam",
       "url": "https://www.openstreetmap.org/node/7491835821"
     },
     {
@@ -16243,7 +16243,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7492238924",
-      "name": "Mariya complex",
+      "name": "Mariya Complex",
       "lat": 10.0806301,
       "lon": 76.3750978,
       "categories": [
@@ -16319,7 +16319,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7492522598",
-      "name": "rr cofee shope",
+      "name": "Rr Cofee Shope",
       "lat": 10.0328149,
       "lon": 76.3118074,
       "categories": [
@@ -16333,7 +16333,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "aluva",
+      "address": "Aluva",
       "url": "https://www.openstreetmap.org/node/7492522598"
     },
     {
@@ -16471,7 +16471,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7496688089",
-      "name": "Pee cee bake",
+      "name": "Pee Cee Bake",
       "lat": 10.0856495,
       "lon": 76.3754485,
       "categories": [
@@ -16490,7 +16490,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7496688091",
-      "name": "peecee bakers",
+      "name": "Peecee Bakers",
       "lat": 10.0856633,
       "lon": 76.3755489,
       "categories": [
@@ -16509,7 +16509,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7496688125",
-      "name": "Joys hotel chunangamvely",
+      "name": "Joys Hotel Chunangamvely",
       "lat": 10.0870055,
       "lon": 76.3827856,
       "categories": [
@@ -16604,7 +16604,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7500481967",
-      "name": "fathimas hotel",
+      "name": "Fathimas Hotel",
       "lat": 9.9465712,
       "lon": 76.2558044,
       "categories": [
@@ -16623,7 +16623,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7500481971",
-      "name": "Arafa hotel",
+      "name": "Arafa Hotel",
       "lat": 9.9473887,
       "lon": 76.2560028,
       "categories": [
@@ -16718,7 +16718,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498114",
-      "name": "Poori shop veg hotel",
+      "name": "Poori Shop Veg Hotel",
       "lat": 10.0057378,
       "lon": 76.345675,
       "categories": [
@@ -16737,7 +16737,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498181",
-      "name": "Diwans durbar kakkanad",
+      "name": "Diwans Durbar Kakkanad",
       "lat": 10.0162692,
       "lon": 76.3437666,
       "categories": [
@@ -16775,7 +16775,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498239",
-      "name": "Seetha devi juice parlour and bakery",
+      "name": "Seetha Devi Juice Parlour and Bakery",
       "lat": 10.016704,
       "lon": 76.3446221,
       "categories": [
@@ -16794,7 +16794,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498249",
-      "name": "zero time",
+      "name": "Zero Time",
       "lat": 10.0597039,
       "lon": 76.2900966,
       "categories": [
@@ -16832,7 +16832,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498319",
-      "name": "Arabian paradise",
+      "name": "Arabian Paradise",
       "lat": 10.0510117,
       "lon": 76.2936291,
       "categories": [
@@ -16851,7 +16851,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498368",
-      "name": "Village restaurant",
+      "name": "Village Restaurant",
       "lat": 10.0573269,
       "lon": 76.291354,
       "categories": [
@@ -16870,7 +16870,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498406",
-      "name": "subway takeway delivery",
+      "name": "Subway Takeway Delivery",
       "lat": 10.0154295,
       "lon": 76.3416642,
       "categories": [
@@ -16889,7 +16889,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498426",
-      "name": "Sulaimani bakers and food court",
+      "name": "Sulaimani Bakers and Food Court",
       "lat": 10.0166321,
       "lon": 76.3444988,
       "categories": [
@@ -16908,7 +16908,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7503498519",
-      "name": "Naruneendi sarbath shoo",
+      "name": "Naruneendi Sarbath Shoo",
       "lat": 10.0160261,
       "lon": 76.342962,
       "categories": [
@@ -17136,7 +17136,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7523076308",
-      "name": "AIMS Juice Parlor",
+      "name": "Aims Juice Parlor",
       "lat": 10.0334738,
       "lon": 76.294447,
       "categories": [
@@ -17402,7 +17402,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7635283790",
-      "name": "Vibe hot and cool",
+      "name": "Vibe Hot and Cool",
       "lat": 9.9788017,
       "lon": 76.2777962,
       "categories": [
@@ -17421,7 +17421,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7635283791",
-      "name": "Dhiya cool",
+      "name": "Dhiya Cool",
       "lat": 9.9786194,
       "lon": 76.2777254,
       "categories": [
@@ -17611,7 +17611,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:7925564114",
-      "name": "NUALS Aminity Centre",
+      "name": "Nuals Aminity Centre",
       "lat": 10.0594679,
       "lon": 76.3610424,
       "categories": [
@@ -17725,7 +17725,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8018758745",
-      "name": "Coffe shop",
+      "name": "Coffe Shop",
       "lat": 10.0218027,
       "lon": 76.3378826,
       "categories": [
@@ -17744,7 +17744,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8025440504",
-      "name": "MSK Fruits & Juice shop",
+      "name": "MSK Fruits & Juice Shop",
       "lat": 10.048936,
       "lon": 76.318726,
       "categories": [
@@ -17820,7 +17820,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8329535554",
-      "name": "loyel bakers",
+      "name": "Loyel Bakers",
       "lat": 9.9548009,
       "lon": 76.327456,
       "categories": [
@@ -17834,12 +17834,12 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ernakulam",
+      "address": "Ernakulam",
       "url": "https://www.openstreetmap.org/node/8329535554"
     },
     {
       "id": "osm:node:8360477262",
-      "name": "Suniyude chaaya kada",
+      "name": "Suniyude Chaaya Kada",
       "lat": 9.9591526,
       "lon": 76.3672018,
       "categories": [
@@ -17935,7 +17935,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8512683719",
-      "name": "frutiya bakery and coolbar",
+      "name": "Frutiya Bakery and Coolbar",
       "lat": 9.9478494,
       "lon": 76.2560734,
       "categories": [
@@ -18049,7 +18049,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8686484260",
-      "name": "Hom Food court",
+      "name": "Hom Food Court",
       "lat": 9.9819409,
       "lon": 76.2411566,
       "categories": [
@@ -18087,7 +18087,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8721837598",
-      "name": "District 7 Restro cafe",
+      "name": "District 7 Restro Cafe",
       "lat": 9.9639478,
       "lon": 76.3181381,
       "categories": [
@@ -18220,7 +18220,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8831660301",
-      "name": "liberty cafe",
+      "name": "Liberty Cafe",
       "lat": 9.9820111,
       "lon": 76.2983993,
       "categories": [
@@ -18239,7 +18239,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8831925917",
-      "name": "cool cafe",
+      "name": "Cool Cafe",
       "lat": 9.9329377,
       "lon": 76.3540654,
       "categories": [
@@ -18258,7 +18258,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8832616979",
-      "name": "EAST HUT",
+      "name": "East Hut",
       "lat": 9.9467831,
       "lon": 76.394475,
       "categories": [
@@ -18486,7 +18486,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:8867627733",
-      "name": "cafe al arab",
+      "name": "Cafe Al Arab",
       "lat": 9.9371572,
       "lon": 76.2609312,
       "categories": [
@@ -18657,7 +18657,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9003532408",
-      "name": "samruthi",
+      "name": "Samruthi",
       "lat": 10.0904995,
       "lon": 76.2760028,
       "categories": [
@@ -18671,7 +18671,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "alangad, ernakulam",
+      "address": "Alangad, Ernakulam",
       "url": "https://www.openstreetmap.org/node/9003532408"
     },
     {
@@ -18714,7 +18714,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9113615330",
-      "name": "down hill cafe",
+      "name": "Down Hill Cafe",
       "lat": 10.0523348,
       "lon": 76.3307877,
       "categories": [
@@ -18752,7 +18752,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9168707818",
-      "name": "The Great Marina mall",
+      "name": "The Great Marina Mall",
       "lat": 9.9356569,
       "lon": 76.2639958,
       "categories": [
@@ -18771,7 +18771,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9168733017",
-      "name": "The Great marina mall",
+      "name": "The Great Marina Mall",
       "lat": 9.9356914,
       "lon": 76.2640741,
       "categories": [
@@ -18809,7 +18809,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9181817145",
-      "name": "grill & chill",
+      "name": "Grill & Chill",
       "lat": 10.0014283,
       "lon": 76.2794479,
       "categories": [
@@ -18828,7 +18828,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9181825149",
-      "name": "vaishali",
+      "name": "Vaishali",
       "lat": 10.0062859,
       "lon": 76.2785672,
       "categories": [
@@ -18866,7 +18866,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9241253174",
-      "name": "BRU cafe kmea",
+      "name": "BRU Cafe Kmea",
       "lat": 10.0538713,
       "lon": 76.3797578,
       "categories": [
@@ -18885,7 +18885,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9242825605",
-      "name": "kmea view point",
+      "name": "Kmea View Point",
       "lat": 10.0530412,
       "lon": 76.3791173,
       "categories": [
@@ -18904,7 +18904,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9242905429",
-      "name": "kmea canteen",
+      "name": "Kmea Canteen",
       "lat": 10.0527776,
       "lon": 76.380325,
       "categories": [
@@ -19018,7 +19018,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9482980035",
-      "name": "GRILL TOWN KOCHI",
+      "name": "Grill Town Kochi",
       "lat": 10.0124665,
       "lon": 76.2920423,
       "categories": [
@@ -19361,7 +19361,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:node:9899651217",
-      "name": "Tasteak broast",
+      "name": "Tasteak Broast",
       "lat": 10.0134796,
       "lon": 76.357167,
       "categories": [
@@ -19418,7 +19418,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:relation:17307376",
-      "name": "Palluruthy veli ground",
+      "name": "Palluruthy Veli Ground",
       "lat": 9.9200999,
       "lon": 76.2738897,
       "categories": [
@@ -19456,7 +19456,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1001369940",
-      "name": "KMEA CANTEEN",
+      "name": "Kmea Canteen",
       "lat": 10.0528247,
       "lon": 76.3803061,
       "categories": [
@@ -19494,7 +19494,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1017121441",
-      "name": "Thanneerchal park",
+      "name": "Thanneerchal Park",
       "lat": 9.9582312,
       "lon": 76.3604502,
       "categories": [
@@ -19646,7 +19646,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1115746665",
-      "name": "basket ball court",
+      "name": "Basket Ball Court",
       "lat": 9.9301111,
       "lon": 76.2558,
       "categories": [
@@ -19684,7 +19684,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1117399766",
-      "name": "MEC park",
+      "name": "MEC Park",
       "lat": 9.9296877,
       "lon": 76.3871657,
       "categories": [
@@ -19762,7 +19762,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1172218643",
-      "name": "Aryaas hotel",
+      "name": "Aryaas Hotel",
       "lat": 9.9427374,
       "lon": 76.346332,
       "categories": [
@@ -19833,7 +19833,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "Kakkanad,Aluva,Ernakulam",
+      "address": "Kakkanad, Aluva, Ernakulam",
       "url": "https://www.openstreetmap.org/way/1188771591"
     },
     {
@@ -20085,7 +20085,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1216765399",
-      "name": "Uncle's restaurant",
+      "name": "Uncle's Restaurant",
       "lat": 9.9652134,
       "lon": 76.2437356,
       "categories": [
@@ -20161,7 +20161,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1217283285",
-      "name": "Kiosk CUSAT",
+      "name": "Kiosk Cusat",
       "lat": 9.9643602,
       "lon": 76.2827008,
       "categories": [
@@ -20294,7 +20294,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1255176955",
-      "name": "DESSI CUPPA",
+      "name": "Dessi Cuppa",
       "lat": 10.0466494,
       "lon": 76.3216389,
       "categories": [
@@ -20389,7 +20389,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1260468270",
-      "name": "BIG fat Momo",
+      "name": "BIG Fat Momo",
       "lat": 9.9856097,
       "lon": 76.2770464,
       "categories": [
@@ -20579,7 +20579,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1307702116",
-      "name": "Al Burooj - Food court and Bakers",
+      "name": "Al Burooj - Food Court and Bakers",
       "lat": 10.043664,
       "lon": 76.3555797,
       "categories": [
@@ -20769,7 +20769,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:1340190764",
-      "name": "Momentum park",
+      "name": "Momentum Park",
       "lat": 10.0457184,
       "lon": 76.3262369,
       "categories": [
@@ -21434,7 +21434,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:230636068",
-      "name": "T. D. High School ground",
+      "name": "T. D. High School Ground",
       "lat": 9.9591943,
       "lon": 76.2526395,
       "categories": [
@@ -21549,7 +21549,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:265588556",
-      "name": "Govt Higher Secondary School ground",
+      "name": "Govt Higher Secondary School Ground",
       "lat": 10.0135184,
       "lon": 76.3004486,
       "categories": [
@@ -21601,7 +21601,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "kochi",
+      "address": "Kochi",
       "url": "https://www.openstreetmap.org/way/335312283"
     },
     {
@@ -21677,12 +21677,12 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "north kalamassery",
+      "address": "North Kalamassery",
       "url": "https://www.openstreetmap.org/way/380396306"
     },
     {
       "id": "osm:way:381274143",
-      "name": "CSIS Childrens Science Park",
+      "name": "Csis Childrens Science Park",
       "lat": 10.0461893,
       "lon": 76.3278379,
       "categories": [
@@ -21739,7 +21739,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:381277790",
-      "name": "CUSAT Restaurant",
+      "name": "Cusat Restaurant",
       "lat": 10.0421945,
       "lon": 76.3285659,
       "categories": [
@@ -21791,12 +21791,12 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ernakulam",
+      "address": "Ernakulam",
       "url": "https://www.openstreetmap.org/way/408508495"
     },
     {
       "id": "osm:way:408587010",
-      "name": "TAJ foodcourt",
+      "name": "TAJ Foodcourt",
       "lat": 9.9641788,
       "lon": 76.2459675,
       "categories": [
@@ -21867,7 +21867,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "kochi",
+      "address": "Kochi",
       "url": "https://www.openstreetmap.org/way/410012435"
     },
     {
@@ -21987,7 +21987,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:493781392",
-      "name": "PNWA Park",
+      "name": "Pnwa Park",
       "lat": 9.9628859,
       "lon": 76.296383,
       "categories": [
@@ -22045,7 +22045,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:53020351",
-      "name": "Palluruthy Azakiyakavu temple ground",
+      "name": "Palluruthy Azakiyakavu Temple Ground",
       "lat": 9.92704,
       "lon": 76.2706448,
       "categories": [
@@ -22102,7 +22102,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:589504286",
-      "name": "Tirumala Devaswom High School,Mattanchery",
+      "name": "Tirumala Devaswom High School, Mattanchery",
       "lat": 9.9583469,
       "lon": 76.2519721,
       "categories": [
@@ -22159,7 +22159,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:619638347",
-      "name": "Mummy's Uduppi restaurant",
+      "name": "Mummy's Uduppi Restaurant",
       "lat": 9.9255875,
       "lon": 76.3559725,
       "categories": [
@@ -22444,7 +22444,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:690763463",
-      "name": "P.R Mathew park",
+      "name": "P.R Mathew Park",
       "lat": 9.9221788,
       "lon": 76.2640519,
       "categories": [
@@ -22458,7 +22458,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "KOCHI",
+      "address": "Kochi",
       "url": "https://www.openstreetmap.org/way/690763463"
     },
     {
@@ -22482,7 +22482,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:690904195",
-      "name": "Temple ground",
+      "name": "Temple Ground",
       "lat": 9.9242045,
       "lon": 76.2720463,
       "categories": [
@@ -22634,7 +22634,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:722976443",
-      "name": "TM Muhammed park",
+      "name": "TM Muhammed Park",
       "lat": 9.9655762,
       "lon": 76.2501946,
       "categories": [
@@ -22881,7 +22881,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:788988702",
-      "name": "GCDA Childrens Prk",
+      "name": "Gcda Childrens Prk",
       "lat": 9.9576815,
       "lon": 76.2968444,
       "categories": [
@@ -22995,7 +22995,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:795140265",
-      "name": "NOSH HAUS",
+      "name": "Nosh Haus",
       "lat": 10.0885885,
       "lon": 76.3433485,
       "categories": [
@@ -23033,7 +23033,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:797802925",
-      "name": "GCDA Shopping Complex",
+      "name": "Gcda Shopping Complex",
       "lat": 9.9627991,
       "lon": 76.2957465,
       "categories": [
@@ -23090,7 +23090,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:797933851",
-      "name": "city kitchen",
+      "name": "City Kitchen",
       "lat": 9.9390819,
       "lon": 76.3265307,
       "categories": [
@@ -23332,7 +23332,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "THRIPUNITHURA",
+      "address": "Thripunithura",
       "url": "https://www.openstreetmap.org/way/798822962"
     },
     {
@@ -23717,7 +23717,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:799423655",
-      "name": "Cafe d' Arabia",
+      "name": "Cafe D' Arabia",
       "lat": 10.0302988,
       "lon": 76.3049064,
       "categories": [
@@ -23926,7 +23926,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:800032172",
-      "name": "DEJA VU Cafe",
+      "name": "Deja VU Cafe",
       "lat": 10.0100551,
       "lon": 76.2732853,
       "categories": [
@@ -24173,7 +24173,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:801557698",
-      "name": "nettoor post office",
+      "name": "Nettoor Post Office",
       "lat": 9.9262122,
       "lon": 76.3201536,
       "categories": [
@@ -24192,7 +24192,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:802075881",
-      "name": "Onam Park mavelipuram",
+      "name": "Onam Park Mavelipuram",
       "lat": 10.0208319,
       "lon": 76.3425023,
       "categories": [
@@ -24249,7 +24249,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:802122196",
-      "name": "Hotel Mohana vilas",
+      "name": "Hotel Mohana Vilas",
       "lat": 9.9737176,
       "lon": 76.2881546,
       "categories": [
@@ -24344,7 +24344,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:802859878",
-      "name": "pandari's biriyani",
+      "name": "Pandari's Biriyani",
       "lat": 9.9810823,
       "lon": 76.286982,
       "categories": [
@@ -24420,7 +24420,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:802954510",
-      "name": "nadan oonum meen ruchiyum",
+      "name": "Nadan Oonum Meen Ruchiyum",
       "lat": 9.9812542,
       "lon": 76.2869415,
       "categories": [
@@ -24439,7 +24439,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:802954513",
-      "name": "oxy restaurant",
+      "name": "Oxy Restaurant",
       "lat": 9.9816944,
       "lon": 76.2870084,
       "categories": [
@@ -24553,7 +24553,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:820817267",
-      "name": "Juice stall & Tea shop",
+      "name": "Juice Stall & Tea Shop",
       "lat": 9.9958885,
       "lon": 76.3256054,
       "categories": [
@@ -24668,7 +24668,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:838367503",
-      "name": "Baba tea",
+      "name": "Baba Tea",
       "lat": 10.0493783,
       "lon": 76.3329994,
       "categories": [
@@ -24763,7 +24763,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:895832162",
-      "name": "SAJITHA BAKERY",
+      "name": "Sajitha Bakery",
       "lat": 10.0110873,
       "lon": 76.2870553,
       "categories": [
@@ -24777,7 +24777,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ELAMAKKARA",
+      "address": "Elamakkara",
       "url": "https://www.openstreetmap.org/way/895832162"
     },
     {
@@ -24796,7 +24796,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ELAMAKKARA",
+      "address": "Elamakkara",
       "url": "https://www.openstreetmap.org/way/895834122"
     },
     {
@@ -24820,7 +24820,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:896603485",
-      "name": "choice bakers",
+      "name": "Choice Bakers",
       "lat": 9.9539634,
       "lon": 76.3264109,
       "categories": [
@@ -24834,7 +24834,7 @@ export const KOCHI_CATALOGUE = {
       ],
       "wikipedia": "",
       "wikidata": "",
-      "address": "ernakulam",
+      "address": "Ernakulam",
       "url": "https://www.openstreetmap.org/way/896603485"
     },
     {
@@ -24915,7 +24915,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:923258768",
-      "name": "restaurent",
+      "name": "Restaurent",
       "lat": 10.0635754,
       "lon": 76.2463942,
       "categories": [
@@ -25010,7 +25010,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:948002971",
-      "name": "Residential park",
+      "name": "Residential Park",
       "lat": 9.9785324,
       "lon": 76.2929486,
       "categories": [
@@ -25029,7 +25029,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:948003910",
-      "name": "garden walkway park",
+      "name": "Garden Walkway Park",
       "lat": 9.9789412,
       "lon": 76.2936385,
       "categories": [
@@ -25162,7 +25162,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:958345516",
-      "name": "Ammypot (woodys brook)",
+      "name": "Ammypot (Woodys Brook)",
       "lat": 9.9997302,
       "lon": 76.3030943,
       "categories": [
@@ -25238,7 +25238,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:984228144",
-      "name": "cafeteria rajagiri",
+      "name": "Cafeteria Rajagiri",
       "lat": 10.052733,
       "lon": 76.3145602,
       "categories": [
@@ -25257,7 +25257,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:984228145",
-      "name": "Rajagiri lp park",
+      "name": "Rajagiri LP Park",
       "lat": 10.0540104,
       "lon": 76.3160569,
       "categories": [
@@ -25314,7 +25314,7 @@ export const KOCHI_CATALOGUE = {
     },
     {
       "id": "osm:way:993818092",
-      "name": "Grill & chill",
+      "name": "Grill & Chill",
       "lat": 10.0014379,
       "lon": 76.2794533,
       "categories": [

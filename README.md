@@ -2,6 +2,18 @@
 
 An Expo SDK 54 / React Native app for 2–4 friends in Kerala. Runs in Expo Go and on the web.
 
+## Project layout
+
+- `frontend/`: app entry point, React UI components and map styles. Start with
+  [the frontend editing guide](frontend/README.md).
+- `lib/`: shared planning, search, routing and data helpers.
+- `data/`: saved datasets and generated catalogues.
+- `scripts/`: dataset download/import/build tools.
+- `tests/`: automated checks.
+
+Run npm/Expo commands from this project root. Configuration and `.env` stay here;
+the Expo entry point is `frontend/index.js`.
+
 ## Run
 
 ```powershell
@@ -38,18 +50,20 @@ cutoffs**. Longer trips remain eligible. Stay closer searches around the group,
 30 km beyond its farthest starting point; Go farther considers all Kerala, including
 places outside friends' local areas. No shared-radius intersection is required.
 
-1. Shortlist up to 64 candidates using approximate relative balance, proximity and
-   geographic diversity. City/Mixed use towns and neighbourhoods; Scenic uses actual
-   nature features. Mapped private/no-access scenic features are excluded.
+1. Shortlist up to 64 candidates: places where the extra travel beyond a comfort
+   threshold is most even, the closest places overall, and a geographic spread.
+   City/Mixed use towns and neighbourhoods; Scenic uses actual nature features.
+   Mapped private/no-access scenic features are excluded.
 2. Get road distances and times; exclude unreachable or previously visited places.
 3. Match the selected experience and activities using nearby saved OSM evidence.
    An unavailable lookup can use handwritten town vibes, never fabricated counts.
-4. Rank **70% journey fairness + 30% experience**. Journey similarity is the shortest
-   journey divided by the longest (both zero means 100%). Similar journeys weights
-   similarity 90% and efficiency 10%; Less travel weights them 30% and 70%.
-   Efficiency compares each longest journey with the shortest longest journey among
-   matching candidates. Scenic + Go farther always uses road distance and the
-   Similar journeys weighting. Other choices can balance time or distance.
+4. Rank **70% journey fairness + 30% experience**. Drives under a comfort threshold
+   (20 minutes, or 12 km when balancing distance) all count as even; evenness only
+   compares the extra travel beyond it. Efficiency favours shorter longest drives,
+   softened so 8 vs 12 minutes barely matters. Similar drives weights evenness 60%
+   and efficiency 40%; Less driving overall weights them 25% and 75%.
+   Scenic + Go farther is a deliberate long trip: it compares road distances
+   proportionally (shortest ÷ longest) and keeps the 90% / 10% weighting.
 
 Scenic destination evidence gets a base score plus nearby nature diversity, so a
 single waterfall need not compete by restaurant/park density. Scores indicate
@@ -127,7 +141,7 @@ hours, access and venue status are not independently verified. Older supplementa
 snapshots can retain records missing from a newer extract.
 
 The web basemap uses [OpenFreeMap](https://openfreemap.org/quick_start/) vector
-tiles through MapLibre/Leaflet. `data/map-style.json` is a saved Liberty style
+tiles through MapLibre/Leaflet. `frontend/styles/map-style.json` is a saved Liberty style
 with ferry transport excluded: raster OSM tiles previously showed dashed ferry
 routes across the sea, independently of the app's straight pin connectors.
 Both sources of misleading journey lines are removed on web. Native Expo Go uses
@@ -142,7 +156,7 @@ npm.cmd run export:web
 npx.cmd expo export --platform android --platform ios --output-dir dist-native
 ```
 
-60 Node checks cover relative fairness without hard caps, long-distance scenic
+66 Node checks cover comfort-threshold fairness without hard caps, long-distance scenic
 trips, all-14-district local search, airport/metro ranking and aliases, Kerala-only
 geocoding, coverage, spatial indexing, attractions, cancellation and history.
 Historical sample records remain test fixtures; they are not imported by the app.
@@ -155,14 +169,14 @@ incompatible framework upgrade was applied.
 
 ## Main files
 
-- `App.js`: trip flow, cancellation and history.
+- `frontend/hooks/useMeetingPlanner.js`: trip flow, cancellation and history (`frontend/App.js` only mounts the screen).
 - `data/towns.js`: candidate centres and handwritten fallback vibes.
 - `lib/experience.js`: fairness filtering, experience evidence and weighted ranking.
-- `lib/attractions.js`, `components/Attractions.js`: merged nearby attractions.
+- `lib/attractions.js`, `frontend/components/results/Attractions.js`: merged nearby attractions.
 - `lib/osm-venues.js`: OSM classification and English-name preference.
 - `lib/catalogues.js`, `data/kerala-regions.js`: saved regional data.
 - `scripts/pull-kerala.mjs`, `scripts/build-kerala.mjs`: resumable imports/builds.
-- `components/OutingPreferences.js`, `OutingResults.js`: choices and explanations.
+- `frontend/components/preferences/OutingPreferences.js`, `frontend/components/results/OutingResults.js`: choices and explanations.
 - Earlier `planner.js`, `discovery.js`, `meeting.js` and `places.js` retain tested
   helper/legacy paths; the main live flow uses the town experience planner.
 - `lib/location-index.js`, `data/location-index.js`: typed local place search.

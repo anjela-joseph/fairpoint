@@ -1,5 +1,6 @@
 import { readFile, writeFile, rename } from 'node:fs/promises';
 import { normalizeVenues } from '../lib/osm-venues.js';
+import { tidyLocationRow, tidyName } from '../lib/place-names.js';
 const root = new URL('../', import.meta.url);
 const geo = JSON.parse(await readFile(new URL('data/location-source/geonames-kerala.json', root), 'utf8'));
 let source = null;
@@ -19,12 +20,14 @@ for (const element of source?.elements || []) {
   const id = `osm:${element.type}:${element.id}`;
   rows.push([id, name, element.lat, element.lon, address, [...aliases, kind], kind, 'OpenStreetMap']);
   if (['city', 'town', 'village', 'suburb', 'neighbourhood'].includes(tags.place)) {
-    settlements.push({ id, name, lat: element.lat, lon: element.lon, kind: 'town', vibes: [], district: element.district, population: Number((tags.population || '0').replace(/,/g, '')) || 0, source: 'OpenStreetMap' });
+    settlements.push({ id, name: tidyName(name), lat: element.lat, lon: element.lon, kind: 'town', vibes: [], district: element.district, population: Number((tags.population || '0').replace(/,/g, '')) || 0, source: 'OpenStreetMap' });
   }
 }
 for (const place of geo.places) {
   rows.push([place.id, place.name, place.lat, place.lon, place.address, place.alternateNames.filter(name => name !== place.name), 'settlement', 'GeoNames']);
 }
+// Tidy punctuation and capitalisation for display (see lib/place-names.js).
+for (let i = 0; i < rows.length; i++) rows[i] = tidyLocationRow(rows[i]);
 const metadata = { generatedAt: new Date().toISOString(), count: rows.length, sources: [geo.metadata, ...(source ? [source.metadata] : [])] };
 const locationTemp = new URL('data/location-index.js.tmp', root);
 await writeFile(locationTemp, '// Generated searchable Kerala locations. Row: id,name,lat,lon,address,aliases,kind,source.\n// OSM: ODbL 1.0; GeoNames: CC BY 4.0. See data/statewide/README.md.\nexport const LOCATION_METADATA = ' + JSON.stringify(metadata) + ';\nexport const LOCATION_ROWS = JSON.parse(' + JSON.stringify(JSON.stringify(rows)) + ');\n');
