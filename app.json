@@ -2,6 +2,9 @@
   "expo": {
     "name": "Fair Meeting Point",
     "slug": "fair-meeting-point",
+    "experiments": {
+      "baseUrl": "/fairpoint"
+    },
     "version": "1.0.0",
     "orientation": "default",
     "userInterfaceStyle": "light",
@@ -16,5 +19,6 @@
     "plugins": [
       "expo-status-bar"
     ]
+    
   }
 }
