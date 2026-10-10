@@ -1,0 +1,3892 @@
+{
+  "endpoint": "https://overpass.private.coffee/api/interpreter",
+  "query": "[out:json][timeout:25];nwr[amenity=restaurant][name](9.96,76.26,10.01,76.31);out center;",
+  "bounds": {
+    "south": 9.96,
+    "west": 76.26,
+    "north": 10.01,
+    "east": 76.31
+  },
+  "fetchedAt": "2026-10-10T17:13:06.942Z",
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-31T22:37:44Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 649118799,
+      "lat": 9.9695938,
+      "lon": 76.2850737,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Tandoor",
+        "phone": "+91 94470 54938",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474038154,
+      "lat": 10.0034835,
+      "lon": 76.3085617,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "Chic King"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474038569,
+      "lat": 10.0041069,
+      "lon": 76.3091517,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "chicken",
+        "name": "Arabian Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474519564,
+      "lat": 9.9768007,
+      "lon": 76.2771053,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Golden Pepper",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474521647,
+      "lat": 9.9773374,
+      "lon": 76.2775118,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Ela",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905063362,
+      "lat": 9.9785522,
+      "lon": 76.2855788,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Chicago Revolving Restaurant",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2232463846,
+      "lat": 9.9671546,
+      "lon": 76.2871085,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:country": "IN",
+        "addr:postcode": "682016",
+        "addr:state": "KL",
+        "addr:street": "Nettipadam Road",
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Kis Mees",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2602992906,
+      "lat": 9.9734431,
+      "lon": 76.2798173,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "brand": "Indian Coffee House",
+        "brand:wikidata": "Q3595301",
+        "check_date": "2023-10-09",
+        "cuisine": "coffee_shop;indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Indian Coffee House",
+        "opening_hours": "Mo-Su 07:30-21:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2603024698,
+      "lat": 9.973666,
+      "lon": 76.2808873,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-10-15",
+        "diet:vegetarian": "yes",
+        "name": "Colombo",
+        "name:ml": "കൊളൊംബൊ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3274111163,
+      "lat": 9.9687367,
+      "lon": 76.2893434,
+      "tags": {
+        "air_conditioning": "no",
+        "alt_name": "Shaziya",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Sanam",
+        "name:ml": "സനം",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3709164639,
+      "lat": 9.9784034,
+      "lon": 76.2779809,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:street": "Broadway",
+        "amenity": "restaurant",
+        "check_date": "2023-12-20",
+        "diet:vegetarian": "yes",
+        "name": "Punjab House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3939125551,
+      "lat": 9.9821018,
+      "lon": 76.2845586,
+      "tags": {
+        "addr:street": "Pullepady Road",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "name": "Aruvi Natural Restaurant",
+        "phone": "+91-9496044519"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4293236990,
+      "lat": 10.0030524,
+      "lon": 76.3069322,
+      "tags": {
+        "addr:postcode": "682025",
+        "addr:street": "P J Antony Road",
+        "amenity": "restaurant",
+        "check_date": "2026-04-18",
+        "cuisine": "indian",
+        "name": "Brindavan Restaurant",
+        "self_service": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534538890,
+      "lat": 9.9942364,
+      "lon": 76.2924487,
+      "tags": {
+        "addr:street": "Kaloor Kadavanthara Road",
+        "amenity": "restaurant",
+        "cuisine": "indian;local",
+        "name": "Pappada vada",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "operator": "Amal Nair",
+        "phone": "+919207350307"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4557054591,
+      "lat": 9.9838213,
+      "lon": 76.283617,
+      "tags": {
+        "addr:postcode": "682018",
+        "addr:street": "Chittoor Road",
+        "amenity": "restaurant",
+        "cuisine": "fish;indian;curry",
+        "diet:vegetarian": "yes",
+        "name": "Frys",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "+914842353983"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4672989024,
+      "lat": 9.9883345,
+      "lon": 76.2796824,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:housenumber": "42/2091",
+        "addr:postcode": "682018",
+        "addr:street": "K K Padmanabhan Road",
+        "amenity": "restaurant",
+        "capacity": "20",
+        "cuisine": "regional",
+        "name": "Cinema Cafe",
+        "opening_hours": "07:00-19:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4672989025,
+      "lat": 9.9878571,
+      "lon": 76.2824873,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:housenumber": "41/3639",
+        "addr:postcode": "682018",
+        "addr:street": "Chittoor Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "French Toast Cafe",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4693198989,
+      "lat": 9.9791698,
+      "lon": 76.2813627,
+      "tags": {
+        "addr:street": "T D Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Rangeela Family Restaurant Vegetarian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4745636422,
+      "lat": 9.993427,
+      "lon": 76.2853721,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian;local",
+        "diet:vegetarian": "yes",
+        "name": "Ali Baba Restaurants",
+        "name:en": "Ali Baba Restaurants"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4803234234,
+      "lat": 9.9855659,
+      "lon": 76.2770053,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:postcode": "682018",
+        "addr:street": "Market Road",
+        "amenity": "restaurant",
+        "cuisine": "pizza;momo;burger;sandwich;chinese;chicken",
+        "delivery": "yes",
+        "diet:halal": "yes",
+        "diet:meat": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Big Fat Momo",
+        "opening_hours": "Mo-Su,PH 10:00-23:30",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4805940677,
+      "lat": 9.9877455,
+      "lon": 76.2944441,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Balos Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4908970784,
+      "lat": 9.9964444,
+      "lon": 76.2929529,
+      "tags": {
+        "addr:city": "Kaloor",
+        "addr:postcode": "682017",
+        "addr:street": "V Krishna Menon Road",
+        "amenity": "restaurant",
+        "capacity": "50",
+        "cuisine": "regional;Kethals_Chicken",
+        "name": "Rahmaniya Kethals Chicken",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5193572933,
+      "lat": 9.9878688,
+      "lon": 76.2793023,
+      "tags": {
+        "addr:street": "Old Railway Station Road",
+        "amenity": "restaurant",
+        "description": "Vegetarian Restaurant",
+        "diet:vegetarian": "only",
+        "name": "Aruvi Restaurant",
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5224788417,
+      "lat": 9.9934196,
+      "lon": 76.2871774,
+      "tags": {
+        "addr:street": "SRM Road",
+        "amenity": "restaurant",
+        "name": "Sidra Pristine",
+        "opening_hours": "24/7",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225925969,
+      "lat": 9.9873996,
+      "lon": 76.2764012,
+      "tags": {
+        "addr:street": "Old Railway Station Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Kalyan Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225925979,
+      "lat": 9.9829028,
+      "lon": 76.2821084,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:street": "Mahatma Gandhi Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Barbeque Nation",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225925980,
+      "lat": 9.9814947,
+      "lon": 76.2833669,
+      "tags": {
+        "addr:street": "Mahatma Gandhi Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Malabar Plaza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5225998805,
+      "lat": 9.9847479,
+      "lon": 76.2765543,
+      "tags": {
+        "addr:street": "Banerji Road",
+        "amenity": "restaurant",
+        "name": "Erivum Puliyum",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5226463355,
+      "lat": 9.9922152,
+      "lon": 76.2859228,
+      "tags": {
+        "addr:street": "North Railway Station Road",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Classic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5226657850,
+      "lat": 9.9919153,
+      "lon": 76.2874898,
+      "tags": {
+        "addr:street": "SRM Road",
+        "amenity": "restaurant",
+        "name": "Alishan Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5228315204,
+      "lat": 9.996189,
+      "lon": 76.2804614,
+      "tags": {
+        "addr:street": "Chittoor Road",
+        "amenity": "restaurant",
+        "name": "Enkay Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5240431900,
+      "lat": 9.9772681,
+      "lon": 76.2769315,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Saraswathy Bhavan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5244190110,
+      "lat": 9.9682161,
+      "lon": 76.2878221,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Arya Bhavan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5244190370,
+      "lat": 9.9654134,
+      "lon": 76.2941834,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-12-11",
+        "diet:vegetarian": "only",
+        "level": "0",
+        "name": "Appu Aur Pappu"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5244239468,
+      "lat": 9.9668863,
+      "lon": 76.3071234,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Sree Balaji Vegetarian Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5298717925,
+      "lat": 9.968642,
+      "lon": 76.2878549,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Ummi's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5316706321,
+      "lat": 9.9988327,
+      "lon": 76.296785,
+      "tags": {
+        "amenity": "restaurant",
+        "capacity": "25",
+        "cuisine": "regional",
+        "delivery": "yes",
+        "name": "Al-Maray",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5601810821,
+      "lat": 9.9764192,
+      "lon": 76.2835801,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:postcode": "682035",
+        "addr:street": "Convent Road (Near Cafe Coffee Day, MG Road)",
+        "amenity": "restaurant",
+        "cuisine": "chinese;indian",
+        "diet:vegetarian": "yes",
+        "email": "chariotfoods@gmail.com",
+        "name": "Chariot Restaurant",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "outdoor_seating": "no",
+        "phone": "+91 484 2368123",
+        "smoking": "separated",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695744101,
+      "lat": 9.9871711,
+      "lon": 76.2649682,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Malabar Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695744102,
+      "lat": 9.9865647,
+      "lon": 76.2651686,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Thai Soul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695744103,
+      "lat": 9.9892475,
+      "lon": 76.2657832,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Moms Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695750492,
+      "lat": 9.9905283,
+      "lon": 76.2656269,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Surya Kudumbasree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6465007304,
+      "lat": 9.9704158,
+      "lon": 76.2853088,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:state": "KL",
+        "addr:street": "MG Road",
+        "addr:suburb": "Ernakulam",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Grand Pavilion",
+        "operator": "Grand Hotel",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6871412400,
+      "lat": 9.9678396,
+      "lon": 76.2834941,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Malabar Plaza",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6875469185,
+      "lat": 9.9694696,
+      "lon": 76.2827036,
+      "tags": {
+        "addr:postcode": "682011",
+        "addr:street": "Government Press Road",
+        "amenity": "restaurant",
+        "check_date": "2026-03-25",
+        "check_date:opening_hours": "2026-03-25",
+        "cuisine": "indian",
+        "diet:vegetarian": "only",
+        "level": "1",
+        "name": "Gokul Oottupura",
+        "opening_hours": "Mo-Su 07:00-22:30",
+        "outdoor_seating": "no",
+        "phone": "090610 48194",
+        "self_service": "no",
+        "website": "https://gokuloottupura.in/",
+        "website:menu": "https://gokuloottupura.in/our-food/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6875519085,
+      "lat": 9.9694685,
+      "lon": 76.2828572,
+      "tags": {
+        "addr:street": "Govt. Press Road",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:kosher": "no",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Ratna Vilas",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6918374070,
+      "lat": 9.9793496,
+      "lon": 76.2787914,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sharma Restaurant",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6926314829,
+      "lat": 9.9781529,
+      "lon": 76.2831012,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "cuisine": "pizza",
+        "diet:vegetarian": "yes",
+        "level": "4",
+        "name": "Pizza Hut",
+        "phone": "+91-484 406 1109",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6926329127,
+      "lat": 9.9780984,
+      "lon": 76.2831878,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "level": "5",
+        "name": "Pandari's biriyani",
+        "phone": "+91-81295 88632",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6936500983,
+      "lat": 9.9793168,
+      "lon": 76.2787691,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sharma restaurent",
+        "phone": "+91-4842352552"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6951502635,
+      "lat": 9.9774407,
+      "lon": 76.2774233,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Marine",
+        "opening_hours": "Mo-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959399539,
+      "lat": 9.9812968,
+      "lon": 76.2845507,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Coffee beanz Traditionz",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+91-8129988559"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968880629,
+      "lat": 9.980667,
+      "lon": 76.2846829,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Nawaras"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6990105249,
+      "lat": 10.0047414,
+      "lon": 76.2878605,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "The taapioca"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7101661985,
+      "lat": 9.9633304,
+      "lon": 76.2960993,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date": "2024-10-03",
+        "cuisine": "chinese",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Ming's Wok",
+        "name:ml": "മിംഗ്സ് വോക്ക്",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7111572564,
+      "lat": 9.964009,
+      "lon": 76.286297,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "check_date": "2023-10-03",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Hotel Unnikrishna",
+        "outdoor_seating": "no",
+        "phone": "+919497593118",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194850814,
+      "lat": 9.9781929,
+      "lon": 76.2832535,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "level": "4",
+        "name": "Noodle King",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7199571385,
+      "lat": 9.9781699,
+      "lon": 76.2832086,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "level": "5",
+        "name": "Chak dhe",
+        "smoking": "no",
+        "survey:date": "2020-02-10"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227081521,
+      "lat": 9.9685768,
+      "lon": 76.3048625,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "name": "Arun Fast Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227121784,
+      "lat": 9.9678766,
+      "lon": 76.3053575,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "drinks",
+        "diet:vegetarian": "yes",
+        "name": "Wonder Cane"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227141676,
+      "lat": 9.9679042,
+      "lon": 76.3039838,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-10-08",
+        "cuisine": "south_indian",
+        "diet:vegetarian": "only",
+        "name": "Pai Dosa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227145196,
+      "lat": 9.9678352,
+      "lon": 76.3028306,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "arab",
+        "diet:vegetarian": "yes",
+        "name": "Arabian Fiesta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227145202,
+      "lat": 9.9676607,
+      "lon": 76.3031065,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Pappadomz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227161828,
+      "lat": 9.9681612,
+      "lon": 76.2999939,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "KR Bakes",
+        "operator": "KR Bakes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7234571099,
+      "lat": 9.9961921,
+      "lon": 76.3014272,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "middle_eastern;arabic",
+        "name": "White House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7456176997,
+      "lat": 9.9678216,
+      "lon": 76.3000493,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Ambiswamy's",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7463868453,
+      "lat": 9.9700972,
+      "lon": 76.2841259,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:postcode": "682011",
+        "addr:street": "Time Square Business Hotel, Mahatma Gandhi Rd, near Wood lands Jn",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date": "2024-10-03",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Uruli",
+        "name:ml": "ഉരുളി",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 9744617620",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7467810871,
+      "lat": 9.9601143,
+      "lon": 76.2960845,
+      "tags": {
+        "addr:city": "ernakulam",
+        "addr:postcode": "682036",
+        "addr:street": "Eak Towers, Main Avenue, MIG Housing Society, Panampilly Nagar",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Hotel Aryaas Park",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7467811891,
+      "lat": 9.9693881,
+      "lon": 76.2994521,
+      "tags": {
+        "addr:city": "Kadavanthara",
+        "addr:postcode": "682020",
+        "addr:street": "Kaloor - Kadavanthara Rd, Near Akshay Hospital",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Gokul Oottupura",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+91 484 220 3841",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469313465,
+      "lat": 9.9632108,
+      "lon": 76.3024901,
+      "tags": {
+        "alt_name": "KAPU",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "name": "Kappeum Puttum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469313526,
+      "lat": 9.9640656,
+      "lon": 76.3057994,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Josey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469313531,
+      "lat": 9.964305,
+      "lon": 76.3067649,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:vegetarian": "yes",
+        "name": "Angel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469575410,
+      "lat": 9.9600077,
+      "lon": 76.3016087,
+      "tags": {
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682020",
+        "amenity": "restaurant",
+        "cuisine": "chinese;coffee_shop;indian",
+        "diet:non-vegetarian": "yes",
+        "diet:noodle": "yes",
+        "name": "Muscat Hotel",
+        "phone": "9539568087"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469577552,
+      "lat": 9.972219,
+      "lon": 76.3024534,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:postcode": "682020",
+        "addr:street": "Subhash Chandra Bose Road",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Sethi Da Dhaba",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7471881992,
+      "lat": 9.9646473,
+      "lon": 76.3001926,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Sidra food court"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7472376212,
+      "lat": 10.0014074,
+      "lon": 76.3005681,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Sree Abhirami Vegetarian"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7472376213,
+      "lat": 10.0015582,
+      "lon": 76.3012475,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Real Arabia"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7474008794,
+      "lat": 9.9745911,
+      "lon": 76.2979675,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hot & Spicy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7475235109,
+      "lat": 9.9768593,
+      "lon": 76.297129,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Annapurna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7475235161,
+      "lat": 9.9768262,
+      "lon": 76.2974544,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "cuisine": "indian;seafood",
+        "diet:halal": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Kettuvallam",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7475235169,
+      "lat": 9.977931,
+      "lon": 76.2962331,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Zion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7475235187,
+      "lat": 9.9779113,
+      "lon": 76.296039,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Al Kazi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7478177492,
+      "lat": 10.009663,
+      "lon": 76.3035329,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Hotel Carmel",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7478177493,
+      "lat": 10.0092876,
+      "lon": 76.303509,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Sree Maruti"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7478238951,
+      "lat": 10.0049779,
+      "lon": 76.3050419,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "Maria Hotel",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7478238952,
+      "lat": 10.0043239,
+      "lon": 76.3054573,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "The Grill Lab"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7479903433,
+      "lat": 10.0023051,
+      "lon": 76.3061837,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional;chinese;indian",
+        "name": "Paradise Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7480429990,
+      "lat": 10.0027093,
+      "lon": 76.3068983,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "regional;chinese;indian",
+        "name": "Hotel Ceylon",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7494217817,
+      "lat": 10.0022095,
+      "lon": 76.279189,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Curry And Dishes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7494562936,
+      "lat": 9.9969519,
+      "lon": 76.3017442,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Stadium Bake Tree"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7502790955,
+      "lat": 9.9778318,
+      "lon": 76.2882868,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Deluxe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7502790964,
+      "lat": 9.9779324,
+      "lon": 76.2882921,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Thanima"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7504112356,
+      "lat": 9.9975785,
+      "lon": 76.2854088,
+      "tags": {
+        "addr:city": "Kaloor",
+        "addr:postcode": "682018",
+        "addr:street": "Sivarama Menon Road",
+        "amenity": "restaurant",
+        "name": "Arafa Hotel",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7514388130,
+      "lat": 10.0052439,
+      "lon": 76.3053825,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rasaleela"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7531283963,
+      "lat": 9.9624956,
+      "lon": 76.2951732,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Zaatar",
+        "opening_hours": "Mo, Tu, Fr-Su 12:00-00:00",
+        "outdoor_seating": "no",
+        "phone": "+91 81298 06111",
+        "website": "https://www.zaatarrestaurants.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7635361486,
+      "lat": 9.9784359,
+      "lon": 76.2782215,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Broadway",
+        "survey:date": "2020-06-19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7747052618,
+      "lat": 9.9613728,
+      "lon": 76.2681978,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "BTH Harbour Gate"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7747052621,
+      "lat": 9.9611178,
+      "lon": 76.2683905,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Nikis Fast Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8659295019,
+      "lat": 9.9874042,
+      "lon": 76.2764115,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Badriya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8661413222,
+      "lat": 9.9856486,
+      "lon": 76.2756755,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel VKC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8668423965,
+      "lat": 9.9849509,
+      "lon": 76.2764764,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-22",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Raza Bakers and Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8813875372,
+      "lat": 9.979005,
+      "lon": 76.2967396,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Bikash Babu Sweets and Chaats",
+        "opening_hours": "PH,Mo-Su 10:00-22:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8820082420,
+      "lat": 9.992259,
+      "lon": 76.3019642,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Al Taza"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8829423621,
+      "lat": 9.9679922,
+      "lon": 76.3026007,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Chiyang",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8853119586,
+      "lat": 9.9899344,
+      "lon": 76.2862385,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Arabian Food Court"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8863267692,
+      "lat": 9.9910417,
+      "lon": 76.2860623,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Ram Nivas"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8863293560,
+      "lat": 9.9915758,
+      "lon": 76.2859294,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Theevandi Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8883002069,
+      "lat": 9.9679904,
+      "lon": 76.3045555,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:postcode": "682020",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "chicken;indian;regional",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Green Spoon",
+        "outdoor_seating": "garden",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8952797658,
+      "lat": 9.9605967,
+      "lon": 76.2889603,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "brand": "Pizza Hut",
+        "brand:wikidata": "Q191615",
+        "brand:wikipedia": "en:Pizza Hut",
+        "cuisine": "pizza",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Pizza Hut",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8982950254,
+      "lat": 9.96335,
+      "lon": 76.2964228,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-10-03",
+        "diet:vegetarian": "yes",
+        "name": "Westley's Restocafe",
+        "name:ml": "വെസ്റ്റ്ലീസ് റെസ്റ്റോകഫെ"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9157501218,
+      "lat": 9.9616596,
+      "lon": 76.2912019,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-09-25",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Punnoose"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9181817145,
+      "lat": 10.0014283,
+      "lon": 76.2794479,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "grill & chill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9181825149,
+      "lat": 10.0062859,
+      "lon": 76.2785672,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "vaishali"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521060317,
+      "lat": 9.9959871,
+      "lon": 76.2914609,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Kareem Fast Food",
+        "survey:date": "2022-02-20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9521060417,
+      "lat": 9.995871,
+      "lon": 76.2915413,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Athulyas",
+        "survey:date": "2022-02-20"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9662365117,
+      "lat": 9.9812771,
+      "lon": 76.2828476,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "arab;indian",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Ceylon Restaurant",
+        "opening_hours": "Mo-Su 11:00-00:00",
+        "phone": "+91-4842354333; +91-9495354333"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9992511955,
+      "lat": 10.0023679,
+      "lon": 76.3064741,
+      "tags": {
+        "amenity": "restaurant",
+        "delivery": "yes",
+        "dine_in": "yes",
+        "name": "JB Food Corner",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9992553280,
+      "lat": 10.0027215,
+      "lon": 76.3069225,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "south_indian",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Sree Abhirami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10575927708,
+      "lat": 9.9784957,
+      "lon": 76.283358,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "check_date": "2023-01-23",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Cafe Canopy",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10579322095,
+      "lat": 9.9685327,
+      "lon": 76.2899518,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-24",
+        "diet:vegetarian": "yes",
+        "name": "Mughal Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11123465859,
+      "lat": 9.9777873,
+      "lon": 76.2882986,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Sasya Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11132025766,
+      "lat": 9.9641315,
+      "lon": 76.3003451,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Muscat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11132624159,
+      "lat": 9.9695323,
+      "lon": 76.2850904,
+      "tags": {
+        "addr:floor": "1",
+        "amenity": "restaurant",
+        "check_date": "2024-03-27",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Chillies",
+        "operator": "Tandoor",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:upi": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11197900863,
+      "lat": 9.9789005,
+      "lon": 76.296362,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Tummy Singh",
+        "survey:date": "2023-09-17"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11222181408,
+      "lat": 9.9627809,
+      "lon": 76.3010227,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Revathy Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234069168,
+      "lat": 9.9683135,
+      "lon": 76.2894796,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Zamar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234070095,
+      "lat": 9.9686391,
+      "lon": 76.2886145,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Punjabi Dhaba"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234073436,
+      "lat": 9.9691198,
+      "lon": 76.2893852,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Le Papillon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234074381,
+      "lat": 9.9686257,
+      "lon": 76.288733,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Taj Food Court"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11241021672,
+      "lat": 9.9605455,
+      "lon": 76.2949582,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "indoor_seating": "yes",
+        "name": "Chopstix Signature",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11241221119,
+      "lat": 9.9632252,
+      "lon": 76.2961111,
+      "tags": {
+        "addr:block": "G",
+        "addr:housenumber": "147",
+        "addr:street": "3rd Cross Road",
+        "addr:suburb": "Panampilly Nagar",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "detached",
+        "building:use": "retail",
+        "check_date": "2024-10-03",
+        "cuisine": "steak_house",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Third Cross Steakhouse",
+        "name:ml": "താരേഡ് ക്രോസ് സ്റ്റേക്ക്ഹൗസ്",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11242128546,
+      "lat": 9.9640512,
+      "lon": 76.294904,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Tawabul"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11244131587,
+      "lat": 9.9698712,
+      "lon": 76.2992014,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Ganga",
+        "operator": "Volga Tourist Home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11252168277,
+      "lat": 9.9684617,
+      "lon": 76.2875219,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Bake House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11331643865,
+      "lat": 9.9717165,
+      "lon": 76.2829412,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Ruchi Bhavan",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11353459147,
+      "lat": 9.9657178,
+      "lon": 76.2937852,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "only",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Aasife Biriyani",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11383860687,
+      "lat": 9.9682635,
+      "lon": 76.3049241,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Shankara's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11385481670,
+      "lat": 9.9683383,
+      "lon": 76.2902973,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Veg Bhavan",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11387774683,
+      "lat": 9.9756894,
+      "lon": 76.2834473,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Nasi and Mee"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408078127,
+      "lat": 9.9638237,
+      "lon": 76.2874735,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Trivandrum Chicken Corner",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408081263,
+      "lat": 9.9672424,
+      "lon": 76.2818069,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Subhiksha",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408084297,
+      "lat": 9.9638014,
+      "lon": 76.2875118,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Hotel Ritz",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408085170,
+      "lat": 9.9674677,
+      "lon": 76.2814525,
+      "tags": {
+        "addr:street": "Durbar Hall Road",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "check_date": "2026-03-28",
+        "check_date:opening_hours": "2026-03-28",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Kempu",
+        "opening_hours": "Mo-Su 07:00-22:30",
+        "outdoor_seating": "garden",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408097562,
+      "lat": 9.9677135,
+      "lon": 76.2832951,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Kayees Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408101023,
+      "lat": 9.9652963,
+      "lon": 76.2862031,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Jeff Biryani",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408107999,
+      "lat": 9.9658965,
+      "lon": 76.2863598,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Dwaraka",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11415392976,
+      "lat": 9.9840092,
+      "lon": 76.2749274,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Abhirami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11487047882,
+      "lat": 9.9708887,
+      "lon": 76.2976573,
+      "tags": {
+        "addr:street": "Gandhi Nagar",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Kudil",
+        "opening_hours": "Mo-Su 11:30-15:30, 18:30-22:30",
+        "outdoor_seating": "no",
+        "phone": "+919745583838",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11516297148,
+      "lat": 9.9784327,
+      "lon": 76.2774932,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "New Paris Cafe",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11668453922,
+      "lat": 9.9672631,
+      "lon": 76.2833973,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "traditional_kerela",
+        "diet:vegetarian": "yes",
+        "name": "Homely Meals"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982522801,
+      "lat": 10.0062374,
+      "lon": 76.2782774,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Nisa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012806625,
+      "lat": 9.9962692,
+      "lon": 76.2804376,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Enkay Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012807824,
+      "lat": 10.0011372,
+      "lon": 76.2794045,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Manjali Biriyani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012807825,
+      "lat": 10.0010105,
+      "lon": 76.27936,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Papputty's Valsa Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012831780,
+      "lat": 9.9969077,
+      "lon": 76.2801164,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Soul Food Republic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012860189,
+      "lat": 9.9939358,
+      "lon": 76.2809957,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Munch Box"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012869261,
+      "lat": 9.9929117,
+      "lon": 76.2813239,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Totus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012869267,
+      "lat": 9.9922508,
+      "lon": 76.281476,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Hotel Surya"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012882169,
+      "lat": 9.99201,
+      "lon": 76.2815274,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "diet:vegetarian": "yes",
+        "name": "Thara"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012891280,
+      "lat": 9.9918727,
+      "lon": 76.285684,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Sree Abhirami"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012891281,
+      "lat": 9.9917273,
+      "lon": 76.2854171,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Coral Reef"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012891282,
+      "lat": 9.9916263,
+      "lon": 76.2854484,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2024-06-26",
+        "name": "Homely Food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016445419,
+      "lat": 9.9634207,
+      "lon": 76.2967023,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Little Soi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016600288,
+      "lat": 9.9659595,
+      "lon": 76.3000856,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Lum King"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016603432,
+      "lat": 9.9665868,
+      "lon": 76.3004439,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Rice Boat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016603653,
+      "lat": 9.9665542,
+      "lon": 76.3003307,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Foodwey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016605897,
+      "lat": 9.9666284,
+      "lon": 76.3003213,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel New Star"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12026445064,
+      "lat": 9.9657737,
+      "lon": 76.2941642,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Kitchen Zaika"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12031539847,
+      "lat": 9.9854607,
+      "lon": 76.2814351,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Topi Vappa Biriyani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12046318061,
+      "lat": 9.969874,
+      "lon": 76.2987307,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "The Currybean",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12046336947,
+      "lat": 9.9732772,
+      "lon": 76.3082533,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housename": "Poovathankavil Gardens",
+        "addr:place": "Panorama Enclave",
+        "addr:postcode": "682019",
+        "addr:state": "KL",
+        "addr:street": "Subhash Chandra Bose Road",
+        "addr:suburb": "Vyttila",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Toasted Vazhayila",
+        "phone": "+91 81119 81073"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12051664032,
+      "lat": 9.9605385,
+      "lon": 76.2928362,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Jayadevan Stores & Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12062820816,
+      "lat": 9.9761082,
+      "lon": 76.3001479,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "District 7 Encore",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12062859067,
+      "lat": 9.9719632,
+      "lon": 76.3016992,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Palaaram",
+        "opening_hours": "PH,Mo-Su 08:00-22:30",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12118752348,
+      "lat": 9.9722514,
+      "lon": 76.3047469,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "ABN",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12118765597,
+      "lat": 9.972315,
+      "lon": 76.3048434,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Broast Palace",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12122291962,
+      "lat": 9.9715015,
+      "lon": 76.2830076,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Hotel Ambadi",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125431599,
+      "lat": 9.978408,
+      "lon": 76.2831907,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Kadaloram"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125486621,
+      "lat": 9.9780375,
+      "lon": 76.2826887,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Grand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12140175897,
+      "lat": 9.9837313,
+      "lon": 76.2830903,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Coq d'Or"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12140176068,
+      "lat": 9.9837918,
+      "lon": 76.2830946,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Lava"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12140743091,
+      "lat": 9.9827948,
+      "lon": 76.2828665,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Meera's Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151270256,
+      "lat": 9.9771181,
+      "lon": 76.2882078,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Ambadi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12151286614,
+      "lat": 9.9770488,
+      "lon": 76.2882161,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Veettile Oru Thattukada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12180036950,
+      "lat": 9.9645513,
+      "lon": 76.2875516,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Al-Hussai"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12189779888,
+      "lat": 9.9768623,
+      "lon": 76.2839847,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Arippa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12189820078,
+      "lat": 9.972429,
+      "lon": 76.2863369,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Mehfil Biryani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12194822538,
+      "lat": 9.966783,
+      "lon": 76.2866952,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Springs",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196589873,
+      "lat": 9.9671981,
+      "lon": 76.2854137,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Feast"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12198913717,
+      "lat": 9.960251,
+      "lon": 76.2900482,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Curry World",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12211643769,
+      "lat": 9.9662751,
+      "lon": 76.2866835,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Arippa",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12269347014,
+      "lat": 9.973599,
+      "lon": 76.3090868,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "Taisto",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "takeaway": "only",
+        "toilets": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12364656933,
+      "lat": 9.9729352,
+      "lon": 76.2982617,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Traditionz Express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12372998560,
+      "lat": 9.9713984,
+      "lon": 76.2836188,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "level": "7",
+        "name": "Kalyan Restaurant",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12373193716,
+      "lat": 9.9701249,
+      "lon": 76.2840012,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Kalavara",
+        "operator": "Vijaya Lekshmi Catering"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378159543,
+      "lat": 9.9774614,
+      "lon": 76.2778109,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bharath Coffee House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395506713,
+      "lat": 9.9768175,
+      "lon": 76.2771476,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Cave",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395752538,
+      "lat": 9.9771737,
+      "lon": 76.2775707,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Rahumaniya Biryani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395752551,
+      "lat": 9.9780159,
+      "lon": 76.2771741,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Zaitoon Biryani Hut",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12395752570,
+      "lat": 9.9781469,
+      "lon": 76.2771428,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Bimbis"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12397575336,
+      "lat": 9.9784903,
+      "lon": 76.2769148,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Oyster",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12397585093,
+      "lat": 9.9792253,
+      "lon": 76.2765485,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "Hotel Annapoorna",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12423586231,
+      "lat": 9.9879364,
+      "lon": 76.2854665,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Sani"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12434467532,
+      "lat": 9.9643397,
+      "lon": 76.2933786,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Thooshanila"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12437060988,
+      "lat": 9.9651305,
+      "lon": 76.2953137,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Grana Pizzeria",
+        "operator": "Abramatt"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12437233879,
+      "lat": 9.9658723,
+      "lon": 76.2961992,
+      "tags": {
+        "amenity": "restaurant",
+        "indoor_seating": "yes",
+        "name": "The Burgery",
+        "opening_hours": "Mo-Su 11:00-23:30",
+        "outdoor_seating": "no",
+        "payment:cash": "yes;used",
+        "payment:credit_cards": "yes;used",
+        "payment:debit_cards": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12558479690,
+      "lat": 9.9667048,
+      "lon": 76.293012,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Courtyard",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12567055491,
+      "lat": 9.9672196,
+      "lon": 76.2898496,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "New Aliyans"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12567177452,
+      "lat": 9.9655313,
+      "lon": 76.2897361,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Chin's Kitchen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12632081393,
+      "lat": 9.9827605,
+      "lon": 76.2827228,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Immus"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12843827054,
+      "lat": 9.9798162,
+      "lon": 76.2762345,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Galaxy Bakes & Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13081252393,
+      "lat": 9.9907557,
+      "lon": 76.2770481,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2025-08-19",
+        "name": "Homely Meals Lunch Special"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13326525766,
+      "lat": 9.9734401,
+      "lon": 76.2804698,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Arafa Restaurant",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13451958428,
+      "lat": 9.9797963,
+      "lon": 76.2843861,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Ponjikkara Cozinja"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13523994647,
+      "lat": 9.967239,
+      "lon": 76.2980789,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Samridhi@Kochi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13601132676,
+      "lat": 9.9690953,
+      "lon": 76.2937084,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Lilly's restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13646369978,
+      "lat": 9.9892879,
+      "lon": 76.301783,
+      "tags": {
+        "addr:city": "Kaloor",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682017",
+        "addr:street": "Stadium Link Road",
+        "amenity": "restaurant",
+        "cuisine": "mexican;salad",
+        "diet:halal": "yes",
+        "name": "Burreato",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 380252300,
+      "center": {
+        "lat": 9.979985,
+        "lon": 76.2837175
+      },
+      "nodes": [
+        3835958866,
+        3835958868,
+        3835958865,
+        3835958864,
+        3835958866
+      ],
+      "tags": {
+        "addr:street": "Pai Brothers Lane",
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "building": "commercial",
+        "cuisine": "regional",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Pai Dosa",
+        "nohousenumber": "yes",
+        "official_name": "Pai Brothers Fast Food",
+        "opening_hours": "Mo-Su,PH 07:30-01:30",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797802939,
+      "center": {
+        "lat": 9.9651559,
+        "lon": 76.2974453
+      },
+      "nodes": [
+        7461845824,
+        7461845825,
+        7461845826,
+        7461845828,
+        7470419938,
+        7461845824
+      ],
+      "tags": {
+        "addr:block": "G",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "45",
+        "addr:place": "Panampilly Nagar",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "amenity": "restaurant",
+        "building": "detached",
+        "check_date": "2024-10-03",
+        "diet:vegetarian": "yes",
+        "name": "The Salt",
+        "name:ml": "ദി സോൾട്ട്"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798606659,
+      "center": {
+        "lat": 9.9858504,
+        "lon": 76.2808312
+      },
+      "nodes": [
+        7469070356,
+        7469070357,
+        7469070358,
+        7469070359,
+        7469070356
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian;punjabi",
+        "diet:non-vegetarian": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Sardarji Ka Dhaba"
+      }
+    },
+    {
+      "type": "way",
+      "id": 799585109,
+      "center": {
+        "lat": 10.0082544,
+        "lon": 76.3034514
+      },
+      "nodes": [
+        7478168008,
+        7478168009,
+        7478168010,
+        7478168011,
+        7478168012,
+        7478168013,
+        7478168014,
+        7478168015,
+        7478168016,
+        7478168017,
+        7478168008
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional;chinese;indian;seafood",
+        "name": "Suburban",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "way",
+      "id": 799588200,
+      "center": {
+        "lat": 10.0053623,
+        "lon": 76.3057419
+      },
+      "nodes": [
+        7478224389,
+        7478224390,
+        7478224391,
+        7478224392,
+        7478224393,
+        7478224394,
+        7478224395,
+        7478224396,
+        7478224397,
+        7478224398,
+        7478224399,
+        7478224400,
+        7478224401,
+        7478224402,
+        7478224403,
+        7478224404,
+        7478224405,
+        7478224389
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional;chicken;coffee_shop;italian;chinese;sandwich;indian;seafood;ice_cream;kebab;barbecue",
+        "name": "The Renai Cochin",
+        "opening_hours:covid19": "off",
+        "outdoor_seating": "yes",
+        "website": "https://www.renaicochin.in/",
+        "wikidata": "Q111861001"
+      }
+    },
+    {
+      "type": "way",
+      "id": 799835429,
+      "center": {
+        "lat": 9.9964821,
+        "lon": 76.3081199
+      },
+      "nodes": [
+        7480544490,
+        7480544491,
+        7480544492,
+        7480544493,
+        7480544490
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional;chinese;indian",
+        "name": "Spice Affair",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "way",
+      "id": 800011868,
+      "center": {
+        "lat": 10.0008141,
+        "lon": 76.2958296
+      },
+      "nodes": [
+        7481764363,
+        7481764364,
+        7481764365,
+        7481764366,
+        7481764363
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "middle_eastern",
+        "name": "Spicyhut Kuzhimandhi"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802102284,
+      "center": {
+        "lat": 9.9770962,
+        "lon": 76.2880195
+      },
+      "nodes": [
+        7502699694,
+        7502699717,
+        7502692777,
+        7502699721,
+        7502699694
+      ],
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Annammayude Adukala",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802113170,
+      "center": {
+        "lat": 9.9759579,
+        "lon": 76.2867637
+      },
+      "nodes": [
+        7502790950,
+        7502790929,
+        7502790980,
+        7502790940,
+        7502790970,
+        7502790950
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Sreelekshmi Catering"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802122196,
+      "center": {
+        "lat": 9.9737176,
+        "lon": 76.2881546
+      },
+      "nodes": [
+        7502879624,
+        7502831363,
+        7502831378,
+        7502879655,
+        7502879624
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Mohana vilas"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802382997,
+      "center": {
+        "lat": 9.9771393,
+        "lon": 76.2885093
+      },
+      "nodes": [
+        7505529414,
+        7505529408,
+        7505529400,
+        7505529394,
+        7505529414
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Hotel Kudumbashree"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802859878,
+      "center": {
+        "lat": 9.9810823,
+        "lon": 76.286982
+      },
+      "nodes": [
+        7510077215,
+        7510077250,
+        7471627468,
+        7510077217,
+        7510077215
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "name": "pandari's biriyani"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802954509,
+      "center": {
+        "lat": 9.9818185,
+        "lon": 76.2869157
+      },
+      "nodes": [
+        7511031269,
+        7511031241,
+        7511031273,
+        7511031203,
+        7511031249,
+        7511031269
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Tharavadu"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802954510,
+      "center": {
+        "lat": 9.9812542,
+        "lon": 76.2869415
+      },
+      "nodes": [
+        7511037589,
+        7511037592,
+        7511031279,
+        7511031247,
+        7511037589
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "nadan oonum meen ruchiyum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802954513,
+      "center": {
+        "lat": 9.9816944,
+        "lon": 76.2870084
+      },
+      "nodes": [
+        7511031222,
+        7511031220,
+        7511031250,
+        7511031228,
+        7511031253,
+        7511031222
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "oxy restaurant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 803326578,
+      "center": {
+        "lat": 10.0065057,
+        "lon": 76.3045049
+      },
+      "nodes": [
+        7514537682,
+        7514537683,
+        7514537684,
+        7514539985,
+        7514537682
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "layer": "-1",
+        "name": "Mookken Devassy Palarivattom and Co"
+      }
+    },
+    {
+      "type": "way",
+      "id": 956679308,
+      "center": {
+        "lat": 10.0008524,
+        "lon": 76.3004612
+      },
+      "nodes": [
+        8853864270,
+        8853864271,
+        8853864272,
+        8853864273,
+        8853864270
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "City Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 956679309,
+      "center": {
+        "lat": 10.0014722,
+        "lon": 76.3012004
+      },
+      "nodes": [
+        8853864274,
+        8853864275,
+        8853864276,
+        8853864277,
+        8853864274
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "arab;regional",
+        "name": "Real Arabia"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958240876,
+      "center": {
+        "lat": 10.0017483,
+        "lon": 76.3025766
+      },
+      "nodes": [
+        8866350484,
+        8866350485,
+        8866350486,
+        8866350487,
+        8866350484
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Arabian Dreams"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958345514,
+      "center": {
+        "lat": 9.9999523,
+        "lon": 76.3027393
+      },
+      "nodes": [
+        8867317625,
+        8867317626,
+        8867317627,
+        8867317628,
+        8867317625
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Daddyzz Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958345516,
+      "center": {
+        "lat": 9.9997302,
+        "lon": 76.3030943
+      },
+      "nodes": [
+        8867317633,
+        8867317634,
+        8867317635,
+        8867317636,
+        8867317633
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Ammypot (woodys brook)"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958919561,
+      "center": {
+        "lat": 9.9942346,
+        "lon": 76.3013984
+      },
+      "nodes": [
+        8872984938,
+        8872984939,
+        8872984940,
+        8872984941,
+        8872984938
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Kattanum Puttum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 958919563,
+      "center": {
+        "lat": 9.9926025,
+        "lon": 76.3019716
+      },
+      "nodes": [
+        8872984946,
+        8872984947,
+        8872984948,
+        8872984949,
+        8872984946
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Akshay Food Court"
+      }
+    },
+    {
+      "type": "way",
+      "id": 992481932,
+      "center": {
+        "lat": 9.9859034,
+        "lon": 76.2810351
+      },
+      "nodes": [
+        9169748765,
+        9169748766,
+        9169748767,
+        9169748768,
+        9169748769,
+        9169748765
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "diet:vegetarian": "yes",
+        "name": "Chiyang"
+      }
+    },
+    {
+      "type": "way",
+      "id": 993818092,
+      "center": {
+        "lat": 10.0014379,
+        "lon": 76.2794533
+      },
+      "nodes": [
+        9181791526,
+        9181791527,
+        9181791528,
+        9181791529,
+        9181791530,
+        9181791526
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "barbecue;chicken",
+        "name": "Grill & chill"
+      }
+    },
+    {
+      "type": "way",
+      "id": 993818430,
+      "center": {
+        "lat": 10.0062838,
+        "lon": 76.2786023
+      },
+      "nodes": [
+        9181817146,
+        9181817147,
+        9181817148,
+        9181817149,
+        9181817150,
+        9181817146
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Vaihali"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1011901658,
+      "center": {
+        "lat": 9.9632388,
+        "lon": 76.2945155
+      },
+      "nodes": [
+        7531283918,
+        9335804249,
+        9335804250,
+        12146006612,
+        7531283918
+      ],
+      "tags": {
+        "addr:block": "HB",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:place": "Housing Board Colony",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar",
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "name": "The Hearth Kitchen"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1196076324,
+      "center": {
+        "lat": 10.001356,
+        "lon": 76.2796688
+      },
+      "nodes": [
+        11099530389,
+        11099530390,
+        11099530391,
+        11099530392,
+        11099530389
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Usthath"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217282681,
+      "center": {
+        "lat": 9.966088,
+        "lon": 76.2850863
+      },
+      "nodes": [
+        11279089885,
+        11279087721,
+        5358560921,
+        11279089967,
+        11279089885
+      ],
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:street": "Warriam Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "local;indian",
+        "delivery": "yes;used",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Sri Krishna Inn",
+        "parking": "yes",
+        "phone": "+91-4842366664",
+        "source": "microsoft/BuildingFootprints",
+        "toilets": "yes;used"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1260468270,
+      "center": {
+        "lat": 9.9856097,
+        "lon": 76.2770464
+      },
+      "nodes": [
+        11715780747,
+        11715780748,
+        11715780749,
+        11715780750,
+        11715780747
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "BIG fat Momo"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1299325373,
+      "center": {
+        "lat": 9.9671738,
+        "lon": 76.2835304
+      },
+      "nodes": [
+        12036228657,
+        12036228658,
+        12036228659,
+        12036228660,
+        12036228657
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "detached",
+        "name": "Veetile Oonu Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1300048637,
+      "center": {
+        "lat": 9.9681211,
+        "lon": 76.2897318
+      },
+      "nodes": [
+        12041972842,
+        12041972843,
+        12041972844,
+        12041972845,
+        12041972842
+      ],
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housename": "Peevees",
+        "addr:state": "KL",
+        "addr:street": "Kalathiparambil Road",
+        "addr:suburb": "Ernakulam South",
+        "amenity": "restaurant",
+        "building": "detached",
+        "indoor_seating": "yes",
+        "name": "Munch & Mingle",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1300208722,
+      "center": {
+        "lat": 9.9649384,
+        "lon": 76.2871853
+      },
+      "nodes": [
+        12043299028,
+        12043299029,
+        12043299030,
+        5295234432,
+        12043299028
+      ],
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "restaurant",
+        "building": "retail",
+        "diet:halal": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "name": "Ambiswamy's",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1300417920,
+      "center": {
+        "lat": 9.9639939,
+        "lon": 76.2886453
+      },
+      "nodes": [
+        12045158299,
+        12045158300,
+        12045158301,
+        12045158302,
+        12045158299
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Usalampetty"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1301918112,
+      "center": {
+        "lat": 9.9615907,
+        "lon": 76.2900996
+      },
+      "nodes": [
+        12058637627,
+        12058637628,
+        12058637629,
+        12058637630,
+        12336732139,
+        12058637627
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "shed",
+        "name": "Hotel Dhanya"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1336417965,
+      "center": {
+        "lat": 9.9622697,
+        "lon": 76.2956625
+      },
+      "nodes": [
+        12361205958,
+        12207093991,
+        12361205807,
+        12361205868,
+        12361205958
+      ],
+      "tags": {
+        "addr:block": "G",
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "bar": "no",
+        "brand": "Dindigul Thalappakatti Restaurant",
+        "building": "house",
+        "building:levels": "2",
+        "cuisine": "south_indian",
+        "delivery": "yes",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "drink:beer": "no",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Dindigul Thalappakatti Restaurant",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "roof:levels": "0",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1340012207,
+      "center": {
+        "lat": 9.9766789,
+        "lon": 76.2783624
+      },
+      "nodes": [
+        6914665943,
+        12395452819,
+        12395452830,
+        12395452842,
+        6914665943
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "commercial",
+        "diet:vegetarian": "yes",
+        "name": "Ceylon Bake House",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+91 484 235 2571"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1340958956,
+      "center": {
+        "lat": 9.9669588,
+        "lon": 76.2996503
+      },
+      "nodes": [
+        7461845849,
+        12404263725,
+        12404263754,
+        12404263727,
+        7461845849
+      ],
+      "tags": {
+        "addr:street": "Kadavanthra Junction",
+        "amenity": "restaurant",
+        "building": "retail",
+        "check_date": "2026-03-14",
+        "contact:instagram": "magicovenrestaurants",
+        "cuisine": "breakfast;chicken;indian",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Magic Oven",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1340964574,
+      "center": {
+        "lat": 9.9695372,
+        "lon": 76.2989106
+      },
+      "nodes": [
+        12404228297,
+        12404337013,
+        12404228289,
+        12404337026,
+        12404228297
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Malabar Hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1344372843,
+      "center": {
+        "lat": 9.9660878,
+        "lon": 76.2972262
+      },
+      "nodes": [
+        12025400649,
+        12437252057,
+        12437252003,
+        12437252047,
+        12025400649
+      ],
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "building": "residential",
+        "building:levels": "1",
+        "building:levels:underground": "1",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Kannimango",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1355935182,
+      "center": {
+        "lat": 9.9717431,
+        "lon": 76.3009802
+      },
+      "nodes": [
+        12533625111,
+        12548985124,
+        12548985113,
+        12548985115,
+        12533625111
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "no",
+        "name": "Social Kitchen",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1432598935,
+      "center": {
+        "lat": 9.9687602,
+        "lon": 76.288825
+      },
+      "nodes": [
+        13167962577,
+        13167962578,
+        13167962579,
+        13167962580,
+        13167962577
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Kissa"
+      }
+    }
+  ]
+}

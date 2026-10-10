@@ -1,0 +1,955 @@
+{
+  "query": "[out:json][timeout:25];nwr[amenity=cafe][name](9.96,76.26,10.01,76.31);out center;",
+  "fetchedAt": "2026-10-10T17:12:02.296Z",
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-07-28T02:16:18Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 720566618,
+      "lat": 9.9684606,
+      "lon": 76.2874328,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Bridge Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1474525343,
+      "lat": 9.9794737,
+      "lon": 76.2767359,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Sridhar Cafe",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4361744354,
+      "lat": 10.0046639,
+      "lon": 76.305349,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "indian",
+        "name": "Chaat Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4361744367,
+      "lat": 9.9971986,
+      "lon": 76.3017458,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "burger",
+        "internet_access": "no",
+        "name": "Burger Hut"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4534538296,
+      "lat": 9.9917884,
+      "lon": 76.2931768,
+      "tags": {
+        "addr:postcode": "682017",
+        "addr:street": "Kaloor Kadavanthara Road",
+        "amenity": "cafe",
+        "cuisine": "burger;sandwich;crepe;cake;coffee_shop;pasta;italian;pizza;italian_pizza",
+        "internet_access": "wlan",
+        "name": "ChaiCofi",
+        "opening_hours": "Mo-Su 11:00-24:00",
+        "operator": "Hasnul Banna",
+        "phone": "+914844027774"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4561240967,
+      "lat": 9.9608468,
+      "lon": 76.2938919,
+      "tags": {
+        "addr:street": "Thoundayil Street",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "branch": "Panampilly Nagar",
+        "check_date": "2025-09-18",
+        "check_date:smoking": "2025-09-18",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "French Toast",
+        "name:ml": "ഫ്രഞ്ച് ടോസ്റ്റ്",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4761522351,
+      "lat": 9.9865342,
+      "lon": 76.2766272,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "chocolate",
+        "diet:vegetarian": "yes",
+        "name": "Cocoacraft Chocolate Factory",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6301347185,
+      "lat": 9.9773756,
+      "lon": 76.2942237,
+      "tags": {
+        "addr:full": "Gandhinagar Rd, Gandhi Nagar, Elamkulam, Kochi, Kerala 682020",
+        "amenity": "cafe",
+        "name": "Tea n Pulp",
+        "outdoor_seating": "yes",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6948352790,
+      "lat": 9.9790096,
+      "lon": 76.2766599,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "The Oven",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6959504672,
+      "lat": 9.9773199,
+      "lon": 76.2774847,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Tea O'Clock",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7194801688,
+      "lat": 9.9780522,
+      "lon": 76.2831824,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Coffee Time",
+        "brand:wikidata": "Q5140932",
+        "brand:wikipedia": "en:Coffee Time",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Coffee Time",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7227081520,
+      "lat": 9.9684768,
+      "lon": 76.3049188,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Corner Coffee Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7234571098,
+      "lat": 9.9957436,
+      "lon": 76.3012006,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Ape"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7467907620,
+      "lat": 9.9720993,
+      "lon": 76.3020677,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:postcode": "682020",
+        "addr:street": "37/1624-B Subhash Chandra Bose Road Ernakulam, Kadavanthara, Jawahar Nagar",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Bread World",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "bakery",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7469548382,
+      "lat": 9.9626537,
+      "lon": 76.3009204,
+      "tags": {
+        "amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "name": "Cafe Fruit Fusion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7475235189,
+      "lat": 9.9778344,
+      "lon": 76.296057,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Chithira"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7491835814,
+      "lat": 10.0012762,
+      "lon": 76.279222,
+      "tags": {
+        "addr:city": "pachalam",
+        "addr:postcode": "682012",
+        "addr:street": "Chathiath Road",
+        "amenity": "cafe",
+        "name": "Charlys Juice Corner",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7491835821,
+      "lat": 10.0013999,
+      "lon": 76.2789504,
+      "tags": {
+        "addr:city": "pachalam",
+        "addr:postcode": "682012",
+        "addr:street": "Chathiath Road",
+        "amenity": "cafe",
+        "name": "Queeen's Delicious",
+        "opening_hours:covid19": "off"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7635283790,
+      "lat": 9.9788017,
+      "lon": 76.2777962,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Vibe hot and cool",
+        "survey:date": "2020-06-19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7635283791,
+      "lat": 9.9786194,
+      "lon": 76.2777254,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Dhiya cool",
+        "survey:date": "2020-06-19"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8831660301,
+      "lat": 9.9820111,
+      "lon": 76.2983993,
+      "tags": {
+        "amenity": "cafe",
+        "name": "liberty cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8848433083,
+      "lat": 9.9918628,
+      "lon": 76.2803468,
+      "tags": {
+        "addr:city": "Ernakulam",
+        "addr:postcode": "682018",
+        "addr:street": "Power House Road, Cemetery mukk",
+        "amenity": "cafe",
+        "name": "Best Bakery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8883012789,
+      "lat": 9.9682288,
+      "lon": 76.3051851,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:postcode": "682020",
+        "addr:street": "Fathima Church Road",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "La Casa",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8968697255,
+      "lat": 9.9713941,
+      "lon": 76.3011058,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Drunken Monkey"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10579322096,
+      "lat": 9.9685397,
+      "lon": 76.2899863,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2023-01-24",
+        "diet:vegetarian": "yes",
+        "name": "Chai Express"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11119935731,
+      "lat": 9.9610351,
+      "lon": 76.2959448,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11132624117,
+      "lat": 9.9683988,
+      "lon": 76.2852765,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Chaaya Koppa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11134265951,
+      "lat": 9.9681214,
+      "lon": 76.2848288,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "only",
+        "indoor_seating": "yes",
+        "name": "Cafe Woodlands",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11134265972,
+      "lat": 9.9690037,
+      "lon": 76.2835147,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "no",
+        "name": "The Curated Cafe",
+        "operator": "Kerala Lalithakala Akademi",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11222213527,
+      "lat": 9.9635638,
+      "lon": 76.3030873,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Koyal"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234066623,
+      "lat": 9.9689285,
+      "lon": 76.2892665,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "T Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11234074651,
+      "lat": 9.9690499,
+      "lon": 76.289372,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Tocaille"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11236019819,
+      "lat": 9.9696245,
+      "lon": 76.2922063,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Chai Mania"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11241021647,
+      "lat": 9.9608653,
+      "lon": 76.2951977,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Edam Art Cafe",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11241221105,
+      "lat": 9.9631908,
+      "lon": 76.2959049,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Ann's Beanery",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11242128551,
+      "lat": 9.9631439,
+      "lon": 76.295042,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Tea Nation"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11331683535,
+      "lat": 9.9718823,
+      "lon": 76.2841795,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Rainbow",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "no",
+        "toilets": "no",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11346313273,
+      "lat": 9.9732913,
+      "lon": 76.3082958,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housename": "Poovathankavil Gardens",
+        "addr:place": "Panorama Enclave",
+        "addr:postcode": "682019",
+        "addr:state": "KL",
+        "addr:street": "Subhash Chandra Bose Road",
+        "addr:suburb": "Vyttila",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Luv Cut Let",
+        "opening_hours": "Mo-Su 14:30-22:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://www.luvcutlet.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11392061840,
+      "lat": 10.0040177,
+      "lon": 76.2895339,
+      "tags": {
+        "amenity": "cafe",
+        "name": "kalisto cafe",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11408100899,
+      "lat": 9.9677509,
+      "lon": 76.2830856,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "The Oven"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012802676,
+      "lat": 10.0010967,
+      "lon": 76.2781744,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-06-26",
+        "name": "Parvati Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12012843479,
+      "lat": 9.9959832,
+      "lon": 76.280157,
+      "tags": {
+        "amenity": "cafe",
+        "check_date": "2024-06-26",
+        "name": "90's Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12016595768,
+      "lat": 9.9656719,
+      "lon": 76.3002879,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "only",
+        "name": "Saravana's Tea Shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12033328034,
+      "lat": 9.9768046,
+      "lon": 76.2845442,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Kaapi & Co",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12055237262,
+      "lat": 9.972912,
+      "lon": 76.3068364,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:parentstreet": "Subhash Chandra Bose Road",
+        "addr:place": "Ponnurunni",
+        "addr:postcode": "682019",
+        "addr:suburb": "Vyttila",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "level": "0",
+        "name": "Ann's Bakery",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12145994297,
+      "lat": 9.9632843,
+      "lon": 76.2947885,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "only",
+        "name": "The Paan Studio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12146003146,
+      "lat": 9.9632587,
+      "lon": 76.2937951,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Teeta"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12146004368,
+      "lat": 9.963226,
+      "lon": 76.2936552,
+      "tags": {
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "name": "Perayittilla"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147484878,
+      "lat": 9.9711339,
+      "lon": 76.2996521,
+      "tags": {
+        "amenity": "cafe",
+        "indoor_seating": "yes",
+        "name": "Petra",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12147485018,
+      "lat": 9.9710923,
+      "lon": 76.2996521,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Smatchet Deli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12189775582,
+      "lat": 9.9768508,
+      "lon": 76.284493,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Milk & Sugar",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12189798723,
+      "lat": 9.9697812,
+      "lon": 76.2860966,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Honeycomb",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12194833057,
+      "lat": 9.9666878,
+      "lon": 76.286663,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Cocoa Tree",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12196589872,
+      "lat": 9.9672033,
+      "lon": 76.2852504,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Cafe Treat",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12269340128,
+      "lat": 9.966204,
+      "lon": 76.2962257,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Itallo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12285549668,
+      "lat": 9.9663611,
+      "lon": 76.299837,
+      "tags": {
+        "air_conditioning": "no",
+        "amenity": "cafe",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Rainbow Music Cafe",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "smoking": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12378615080,
+      "lat": 9.96811,
+      "lon": 76.284741,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Cafe Durbar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1217283285,
+      "center": {
+        "lat": 9.9643602,
+        "lon": 76.2827008
+      },
+      "nodes": [
+        11279087801,
+        11279088167,
+        11279088286,
+        11279096472,
+        11279087801
+      ],
+      "tags": {
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "0",
+        "diet:vegetarian": "yes",
+        "name": "Kiosk CUSAT",
+        "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1344350193,
+      "center": {
+        "lat": 9.9653135,
+        "lon": 76.2967235
+      },
+      "nodes": [
+        11216197804,
+        12437088517,
+        12437088528,
+        12437088503,
+        11216197804
+      ],
+      "tags": {
+        "addr:block": "G",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housename": "Adithya",
+        "addr:housenumber": "23",
+        "addr:place": "Panampilly Nagar",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "amenity": "cafe",
+        "building": "residential",
+        "diet:vegetarian": "yes",
+        "name": "Tea World"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1344507465,
+      "center": {
+        "lat": 9.9624382,
+        "lon": 76.2977225
+      },
+      "nodes": [
+        12023106181,
+        12438324787,
+        12438324790,
+        12438324796,
+        12461089789,
+        12023106181
+      ],
+      "tags": {
+        "addr:block": "G",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "203",
+        "addr:place": "Panampilly Nagar",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "building": "retail",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Cafficana",
+        "outdoor_seating": "no",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1346631461,
+      "center": {
+        "lat": 9.9713546,
+        "lon": 76.3020029
+      },
+      "nodes": [
+        12455942072,
+        12455942073,
+        12455942074,
+        12455942075,
+        12455942072
+      ],
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:place": "Jawahar Nagar",
+        "addr:postcode": "682020",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "coffee_shop;sandwich;french",
+        "name": "Furina's Lounge"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1348451010,
+      "center": {
+        "lat": 9.9635987,
+        "lon": 76.2946135
+      },
+      "nodes": [
+        12146006140,
+        12473267119,
+        12473267052,
+        12473267078,
+        12146006140
+      ],
+      "tags": {
+        "addr:block": "HB",
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "73",
+        "addr:place": "Housing Board Colony",
+        "addr:postcode": "682036",
+        "addr:state": "KL",
+        "addr:suburb": "Panampilly Nagar",
+        "amenity": "cafe",
+        "building": "detached",
+        "diet:vegetarian": "yes",
+        "name": "Summer Town Cafe"
+      }
+    }
+  ],
+  "endpoint": "https://overpass.private.coffee/api/interpreter",
+  "area": "central",
+  "category": "cafe",
+  "bounds": {
+    "south": 9.96,
+    "west": 76.26,
+    "north": 10.01,
+    "east": 76.31
+  }
+}

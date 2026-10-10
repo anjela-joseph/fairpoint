@@ -1,0 +1,264 @@
+{
+  "endpoint": "https://overpass.private.coffee/api/interpreter",
+  "query": "[out:json][timeout:25];nwr[amenity=fast_food][name](10.01,76.285,10.06,76.335);out center;",
+  "area": "edappally",
+  "category": "fastFood",
+  "fetchedAt": "2026-10-10T17:15:43.566Z",
+  "bounds": {
+    "south": 10.01,
+    "west": 76.285,
+    "north": 10.06,
+    "east": 76.335
+  },
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 4107620114,
+      "lat": 10.0464543,
+      "lon": 76.3214678,
+      "tags": {
+        "addr:street": "CUSAT Payyapally Road",
+        "amenity": "fast_food",
+        "cuisine": "burger",
+        "name": "Burger spot",
+        "opening_hours": "Mo-Su 10:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5240501392,
+      "lat": 10.0278448,
+      "lon": 76.3082245,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "50/2392, Ground Floor, Lulu International Shopping Mall",
+        "addr:postcode": "682024",
+        "addr:street": "Salem - Kochi - Kanyakumari Highway",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "branch": "Edappally",
+        "brand": "McDonald's",
+        "brand:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:ur": "مکڈونلڈز",
+        "brand:wikidata": "Q38076",
+        "brand:wikipedia": "en:McDonald's",
+        "brand:wikipedia:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "brand:wikipedia:ur": "مکڈونلڈز",
+        "cuisine": "burger",
+        "drive_through": "no",
+        "level": "0",
+        "name": "McDonald's",
+        "name:pa": "ਮੈਕਡੋਨਲਡ’ਜ਼",
+        "name:ur": "مکڈونلڈز",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "operator": "Hardcastle Restaurants Pvt. Ltd. (HRPL)",
+        "phone": "+91-8928-304167",
+        "takeaway": "yes",
+        "website": "https://mcdelivery.co.in/restaurants/cochin/381/order-food-online-in-McDonalds-cochinlulumall-edapally"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5572435341,
+      "lat": 10.0570304,
+      "lon": 76.2914455,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Village restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5757830530,
+      "lat": 10.0498775,
+      "lon": 76.3330043,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Shibus Fast food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7470561491,
+      "lat": 10.031344,
+      "lon": 76.3116915,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "description": "Juice Center",
+        "name": "Haji Ali Juice Center 1960"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7528072669,
+      "lat": 10.0283232,
+      "lon": 76.3079551,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:ur": "کینٹکی فرائیڈ چکن",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "brand:wikipedia:pa": "ਕੇਐਫਸੀ",
+        "brand:wikipedia:ur": "کینٹکی فرائیڈ چکن",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:ur": "کینٹکی فرائیڈ چکن",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7528370056,
+      "lat": 10.0425069,
+      "lon": 76.3051535,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Muttarile"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8025440504,
+      "lat": 10.048936,
+      "lon": 76.318726,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "juice",
+        "name": "MSK Fruits & Juice shop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9482980035,
+      "lat": 10.0124665,
+      "lon": 76.2920423,
+      "tags": {
+        "amenity": "fast_food",
+        "cuisine": "chicken",
+        "name": "GRILL TOWN KOCHI"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13094757395,
+      "lat": 10.0217878,
+      "lon": 76.3079633,
+      "tags": {
+        "amenity": "fast_food",
+        "fast_food": "cafeteria",
+        "name": "MAJ Canteen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13334238279,
+      "lat": 10.0281942,
+      "lon": 76.3074179,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "Third floor, Unit No F.C.09, Lulu International Shopping Mall",
+        "addr:postcode": "682024",
+        "addr:street": "Kodungallur-Paravur-Ernakulam Highway",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "branch": "Lulu International Shopping Mall",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "level": "3",
+        "name": "Domino's",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "Jubilant FoodWorks Limited (JFL)",
+        "phone": "+91-4844-032336",
+        "takeaway": "yes",
+        "website": "https://www.dominos.co.in/store-location/cochin/lulu-mall-kerala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13334358203,
+      "lat": 10.0330637,
+      "lon": 76.3131733,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:housenumber": "Ground floor, Ward number XXV, Shop No 9A1 9B 9B1, Nanu's Complex, Madukapilly, Koonamthai, Edappally",
+        "addr:postcode": "682024",
+        "addr:street": "Salem - Kochi - Kanyakumari Highway",
+        "air_conditioning": "yes",
+        "amenity": "fast_food",
+        "branch": "Edapally",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "cuisine": "pizza",
+        "diet:halal": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "level": "0",
+        "name": "Domino's",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "Jubilant FoodWorks Limited (JFL)",
+        "phone": "+91-4844-032888",
+        "takeaway": "yes",
+        "website": "https://www.dominos.co.in/store-location/cochin/edappally-kochi-kerala"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13411665548,
+      "lat": 10.0455785,
+      "lon": 76.3176362,
+      "tags": {
+        "addr:city": "Kochi",
+        "addr:district": "Ernakulam",
+        "addr:postcode": "682033",
+        "addr:street": "Salem - Kochi - Kanyakumari Highway",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "alt_name:en": "Kentucky Fried Chicken",
+        "alt_name:hi": "केंटुकी फ्राइड चिकन",
+        "alt_name:pa": "ਕੈਂਟੁਕੀ ਫ੍ਰਾਈਡ ਚਿਕਨ",
+        "alt_name:pnb": "کینٹکی فرائیڈ چکن",
+        "alt_name:ur": "کینٹکی فرائیڈ چکن",
+        "amenity": "fast_food",
+        "branch": "Kalamassery",
+        "brand": "KFC",
+        "brand:en": "KFC",
+        "brand:hi": "केएफसी",
+        "brand:pa": "ਕੇਐਫਸੀ",
+        "brand:pnb": "کے ایف سی",
+        "brand:ur": "کے ایف سی",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "level": "0",
+        "name": "KFC",
+        "name:en": "KFC",
+        "name:hi": "केएफसी",
+        "name:pa": "ਕੇਐਫਸੀ",
+        "name:pnb": "کے ایف سی",
+        "name:ur": "کے ایف سی",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+91-7942-726007",
+        "takeaway": "yes",
+        "website": "https://restaurants.kfc.co.in/kfc-kalamasserry-restaurants-kalamassery-ernakulam-307035/Home"
+      }
+    }
+  ]
+}

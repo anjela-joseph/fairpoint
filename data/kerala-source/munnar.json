@@ -1,0 +1,2505 @@
+{
+  "name": "munnar",
+  "bounds": {
+    "south": 10.02,
+    "west": 76.98,
+    "north": 10.16,
+    "east": 77.13
+  },
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:25];(nwr[amenity~\"^(cafe|restaurant|fast_food|food_court|cinema|theatre)$\"][name](10.02,76.98,10.16,77.13);nwr[shop=mall][name](10.02,76.98,10.16,77.13);nwr[tourism][name](10.02,76.98,10.16,77.13);nwr[historic][name](10.02,76.98,10.16,77.13);nwr[leisure~\"^(park|nature_reserve|garden)$\"][name](10.02,76.98,10.16,77.13);nwr[natural~\"^(beach|waterfall|peak|hill)$\"][name](10.02,76.98,10.16,77.13);nwr[waterway=waterfall][name](10.02,76.98,10.16,77.13););out center tags;",
+  "fetchedAt": "2026-10-10T17:50:13.936Z",
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T17:48:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 353395204,
+      "lat": 10.0902362,
+      "lon": 77.0878224,
+      "tags": {
+        "name": "Tea",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353409852,
+      "lat": 10.0872093,
+      "lon": 77.059678,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-27",
+        "cuisine": "indian",
+        "diet:vegetarian": "only",
+        "name": "Saravana Bhavan pur Veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353414957,
+      "lat": 10.0754488,
+      "lon": 77.0632278,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "information": "Tourist Information",
+        "name": "DTPC Tourist Information",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353414960,
+      "lat": 10.0743312,
+      "lon": 77.0616045,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "JJ Cottages",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 354071016,
+      "lat": 10.1370049,
+      "lon": 77.0595499,
+      "tags": {
+        "information": "office",
+        "name": "Eravikulam NP",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172851912,
+      "lat": 10.0738421,
+      "lon": 77.0621718,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "name": "Sri Ashvini Karaikudi Chettinad Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172851970,
+      "lat": 10.0875061,
+      "lon": 77.0586578,
+      "tags": {
+        "name": "Moonlight Homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172851972,
+      "lat": 10.0874546,
+      "lon": 77.060268,
+      "tags": {
+        "amenity": "cafe",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Olivia Communications"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852087,
+      "lat": 10.0872144,
+      "lon": 77.058702,
+      "tags": {
+        "name": "Vinagaya",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852274,
+      "lat": 10.0743494,
+      "lon": 77.0615398,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "Green View Holiday Inn",
+        "tourism": "guest_house",
+        "website": "https://greenviewmunnar.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852406,
+      "lat": 10.0880375,
+      "lon": 77.0603339,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Rapsy Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852638,
+      "lat": 10.0878895,
+      "lon": 77.0585078,
+      "tags": {
+        "name": "Kaippallil Homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852923,
+      "lat": 10.0874683,
+      "lon": 77.0610441,
+      "tags": {
+        "name": "Arfa Tourist Home",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172852980,
+      "lat": 10.0698569,
+      "lon": 77.0610023,
+      "tags": {
+        "check_date": "2025-12-05",
+        "name": "Royal Retreat",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172853511,
+      "lat": 10.0873628,
+      "lon": 77.0608037,
+      "tags": {
+        "name": "Krishna Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1172853667,
+      "lat": 10.0874085,
+      "lon": 77.0608964,
+      "tags": {
+        "name": "Safa Lodge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667357188,
+      "lat": 10.0861,
+      "lon": 77.0601,
+      "tags": {
+        "camera:mount": "pole",
+        "camera:type": "fixed",
+        "description": "AI Camera",
+        "man_made": "surveillance",
+        "name": "Munnar Inn;KL-KEL-KMVD-50-AICS-06-272",
+        "operator": "Govt",
+        "ref": "GH road",
+        "surveillance": "public",
+        "surveillance:type": "camera",
+        "surveillance:zone": "traffic",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667358957,
+      "lat": 10.0868978,
+      "lon": 77.0605516,
+      "tags": {
+        "name": "Hotel Almaaeda",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667359644,
+      "lat": 10.0871,
+      "lon": 77.0599,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Sree Mahaveer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667359920,
+      "lat": 10.0874,
+      "lon": 77.0596,
+      "tags": {
+        "check_date": "2023-01-26",
+        "name": "Saravana Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1667360227,
+      "lat": 10.0873716,
+      "lon": 77.0594764,
+      "tags": {
+        "name": "Raahath Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668697736,
+      "lat": 10.023656,
+      "lon": 76.9984579,
+      "tags": {
+        "name": "Deepa World Spicegarden",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668703470,
+      "lat": 10.07,
+      "lon": 77.061,
+      "tags": {
+        "check_date": "2025-12-05",
+        "name": "Hill View",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668717541,
+      "lat": 10.0746,
+      "lon": 77.06143,
+      "tags": {
+        "name": "Aida Tourist Home",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668717542,
+      "lat": 10.07461,
+      "lon": 77.06174,
+      "tags": {
+        "name": "Clouds Valley",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668717543,
+      "lat": 10.07647,
+      "lon": 77.06168,
+      "tags": {
+        "description": "Rooms Annex",
+        "name": "Kanan Devan Hills Club",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668717544,
+      "lat": 10.07615,
+      "lon": 77.06136,
+      "tags": {
+        "name": "Poopada",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668717669,
+      "lat": 10.0742688,
+      "lon": 77.0616895,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "SMM Cottages",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668734377,
+      "lat": 10.07461,
+      "lon": 77.06319,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "cuisine": "regional",
+        "name": "SN Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668734378,
+      "lat": 10.078269,
+      "lon": 77.0626513,
+      "tags": {
+        "name": "Silver Tips",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1668736807,
+      "lat": 10.0399435,
+      "lon": 77.11287,
+      "tags": {
+        "name": "Photo Point",
+        "name:en": "Photo Point",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669911976,
+      "lat": 10.0952291,
+      "lon": 77.0993296,
+      "tags": {
+        "name": "Elephant Ride",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1669960438,
+      "lat": 10.0672027,
+      "lon": 77.1047255,
+      "tags": {
+        "name": "Spring Dale Resort",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2108735990,
+      "lat": 10.0501444,
+      "lon": 77.0512686,
+      "tags": {
+        "addr:city": "Munnar",
+        "addr:country": "IN",
+        "addr:region": "Kerala",
+        "name": "Blackberry Hills",
+        "source": "Bing",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2287869532,
+      "lat": 10.0542301,
+      "lon": 77.0652937,
+      "tags": {
+        "addr:city": "Pothanmedu Munnar",
+        "name": "Misty Green View",
+        "phone": "+91-9495812308",
+        "tourism": "guest_house",
+        "website": "http://wilsontours.co.in"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2635014329,
+      "lat": 10.0559762,
+      "lon": 77.071573,
+      "tags": {
+        "name": "Deshadan Mountain Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2635014359,
+      "lat": 10.0479206,
+      "lon": 77.078592,
+      "tags": {
+        "name": "Ranger Woods",
+        "tourism": "guest_house",
+        "website": "www.rangerwoods.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2635014440,
+      "lat": 10.0256442,
+      "lon": 77.0504923,
+      "tags": {
+        "name": "The Shade",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2650128411,
+      "lat": 10.0344726,
+      "lon": 77.0449935,
+      "tags": {
+        "name": "Gruenberg",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3158128893,
+      "lat": 10.1518335,
+      "lon": 77.0431326,
+      "tags": {
+        "ele": "2401",
+        "name": "Naikolli Mala",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3192990021,
+      "lat": 10.0879127,
+      "lon": 77.0668457,
+      "tags": {
+        "check_date": "2023-01-28",
+        "name": "7's TM Cottage",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393406855,
+      "lat": 10.0354742,
+      "lon": 77.1057685,
+      "tags": {
+        "ele": "2183",
+        "name": "Chokramudi",
+        "name:ml": "ചൊക്രമുടി",
+        "name:ta": "சொக்கிரமுடி",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3688525125,
+      "lat": 10.0325414,
+      "lon": 77.0411805,
+      "tags": {
+        "name": "Green Valley Vista",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4426053790,
+      "lat": 10.0351417,
+      "lon": 77.126755,
+      "tags": {
+        "addr:street": "Gap Baison Valley Road",
+        "name": "The Club Munnar",
+        "operator": "Spice Land, Cochin.",
+        "phone": "+91-042898632",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4520785492,
+      "lat": 10.0740584,
+      "lon": 77.063995,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "Grand Plaza",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4548892589,
+      "lat": 10.0282032,
+      "lon": 77.0457275,
+      "tags": {
+        "email": "info@greenvalleyvista.com",
+        "internet_access": "wlan",
+        "name": "Green Valley Vista",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4616253889,
+      "lat": 10.0745742,
+      "lon": 77.0631488,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "Hotel SN",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620707789,
+      "lat": 10.0452897,
+      "lon": 77.1124798,
+      "tags": {
+        "name": "Photo Point",
+        "name:en": "Photo Point",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4620708289,
+      "lat": 10.0761693,
+      "lon": 77.0631973,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "NFC",
+        "name:en": "NFC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621777396,
+      "lat": 10.0933457,
+      "lon": 77.091887,
+      "tags": {
+        "name": "Honey Tree",
+        "name:en": "Honey Tree",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621777398,
+      "lat": 10.0877375,
+      "lon": 77.064938,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-28",
+        "name": "Gurubhavan Munnar",
+        "name:en": "Gurubhavan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621817191,
+      "lat": 10.0923553,
+      "lon": 77.089065,
+      "tags": {
+        "name": "Photo Point",
+        "name:en": "Photo Point",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4621817291,
+      "lat": 10.078597,
+      "lon": 77.0628936,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "italian_pizza",
+        "name": "Pizza Max",
+        "name:en": "Pizza Max"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4622890691,
+      "lat": 10.07395,
+      "lon": 77.062247,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Mirchi's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623090496,
+      "lat": 10.0762085,
+      "lon": 77.0631923,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Radhe Krishna",
+        "name:en": "Radhe Krishna"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623112097,
+      "lat": 10.0739839,
+      "lon": 77.0618998,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "name": "Kurinji"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623112099,
+      "lat": 10.0782108,
+      "lon": 77.0629711,
+      "tags": {
+        "name": "Noah's Ark Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623114493,
+      "lat": 10.0813716,
+      "lon": 77.0618017,
+      "tags": {
+        "name": "Sujatha Inn",
+        "name:en": "Sujatha Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623114494,
+      "lat": 10.0799942,
+      "lon": 77.0616113,
+      "tags": {
+        "name": "Green Ridge",
+        "name:en": "Green Ridge",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623125890,
+      "lat": 10.080075,
+      "lon": 77.0616652,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Green Leaf",
+        "name:en": "Green Leaf"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623178089,
+      "lat": 10.0740641,
+      "lon": 77.0618515,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "cafe",
+        "name": "Taste the Brews"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623559489,
+      "lat": 10.08702,
+      "lon": 77.0580796,
+      "tags": {
+        "name": "Nirmala Cottage Homestay",
+        "name:es": "Nirmala Cottage Homestay",
+        "phone": "+91-4865231319",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4623650191,
+      "lat": 10.0781506,
+      "lon": 77.0630028,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel Cochin",
+        "name:en": "Hotel Cochin",
+        "opening_hours": "Mo-Su 07:30-21:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625575595,
+      "lat": 10.0348848,
+      "lon": 77.1140787,
+      "tags": {
+        "name": "The cross",
+        "name:en": "The cross",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625626490,
+      "lat": 10.0346043,
+      "lon": 77.1168559,
+      "tags": {
+        "name": "Point #9",
+        "name:en": "Point #9",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625626491,
+      "lat": 10.0347245,
+      "lon": 77.1157888,
+      "tags": {
+        "name": "Point #11",
+        "name:en": "Point #11",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4625636189,
+      "lat": 10.0346812,
+      "lon": 77.1162193,
+      "tags": {
+        "name": "Point #10",
+        "name:en": "Point #10",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627656189,
+      "lat": 10.0740143,
+      "lon": 77.062301,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Sree Anapoorani pur Veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627918192,
+      "lat": 10.0707273,
+      "lon": 77.0480096,
+      "tags": {
+        "name": "Green View Holiday Inn",
+        "name:en": "Green View Holiday Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627918492,
+      "lat": 10.0554006,
+      "lon": 77.0663711,
+      "tags": {
+        "name": "Meghdoot",
+        "name:en": "Meghdoot",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627918493,
+      "lat": 10.0547998,
+      "lon": 77.0661819,
+      "tags": {
+        "name": "Shamrock Holiday Home",
+        "name:en": "Shamrock Holiday Home",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4627941691,
+      "lat": 10.059648,
+      "lon": 77.064075,
+      "tags": {
+        "name": "Pothamedu",
+        "name:en": "Pothamedu",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4628593989,
+      "lat": 10.0549323,
+      "lon": 77.0662274,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Lavanya Stores",
+        "name:en": "Lavanya Stores"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4725308165,
+      "lat": 10.087304,
+      "lon": 77.0680277,
+      "tags": {
+        "addr:city": "Munnar",
+        "addr:housenumber": "Near tea county",
+        "addr:postcode": "685612",
+        "addr:street": "Colony Road",
+        "email": "mail@lecelestium.com",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Le Celestium",
+        "operator": "Leisure Inn Hotels & Resorts",
+        "rooms": "36",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5068708622,
+      "lat": 10.1493322,
+      "lon": 77.082205,
+      "tags": {
+        "name": "Anaimudi view",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5068708623,
+      "lat": 10.1445422,
+      "lon": 77.097679,
+      "tags": {
+        "name": "Green Valley View",
+        "name:en": "Green Valley View",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5134637110,
+      "lat": 10.1368151,
+      "lon": 77.0866393,
+      "tags": {
+        "ele": "2298",
+        "name": "Kanni Mala",
+        "natural": "peak"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5144875023,
+      "lat": 10.074081,
+      "lon": 77.0643183,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "email": "mail@westwoodmunnar.com",
+        "internet_access": "wlan",
+        "name": "Hotel Westwood Riverside",
+        "opening_hours": "24/7",
+        "operator": "EVM Leisure Holidays & Resorts Pvt. Ltd.",
+        "phone": "+91-4865230884",
+        "tourism": "hotel",
+        "website": "https://www.westwoodmunnar.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5325602421,
+      "lat": 10.0264498,
+      "lon": 77.0421245,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Athens Cottage",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5325602422,
+      "lat": 10.0266824,
+      "lon": 77.0421811,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Athens Cottage",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5380855921,
+      "lat": 10.0893509,
+      "lon": 77.0704015,
+      "tags": {
+        "email": "albertramaraj@gmail.com",
+        "name": "Ammukutty's Cottage",
+        "opening_hours": "24/7",
+        "phone": "+91-9447825503",
+        "tourism": "hotel",
+        "website": "http://www.ammukuttyscottage.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5426116129,
+      "lat": 10.0668351,
+      "lon": 77.0735631,
+      "tags": {
+        "name": "Flowers house",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5463574823,
+      "lat": 10.0535036,
+      "lon": 77.0586226,
+      "tags": {
+        "name": "Attukad waterfall",
+        "waterway": "waterfall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5883827997,
+      "lat": 10.055276,
+      "lon": 77.0614743,
+      "tags": {
+        "group_only": "yes",
+        "name": "Koodaram Camping",
+        "tourism": "camp_site"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6015454989,
+      "lat": 10.0738376,
+      "lon": 77.0641755,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "internet_access": "wlan",
+        "name": "John’s cottage",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6039078986,
+      "lat": 10.0367826,
+      "lon": 77.0512524,
+      "tags": {
+        "name": "Shire hostel",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6110716685,
+      "lat": 10.0564953,
+      "lon": 77.1151731,
+      "tags": {
+        "name": "Circular Tea Plantations",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6118490487,
+      "lat": 10.085883,
+      "lon": 77.0741025,
+      "tags": {
+        "addr:street": "Madupatty Road",
+        "email": "munnar@kfdcecotourism.com",
+        "name": "KFDC Office",
+        "opening_hours": "24/7",
+        "phone": "+91 4865 230332",
+        "tourism": "information",
+        "website": "https://munnar.kfdcecotourism.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6125936091,
+      "lat": 10.0737686,
+      "lon": 77.0621441,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Sree Kumaran Hotel Veg and Non-Veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6152792678,
+      "lat": 10.0326139,
+      "lon": 77.0375551,
+      "tags": {
+        "name": "Munnar Tea Country Resort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6232415087,
+      "lat": 10.0723383,
+      "lon": 77.056862,
+      "tags": {
+        "name": "Cheeky river crossing to Latchmi Estate",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6235897186,
+      "lat": 10.0918752,
+      "lon": 77.0872786,
+      "tags": {
+        "name": "Tea paddies",
+        "name:de": "Teeplantageb",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6235948285,
+      "lat": 10.0909965,
+      "lon": 77.0881105,
+      "tags": {
+        "name": "Tea paddies panorama",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6257073186,
+      "lat": 10.0789648,
+      "lon": 77.0623594,
+      "tags": {
+        "name": "בתים מגניבין על הגבעה",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6257085485,
+      "lat": 10.0859636,
+      "lon": 77.0585926,
+      "tags": {
+        "name": "Mount shelt",
+        "name:he": "המלון שלנו",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6270876686,
+      "lat": 10.053613,
+      "lon": 77.0589472,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Small Cafe with simple food"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6307460385,
+      "lat": 10.0877679,
+      "lon": 77.0742652,
+      "tags": {
+        "name": "Natura Inn",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6342974655,
+      "lat": 10.0669199,
+      "lon": 77.05986,
+      "tags": {
+        "addr:street": "near lions school, munnar",
+        "name": "Zina Cottage",
+        "phone": "+91 94968 22163",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6617156281,
+      "lat": 10.0812974,
+      "lon": 77.0617935,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Sree Krishna Gujarati Marwari"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6617211491,
+      "lat": 10.0853438,
+      "lon": 77.0608923,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Chai Piyo",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6620313440,
+      "lat": 10.0782513,
+      "lon": 77.0629663,
+      "tags": {
+        "amenity": "cafe",
+        "name": "WaffleShop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6624527763,
+      "lat": 10.1435878,
+      "lon": 77.0407891,
+      "tags": {
+        "information": "board",
+        "name": "Eravikulam National Park",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6624527764,
+      "lat": 10.1435789,
+      "lon": 77.0385478,
+      "tags": {
+        "board_type": "nature",
+        "information": "board",
+        "name": "Neelakurinji",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6624527766,
+      "lat": 10.143333,
+      "lon": 77.0397089,
+      "tags": {
+        "board_type": "nature",
+        "information": "board",
+        "name": "Nilgiri Tahr Evolution",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6624527767,
+      "lat": 10.1430532,
+      "lon": 77.0399087,
+      "tags": {
+        "board_type": "nature",
+        "information": "board",
+        "name": "Eravikulam National Park",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6624527773,
+      "lat": 10.1424848,
+      "lon": 77.0360577,
+      "tags": {
+        "board_type": "nature",
+        "information": "board",
+        "name": "Nilgiri Tahr",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6626463687,
+      "lat": 10.0881179,
+      "lon": 77.0589688,
+      "tags": {
+        "amenity": "cafe",
+        "name": "PTJ Swarma Lakshmi Tea Stall"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6855223037,
+      "lat": 10.0224593,
+      "lon": 77.0451649,
+      "tags": {
+        "addr:city": "Anachal",
+        "addr:street": "Kunchithanny Road",
+        "name": "Greenwoods Cottage",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6855249149,
+      "lat": 10.0739711,
+      "lon": 77.0611514,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Ali Baba & 41 Dishes",
+        "website": "http://www.alibaba41dishes.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6855249150,
+      "lat": 10.0738789,
+      "lon": 77.0610384,
+      "tags": {
+        "addr:city": "Old Munnar",
+        "name": "Casa Montana",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6968663587,
+      "lat": 10.0242432,
+      "lon": 77.0440603,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Flutterby hostel REAL",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7035726885,
+      "lat": 10.041295,
+      "lon": 77.0390793,
+      "tags": {
+        "direction": "160",
+        "name": "Sunset point",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7065304786,
+      "lat": 10.0243344,
+      "lon": 77.0441676,
+      "tags": {
+        "name": "Flutterby - right location",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7090073885,
+      "lat": 10.0960601,
+      "lon": 77.1014348,
+      "tags": {
+        "name": "Calmelagiri Botanical Garden",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7090811789,
+      "lat": 10.024433,
+      "lon": 77.0408508,
+      "tags": {
+        "addr:city": "Anachal",
+        "addr:street": "Sabarimala - Kodaikkanal Road",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Laxmi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7101661885,
+      "lat": 10.0541086,
+      "lon": 77.0436079,
+      "tags": {
+        "name": "Hill Top View Point",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7109159586,
+      "lat": 10.0379534,
+      "lon": 77.0498708,
+      "tags": {
+        "name": "Share hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7124226285,
+      "lat": 10.0471238,
+      "lon": 77.0535373,
+      "tags": {
+        "addr:postcode": "685565",
+        "addr:street": "Pallivasal tea factory 4/451(1)",
+        "name": "Flutterby Inn",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7145786052,
+      "lat": 10.0878808,
+      "lon": 77.0630828,
+      "tags": {
+        "check_date": "2026-01-24",
+        "name": "Landy Queen Rooms&Villa",
+        "phone": "+919895582622",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7244772886,
+      "lat": 10.0475234,
+      "lon": 77.0535353,
+      "tags": {
+        "name": "flutterby inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7276274285,
+      "lat": 10.0489285,
+      "lon": 77.0388176,
+      "tags": {
+        "name": "Ecolodge",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7281649685,
+      "lat": 10.0376722,
+      "lon": 77.0498035,
+      "tags": {
+        "internet_access": "wlan",
+        "name": "Share hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7461845929,
+      "lat": 10.028358,
+      "lon": 77.0381523,
+      "tags": {
+        "addr:city": "Anachal",
+        "addr:housenumber": "chithirapuram, PO, Anachal, Kerala",
+        "addr:postcode": "685565",
+        "addr:street": "Munnar-Adimaly road",
+        "amenity": "restaurant",
+        "name": "Vava food court",
+        "opening_hours": "06:00-22:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7461845939,
+      "lat": 10.0289716,
+      "lon": 77.0370353,
+      "tags": {
+        "air_conditioning": "yes",
+        "amenity": "restaurant",
+        "bar": "no",
+        "brewery": "no",
+        "check_date": "2024-01-17",
+        "cuisine": "coffee_shop;regional;pizza;international",
+        "diet:vegetarian": "yes",
+        "highchair": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "The Underground Restuarant",
+        "opening_hours:covid19": "off",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "+91-70340 29746",
+        "toilets": "yes",
+        "toilets:handwashing": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7467328501,
+      "lat": 10.0337146,
+      "lon": 77.0408927,
+      "tags": {
+        "name": "Jeep Safari",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7467488620,
+      "lat": 10.0316738,
+      "lon": 77.045858,
+      "tags": {
+        "addr:housenumber": "Chithirapuram,Kerala",
+        "addr:postcode": "685565",
+        "amenity": "cafe",
+        "cuisine": "regional",
+        "internet_access": "no",
+        "name": "Vellapally",
+        "opening_hours:covid19": "off",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7471893196,
+      "lat": 10.0208098,
+      "lon": 77.0349013,
+      "tags": {
+        "name": "Jeep Safari",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7511835539,
+      "lat": 10.0328312,
+      "lon": 76.9859685,
+      "tags": {
+        "name": "Achoos Hotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8396921788,
+      "lat": 10.0234379,
+      "lon": 77.0374799,
+      "tags": {
+        "amenity": "cafe",
+        "name": "bab's chaya kada"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9883076319,
+      "lat": 10.0912305,
+      "lon": 77.0718697,
+      "tags": {
+        "name": "Mens Hostel College of Engineering, Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10079110010,
+      "lat": 10.0759513,
+      "lon": 77.063213,
+      "tags": {
+        "leisure": "park",
+        "name": "DTPC Kids Adventure Park"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10079126035,
+      "lat": 10.0843897,
+      "lon": 77.0603779,
+      "tags": {
+        "leisure": "park",
+        "name": "Fun Forest"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10586230599,
+      "lat": 10.0872987,
+      "lon": 77.0592904,
+      "tags": {
+        "check_date": "2023-01-27",
+        "information": "office",
+        "name": "Munnar Great Think Adventures",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10586278912,
+      "lat": 10.0869543,
+      "lon": 77.060615,
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2023-01-27",
+        "cuisine": "indian",
+        "name": "Shri Lakshmi Tiffin Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11514514472,
+      "lat": 10.0872369,
+      "lon": 77.0588515,
+      "tags": {
+        "addr:housenumber": "126",
+        "addr:postcode": "685612",
+        "addr:street": "Mg Road Near Great Think Adventures",
+        "email": "munnarkaippallibudgetroom@gmail.com",
+        "internet_access": "wlan",
+        "name": "Hotel",
+        "opening_hours": "24/7",
+        "phone": "9567673671",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11514541369,
+      "lat": 10.0872323,
+      "lon": 77.0586728,
+      "tags": {
+        "addr:postcode": "685612",
+        "addr:street": "MG Road Near Great Think Adventures",
+        "email": "munnarkaippallibudgetroom@gmail.com",
+        "internet_access": "wlan",
+        "name": "Munnar Kaippalli Budget Rooms",
+        "opening_hours": "24/7",
+        "phone": "9567673671",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11665787206,
+      "lat": 10.0532226,
+      "lon": 77.0656179,
+      "tags": {
+        "name": "Sunset Deck",
+        "tourism": "viewpoint"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11669054292,
+      "lat": 10.0715681,
+      "lon": 77.0613485,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Food Trucks"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11669054296,
+      "lat": 10.071986,
+      "lon": 77.0614924,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Pink Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11703631483,
+      "lat": 10.0865113,
+      "lon": 77.0650953,
+      "tags": {
+        "name": "Tea Country",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11708005783,
+      "lat": 10.0864607,
+      "lon": 77.060765,
+      "tags": {
+        "name": "Gilgal",
+        "phone": "9446983763",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11708007977,
+      "lat": 10.0868711,
+      "lon": 77.0607505,
+      "tags": {
+        "name": "Hotel Munnar Certral",
+        "phone": "9972028083",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11708026104,
+      "lat": 10.0872861,
+      "lon": 77.0618579,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Eastend Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11708044069,
+      "lat": 10.0869842,
+      "lon": 77.0605347,
+      "tags": {
+        "name": "Hill Top",
+        "phone": "9497197914",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11710057454,
+      "lat": 10.0865633,
+      "lon": 77.0651387,
+      "tags": {
+        "name": "Tea County",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11787058884,
+      "lat": 10.0875432,
+      "lon": 77.0658999,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Hotel New Saravana Bhavan"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12318742785,
+      "lat": 10.0644217,
+      "lon": 77.1007169,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Green Tea"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13355210009,
+      "lat": 10.0246294,
+      "lon": 77.040822,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Banyan Leaf Pur Veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13355284452,
+      "lat": 10.0783628,
+      "lon": 77.0630298,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "üatel pur veg"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13356083798,
+      "lat": 10.0883027,
+      "lon": 77.0622714,
+      "tags": {
+        "name": "Cloud five",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13356151394,
+      "lat": 10.0890124,
+      "lon": 77.062396,
+      "tags": {
+        "name": "Soul Stay",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13359287011,
+      "lat": 10.0877858,
+      "lon": 77.0643232,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Sree Mahaveer pur Veg Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13359534132,
+      "lat": 10.0874755,
+      "lon": 77.0651977,
+      "tags": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "only",
+        "name": "Purchit pur veg restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13478691067,
+      "lat": 10.0876236,
+      "lon": 77.0643406,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Barista Café"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13481036232,
+      "lat": 10.0877079,
+      "lon": 77.0629684,
+      "tags": {
+        "name": "Shiva cottage",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13481081111,
+      "lat": 10.0864519,
+      "lon": 77.0608386,
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Tiffin Corner"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13481847003,
+      "lat": 10.087785,
+      "lon": 77.0663244,
+      "tags": {
+        "name": "red star holiday",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13481849312,
+      "lat": 10.0876054,
+      "lon": 77.0662063,
+      "tags": {
+        "name": "Swarnam Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13481851129,
+      "lat": 10.0877943,
+      "lon": 77.0665041,
+      "tags": {
+        "name": "V.M.J. Dwellings",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13483007054,
+      "lat": 10.0861506,
+      "lon": 77.0732716,
+      "tags": {
+        "amenity": "cafe",
+        "name": "Maxi cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13483197166,
+      "lat": 10.0876756,
+      "lon": 77.0599558,
+      "tags": {
+        "artwork_type": "statue",
+        "name": "Christ",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13483542819,
+      "lat": 10.0742583,
+      "lon": 77.0605607,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "king pizza and cafeteria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13511961103,
+      "lat": 10.0884991,
+      "lon": 77.0637788,
+      "tags": {
+        "addr:postcode": "685612",
+        "addr:street": "Ikka Nagar",
+        "name": "S&B Dreams House",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13591853001,
+      "lat": 10.0746,
+      "lon": 77.06143,
+      "tags": {
+        "addr:city": "Idukki",
+        "addr:full": "Idukki, Kerala",
+        "name": "Aida Tourist Home",
+        "source": "TravancoreTraits",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13591853501,
+      "lat": 10.0874683,
+      "lon": 77.0610441,
+      "tags": {
+        "addr:city": "Idukki",
+        "addr:full": "Idukki, Kerala",
+        "name": "Arfa Tourist Home",
+        "source": "TravancoreTraits",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13593258901,
+      "lat": 10.0456618,
+      "lon": 77.0530399,
+      "tags": {
+        "name": "Monkey Tribe Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13754360901,
+      "lat": 10.0284638,
+      "lon": 77.0456044,
+      "tags": {
+        "check_date": "2026-04-22",
+        "name": "Sree Krishna Purohit",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 14226912502,
+      "lat": 10.0402335,
+      "lon": 77.0359681,
+      "tags": {
+        "name": "Zostel Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 495591959,
+      "center": {
+        "lat": 10.0881471,
+        "lon": 77.0616403
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "amenity": "theatre",
+        "building": "yes",
+        "name": "Thirumeny Cultural Centre",
+        "opening_hours": "Mo-Su 17:00-19:00",
+        "phone": "+91 8304070552",
+        "website": "https://www.facebook.com/pages/Thirumeny-Cultural-Centre/431082063684537"
+      }
+    },
+    {
+      "type": "way",
+      "id": 495591969,
+      "center": {
+        "lat": 10.0878678,
+        "lon": 77.0610398
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Hazrath Hotel and Restaurant",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 498447464,
+      "center": {
+        "lat": 10.0696216,
+        "lon": 77.0655097
+      },
+      "tags": {
+        "addr:city": "Devikulam",
+        "addr:housenumber": "munnar hydelpark",
+        "addr:place": "munnar hydelpark",
+        "addr:postcode": "685613",
+        "addr:street": "Sree parvathi Amman Kovil Street",
+        "leisure": "park",
+        "name": "Hydel Park",
+        "name:en": "Hydel Park",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "way",
+      "id": 705221349,
+      "center": {
+        "lat": 10.0857386,
+        "lon": 77.0758678
+      },
+      "tags": {
+        "access": "customers",
+        "charge": "50 INR",
+        "fee": "yes",
+        "garden:type": "botanical",
+        "leisure": "garden",
+        "name": "Floriculture Centre",
+        "operator": "Kerala Forest Development Corporation",
+        "operator:type": "government"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797804853,
+      "center": {
+        "lat": 10.0270085,
+        "lon": 77.0350621
+      },
+      "tags": {
+        "addr:city": "Anachal",
+        "addr:housenumber": "No. 89, Chithirapuram P.O Anachal, Munnar, Kerala",
+        "addr:postcode": "685565",
+        "addr:street": "Munnar -Adimaly road",
+        "leisure": "park",
+        "name": "Wonder Valley Ammusment Park",
+        "opening_hours:covid19": "off",
+        "website": "https://wondervalley.co.in/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797819401,
+      "center": {
+        "lat": 10.0836398,
+        "lon": 77.0718504
+      },
+      "tags": {
+        "access": "permissive",
+        "garden:type": "botanical",
+        "leisure": "garden",
+        "name": "Munnar Botanical Garden"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797821351,
+      "center": {
+        "lat": 10.0864992,
+        "lon": 77.0693333
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "addr:postcode": "685612",
+        "addr:street": "Top station road",
+        "air_conditioning": "no",
+        "building": "yes",
+        "check_date": "2023-01-23",
+        "name": "The Elysium Garden",
+        "phone": "+91 4865 232 620",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797999584,
+      "center": {
+        "lat": 10.023302,
+        "lon": 77.0388313
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Salkara",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798022760,
+      "center": {
+        "lat": 10.0316333,
+        "lon": 77.0429164
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Munnar Palace",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798216941,
+      "center": {
+        "lat": 10.0875939,
+        "lon": 77.0592009
+      },
+      "tags": {
+        "name": "NG Regency OYO",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798216956,
+      "center": {
+        "lat": 10.084785,
+        "lon": 77.0606495
+      },
+      "tags": {
+        "amenity": "fast_food",
+        "name": "Police Canteen",
+        "operator": "Kerala Police",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798216957,
+      "center": {
+        "lat": 10.0869814,
+        "lon": 77.0612537
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Jays Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370022,
+      "center": {
+        "lat": 10.087317,
+        "lon": 77.0634517
+      },
+      "tags": {
+        "building": "house",
+        "building:levels": "1",
+        "name": "Government Guest house Munnar",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370025,
+      "center": {
+        "lat": 10.0936114,
+        "lon": 77.0689095
+      },
+      "tags": {
+        "name": "Boys hostel",
+        "operator": "College of engineering munnar",
+        "tourism": "hostel",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370031,
+      "center": {
+        "lat": 10.0912507,
+        "lon": 77.072018
+      },
+      "tags": {
+        "guest_house": "student_accommodation",
+        "name": "Mens Hostel College of Engineering Munnar",
+        "operator": "College of Engineering Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370033,
+      "center": {
+        "lat": 10.0910615,
+        "lon": 77.0715735
+      },
+      "tags": {
+        "name": "Mens Hostel Mess Hall",
+        "operator": "College of Engineering Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370034,
+      "center": {
+        "lat": 10.0938465,
+        "lon": 77.0690343
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "building": "yes",
+        "name": "Ladies Hostel College of engineering Munnar",
+        "operator": "College of Engineering Munnar",
+        "tourism": "hostel",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370036,
+      "center": {
+        "lat": 10.0875014,
+        "lon": 77.0646819
+      },
+      "tags": {
+        "amenity": "restaurant",
+        "check_date": "2026-01-23",
+        "name": "Rochas Restaurant Munnar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798370038,
+      "center": {
+        "lat": 10.0911538,
+        "lon": 77.0717772
+      },
+      "tags": {
+        "guest_house": "student_accommodation",
+        "name": "Mens Hostel College of Engineering Munnar",
+        "operator": "College of Engineering Munnar",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798373951,
+      "center": {
+        "lat": 10.0405777,
+        "lon": 77.0801357
+      },
+      "tags": {
+        "name": "Oak field resort",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798373952,
+      "center": {
+        "lat": 10.0542925,
+        "lon": 77.0661583
+      },
+      "tags": {
+        "name": "Fragrant Nature",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798402538,
+      "center": {
+        "lat": 10.0308359,
+        "lon": 77.0484669
+      },
+      "tags": {
+        "addr:city": "Chithirapuarm",
+        "addr:housenumber": "Munnar Bypass, Pallivasal, Chithirapuram Powerhouse Road, Chithirapuram, Kerala",
+        "addr:postcode": "685565",
+        "building": "yes",
+        "name": "Dream Coconut Villa Resort",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798460174,
+      "center": {
+        "lat": 10.0342417,
+        "lon": 77.039348
+      },
+      "tags": {
+        "addr:city": "Chithirapuarm",
+        "addr:housenumber": "Idukki,Kerala",
+        "addr:postcode": "685565",
+        "building": "yes",
+        "name": "IB KSEB ltd",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 798471161,
+      "center": {
+        "lat": 10.0277112,
+        "lon": 77.0356587
+      },
+      "tags": {
+        "addr:city": "Anachal",
+        "addr:housenumber": "Anachal,Kerala",
+        "addr:postcode": "685565",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Sree Mahaveer resturant"
+      }
+    },
+    {
+      "type": "way",
+      "id": 800428016,
+      "center": {
+        "lat": 10.0876203,
+        "lon": 77.0686312
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "building": "yes",
+        "name": "Munnar Castle",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802237999,
+      "center": {
+        "lat": 10.020342,
+        "lon": 77.0038412
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Uncle Foods",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 802674721,
+      "center": {
+        "lat": 10.021928,
+        "lon": 77.0034193
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Rivertree And Cafe Paprika",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "way",
+      "id": 891603453,
+      "center": {
+        "lat": 10.0810052,
+        "lon": 77.0587273
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "addr:postcode": "685612",
+        "addr:street": "Anachal Road",
+        "building": "yes",
+        "guest_house": "agritourism",
+        "name": "Munnar Budget Homestay",
+        "operator": "Munnar Budget Homestay",
+        "phone": "+919562041393",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 968494067,
+      "center": {
+        "lat": 10.0243642,
+        "lon": 77.037146
+      },
+      "tags": {
+        "building": "yes",
+        "name": "Food court",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 968803167,
+      "center": {
+        "lat": 10.0208318,
+        "lon": 77.0484785
+      },
+      "tags": {
+        "building": "yes",
+        "name": "homestay",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1111930912,
+      "center": {
+        "lat": 10.0862773,
+        "lon": 77.0785415
+      },
+      "tags": {
+        "addr:street": "Grahamsland Road, Mattupetty, Munnar, Kannan Devan Hills, Kerala 682612",
+        "amenity": "cafe",
+        "building": "yes",
+        "description": "\"The 'Chai Bazaar' a retail outlet sells plantation fresh products from KDHP Co (P) Ltd. Munnar. Step in to the 'Chai Bazaar' and you would be amazed by the choice of plantation fresh products ranging from Variety of Black Teas, Green Teas, Speciality tea",
+        "name": "Ripple Tea Store and Cafe",
+        "opening_hours": "Mo-Su 09:00-19:30",
+        "outdoor_seating": "no",
+        "phone": "04868 255 480",
+        "website": "https://www.rippletea.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135626050,
+      "center": {
+        "lat": 10.0872308,
+        "lon": 77.0669821
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "building": "yes",
+        "check_date": "2023-01-28",
+        "name": "Cicily Cottages",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135626052,
+      "center": {
+        "lat": 10.0875421,
+        "lon": 77.0669525
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "addr:district": "idukki",
+        "addr:postcode": "685612",
+        "addr:street": "new colony road",
+        "building": "yes",
+        "email": "gmountbudgetstay@gmail.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "G Mount Inn",
+        "phone": "+91-9400292344",
+        "rooms": "standard budget rooms",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1135627140,
+      "center": {
+        "lat": 10.0868417,
+        "lon": 77.0617762
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "building": "yes",
+        "name": "Isaac's Residency",
+        "tourism": "hotel",
+        "website": "https://www.issacsresidency.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1169787901,
+      "center": {
+        "lat": 10.0693894,
+        "lon": 77.0666572
+      },
+      "tags": {
+        "amenity": "cafe",
+        "name": "Hydel Cafe"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1254951552,
+      "center": {
+        "lat": 10.0528214,
+        "lon": 77.0654285
+      },
+      "tags": {
+        "addr:city": "munnar",
+        "addr:postcode": "685612",
+        "addr:street": "pothamedu",
+        "description": "Pothamedu, Munnar Kerala, India General Manager Sinu G. K +91 9447091166 manager@teavalleyresort.com",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Tea Valley Resort",
+        "operator": "munnar",
+        "rooms": "1",
+        "smoking": "outside",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://www.teavalleyresort.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1352324125,
+      "center": {
+        "lat": 10.0327777,
+        "lon": 77.0420783
+      },
+      "tags": {
+        "addr:postcode": "685565",
+        "addr:street": "Near Chithirapuram Health Centre, Chithirapuram P.O., Munnar. Idukki, Kerala, India.",
+        "building": "yes",
+        "check_date": "2026-04-22",
+        "email": "info@chithirapurampalace.com",
+        "internet_access": "wlan",
+        "name": "Chithirapuram Palace",
+        "phone": "+918136933869;+919496461239;+918133685 869",
+        "self_service": "no",
+        "tourism": "hotel",
+        "website": "https://chithirapurampalaces.com/"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 15401924,
+      "center": {
+        "lat": 10.094291,
+        "lon": 77.0504976
+      },
+      "tags": {
+        "addr:city": "Munnar",
+        "alt_name:en": "Munnar Tea Museum",
+        "building": "yes",
+        "int_name": "Kannan Devan Hills Plantation Tea Museum",
+        "name": "Kannan Devan Hills Plantation Tea Museum",
+        "name:en": "KDHP Tea Museum",
+        "name:ml": "കണ്ണൻ ദേവൻ ഹിൽസ് പ്ലാൻ്റേഷൻ ചായ മ്യൂസിയം",
+        "opening_hours": "Tu-Su 09:00-17:00",
+        "phone": "+91 4868 255 000",
+        "tourism": "museum",
+        "type": "multipolygon",
+        "website": "https://www.kdhptea.com",
+        "wikidata": "Q24807588",
+        "wikipedia": "en:Munnar Tea Museum"
+      }
+    }
+  ]
+}
