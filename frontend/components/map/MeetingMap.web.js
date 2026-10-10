@@ -54,7 +54,7 @@ export default function MeetingMap({ friends, winner, onAdd, recenter }) {
     if (points.length > 1) map.current.fitBounds(L.latLngBounds(points), { paddingTopLeft: [90, 110], paddingBottomRight: [90, 120], maxZoom: 13 });
     else map.current.setView(points[0] || [10.5, 76.1], points.length ? 10 : 7);
   }, [friends, winner, recenter]);
-  return <View style={StyleSheet.absoluteFillObject}>
+  return <View style={StyleSheet.absoluteFill}>
     <div ref={element} role="region" aria-label="Interactive map of Kerala. Add friend pins by clicking, or search Kerala locations." style={{ height: '100%', width: '100%', background: '#e8e9e2', zIndex: 0 }} />
     {offline && <View style={styles.notice}><Text style={styles.text}>The map couldn’t load. You can still search for places.</Text></View>}
   </View>;

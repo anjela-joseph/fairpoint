@@ -20,6 +20,7 @@
     "dataset:import": "python scripts/import-kerala-osm.py",
     "locations:import": "python scripts/import-geonames.py",
     "locations:tidy": "node scripts/tidy-locations.mjs",
+    "map:vendor": "node scripts/vendor-map.mjs",
     "dataset:build": "node scripts/build-statewide.mjs"
   },
   "dependencies": {
