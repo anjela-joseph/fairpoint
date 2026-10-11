@@ -3,6 +3,7 @@
 const RULES = [
   [/routing key|openrouteservice key|EXPO_PUBLIC_ORS_KEY/i, /not accepted|did not accept/i, 'The routing key didn’t work. Check it, then restart the app.'],
   [/online address search needs/i, null, 'Online search needs a routing key. Saved places still work, or tap the map.'],
+  [/backup route service is busy/i, null, 'The route services are busy right now. Try again in a minute.'],
   [/routing key|openrouteservice key|EXPO_PUBLIC_ORS_KEY/i, null, 'You’ll need a routing key first. Tap “Add a routing key” above.'],
   [/limit has been reached|busy|429/i, null, 'Lots of searches right now. Try again in a minute.'],
   [/please wait/i, null, 'Give it a few seconds, then try again.'],
@@ -12,6 +13,8 @@ const RULES = [
   [/reachable by everyone|no town is reachable/i, null, 'Couldn’t find somewhere everyone can drive to. Try moving a pin closer to a road.'],
   [/distances are unavailable/i, null, 'Couldn’t get road distances. Try balancing by time instead.'],
   [/add 2–4 friends/i, null, 'Add two to four people first.'],
+  // Browsers hide the real reason when the drive-time service turns a request away (it shows up as a CORS / fetch error).
+  [/failed to fetch|network request failed|load failed|networkerror|cors/i, null, 'Couldn’t get drive times right now. The service may be busy or today’s free limit may be used up. Try again in a few minutes.'],
   [/timed out|request failed|unavailable|invalid|could not finish/i, null, 'Couldn’t reach the map service. Check your connection and try again.'],
 ];
 

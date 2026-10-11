@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { Linking } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { getTravelMatrix, hasRoutingKey } from '../../lib/routing';
+import { getDriveMatrix, hasRoutingKey } from '../../lib/routing';
 import { DEFAULT_PREFERENCES, wasVisited } from '../../lib/discovery';
 import { selectAlternative } from '../../lib/planner';
 import { candidateTowns, fairTownRows, enrichTowns, rankExperiences } from '../../lib/experience';
@@ -94,15 +94,14 @@ export default function useMeetingPlanner() {
     const controller = new AbortController(); active.current = controller;
     setLoading(true); setError(''); setNotice(''); setResult(null);
     try {
-      if (!hasRoutingKey()) throw new Error('routing key missing');
       const { candidates, area } = candidateTowns(friends, preferences);
       if (!candidates.length) throw new Error('No candidate Kerala towns');
       setProgress(MESSAGES.progressRoutes);
-      const matrix = await getTravelMatrix(friends, candidates, { signal: controller.signal });
+      const matrix = await getDriveMatrix(friends, candidates, { signal: controller.signal });
       const fair = fairTownRows(friends, candidates, matrix, preferences, visited);
       setProgress(MESSAGES.progressPlaces);
       const enriched = await enrichTowns(fair.rows, { signal: controller.signal });
-      const next = { ...rankExperiences(fair, enriched, preferences), area };
+      const next = { ...rankExperiences(fair, enriched, preferences), area, routingSource: matrix.source };
       if (active.current === controller && !controller.signal.aborted) setResult(next);
     } catch (err) {
       if (active.current === controller && !controller.signal.aborted) setError(friendly(err));

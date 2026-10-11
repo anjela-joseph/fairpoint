@@ -9,7 +9,7 @@ export default function SetupDialog({ onClose, onOpen }) {
   return <Dialog title="Add a routing key" onClose={onClose}>
     <Text style={s.text}>Drive times come from openrouteservice. Get a free key, copy .env.example to .env in the project folder, and add this line:</Text>
     <Text selectable style={s.code}>EXPO_PUBLIC_ORS_KEY=your_key</Text>
-    <Text style={s.text}>Then restart with npx expo start -c. Searching saved places works without a key.</Text>
+    <Text style={s.text}>Then restart with npx expo start -c. Without a key, Fairpoint uses the free OSRM service for drive times, which is fine for occasional use.</Text>
     <Button primary label="Get a free key" icon="arrow-up-right" onPress={() => onOpen('https://openrouteservice.org/dev/#/signup')} />
   </Dialog>;
 }

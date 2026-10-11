@@ -3,10 +3,10 @@ import { Pressable, StyleSheet, Text } from 'react-native';
 import Icon from '../common/Icon';
 import { C, F, R } from '../../theme';
 
-// Shown when EXPO_PUBLIC_ORS_KEY is missing.
+// Shown when EXPO_PUBLIC_ORS_KEY is missing. The app still works using the backup route service.
 export default function RoutingKeyNotice({ onPress }) {
   return <Pressable accessibilityRole="button" onPress={onPress} style={s.note}>
-    <Text style={s.text}>Add a routing key to start</Text>
+    <Text style={s.text}>Using the free backup route service. Add a routing key for steadier results.</Text>
     <Icon name="arrow-up-right" size={18} color={C.ink} />
   </Pressable>;
 }

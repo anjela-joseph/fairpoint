@@ -42,7 +42,7 @@ export default function OutingResults({ result, friends, mode, onOpen, onSelect,
     <NearbyPlaces winner={winner} activities={preferences.activities} onOpen={onOpen} />
     {live && <Attractions town={winner} onOpen={onOpen} />}
 
-    <Text style={s.footnote}>Map data © <Text accessibilityRole="link" style={s.link} onPress={() => onOpen('https://www.openstreetmap.org/copyright')}>OpenStreetMap contributors</Text> (ODbL). Drive times from openrouteservice, without traffic.</Text>
+    <Text style={s.footnote}>Map data © <Text accessibilityRole="link" style={s.link} onPress={() => onOpen('https://www.openstreetmap.org/copyright')}>OpenStreetMap contributors</Text> (ODbL). Drive times from {result.routingSource === 'osrm' ? 'OSRM (backup service)' : 'openrouteservice'}, without traffic.</Text>
   </View>;
 }
 
