@@ -3,7 +3,7 @@
     "name": "Fair Meeting Point",
     "slug": "fair-meeting-point",
     "experiments": {
-      "baseUrl": "/fairpoint."
+      "baseUrl": "/fairpoint"
     },
     "version": "1.0.0",
     "orientation": "default",
